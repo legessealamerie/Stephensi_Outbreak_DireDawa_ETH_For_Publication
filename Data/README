@@ -1,1 +1,9 @@
+## Discription of data and code usage 
 
+Figure 1 A and B (Main text)-"Secondary_data_DHIS2.csv" & "model_output_from_GLMM.csv" &"Case_category_data.csv" & "Figure 1A and 1B.pzf"
+Table 1 (Main text)- "dd_cc_individual_data.csv"&"Table1_Fig1B_GLMM_analysis.R"
+Table S1 (Extended file)-"Secondary_data_dd.csv"
+Table S2 (Extended file)-"dd_cc_individual_data.csv" &"HH_level_entomology_data.csv" &"TableS2_S5_summaryStatistics_CaseControl.R"
+Figure S2 (Extended file)-"Secondary_data_dd.csv" & "FigS2_timeseries_plot.R"
+Table S5 (Extended file)-"dd_cc_individual_data.csv" &"TableS2_S5_summaryStatistics_CaseControl.R"
+Table S3 & S4 (Extended file)-"HH_level_entomology_data.csv" &"Table S3.csv"& "Table S4.csv"
