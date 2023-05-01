@@ -1,7 +1,7 @@
-### Figure 2D and 2E
+### Analysis code used in the paper for table output and figures
 
-To generate the figures, run the following
+To generate the tables and figures, run the following
 
 ```
-Rscript initialize_data.R && Rscript filter_data.R && Rscript run_dcifer.R && Rscript fig2D.R && Rscript fig2E_data.R
+All script in this folder 
 ```
