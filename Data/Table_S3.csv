@@ -1,0 +1,46 @@
+Summary: Immature Anopheles mosquitoes collected during the case control study within 100 meter radius around the case and control households,,,,,,,Species identified,,,,
+S.N,HH ID,Case Category,Site,In/Out side tested HH,Collection date,Habitat type,An. stephensi,An. gambiae s.l.,An. pretoriensis,An. turkhudi,Anoph Number identified
+1,DDIC-004,Index,Goro,Out side,3/31/2022,Plastic barrel,5,0,0,0,5
+2,DDIC-005,Index,Goro,Out side ,4/1/2022,Stream edge,29,25,0,0,54
+3,DDIC-C2-003,Control,Goro,Out side,4/3/2022,Stream edge,5,6,11,5,27
+4,DDIC-006,Index,Goro,Out side ,4/4/2022,Stream edge,35,8,9,3,55
+5,DDIC-C2-005,Control,Goro,Out side,4/5/2022,Stream edge,20,19,5,0,44
+6,DDIC-008,Index,Goro,Out side ,4/6/2022,Stream edge,11,1,0,0,12
+7,DDIC-009,Index,Goro,Out side ,4/7/2022,Stream edge ,45,2,3,0,50
+8,DDIC-012,Index,Goro,Out side,4/8/2022,Stream edge,6,6,13,3,28
+9,DDIC-013,Index,Goro,Out side,4/11/2022,Stream edge,4,0,1,0,5
+10,Outside,Outside,DDU,Out side,16-04-2022 and 21/04/2022,Water treatment pond,101,0,0,0,101
+11,DDUIC-001,Index,DDU,Out side,4/16/2022,Plastic barrel,15,0,0,0,15
+12,DDUIC-002,Index,DDU,Out side,4/16/2022,Plastic barrel,2,0,0,0,2
+13,DDUIC-002,Index,DDU,Out side,4/19/2022,Ditch (Water leaked),36,0,0,0,36
+14,DDUIC-C1-003,Control,DDU,Out side,4/19/2022,Plastic drum (roto),16,0,0,0,16
+16,DDUIC-C2-006,Index,DDU,Out side ,4/30/2022,Plastic barrel,11,0,0,0,11
+18,DDIC-C3-030,Control,Goro,Out side,5/12/2022,Cistern ,23,0,0,0,23
+19,DDUIC-012,Index,DDU,Out side,5/12/2022,Plastic barrel,119,0,0,0,119
+20,DDUIC-C1-012,Control,DDU,Out side,5/12/2022,Plastic barrel ,10,0,0,0,10
+21,DDUIC-013,Index,DDU,Out side,5/12/2022,Plastic barrel,18,0,0,0,18
+22,DDUIC-C2-013,Control,DDU,Out side,5/12/2022,Plastic barrel (b/n TA &WF),10,0,0,0,10
+23,DDUIC-014,Index,DDU,Out side,5/14/2022,Plastic barrel (WE),12,0,0,0,12
+24,DDUIC-C2-015,Control,DDU,Out side,5/18/2022,Plastic barrel (WB),20,0,0,0,20
+25,DDUIC-018,Index,DDU,Out side,5/18/2022,Plastic barrel (WH),4,0,0,0,4
+26,DDUIC-015,Index,DDU,Out side,5/18/2022,Plastic barrel,6,0,0,0,6
+27,DDIC-C2-039,Control,Goro,Out side,5/20/2022,Metal barrel,6,0,0,0,6
+28,DDIC-C3-038,Control,Goro,Out side ,5/20/2022,Stream edge,5,0,0,0,5
+,,,,,,,574,67,42,11,694
+,,,,,,,,,,,
+,,,,,,,,,,,
+Table S3: Immature Anopheles mosquitoes collected during the case control study within 100 meter radius around the case and control households,,,,,,,,,,,
+Habitat,"Anopheles positive habitats, %(n/N)", Number of HHs,An. stephensi,An. gambiae s.l.,An. pretoriensis,An. turkudi,,,,,
+Cemented cistern,25.0% (1/4),1,23,0,0,0,,,,,
+Metal barrel,1.2.0% (1/86),1,6,0,0,0,,,,,
+Plastic Drum (Roto),3.7% (1/27),1,16,0,0,0,,,,,
+Plastic barrel,5.0% (12/238),12,230,0,0,0,,,,,
+Stream,52.9% (9/17),9,160,67,42,11,,,,,
+Ditch (Water leak),100% (1/1),1,38,0,0,0,,,,,
+Jarkan,0.0%(0/504),0,0,0,0,0,,,,,
+Water treatment plant,100% (1/1),Outside House,101,0,0,0,,,,,
+Total,,25,574,67,42,11,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

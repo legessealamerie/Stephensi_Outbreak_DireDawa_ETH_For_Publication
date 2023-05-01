@@ -1,0 +1,953 @@
+idhh,idindividual,site,larvaepos,adultpos,Latitude,Longitude,An. Stephensi pos
+DDIC-001-C1,DDIC-001-C1-F01,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C1,DDIC-001-C1-F02,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C1,DDIC-001-C1-F03,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C1,DDIC-001-C1-F04,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C1,DDIC-001-C1-F05,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C1,DDIC-001-C1-F06,DD City,Negative,Negative,811674,1061627,Negative
+DDIC-001-C2,DDIC-001-C2-F01,DD City,Negative,Negative,812382,1061168,Negative
+DDIC-001-C2,DDIC-001-C2-F02,DD City,Negative,Negative,812382,1061168,Negative
+DDIC-001-C2,DDIC-001-C2-F03,DD City,Negative,Negative,812382,1061168,Negative
+DDIC-001-C3,DDIC-001-C3-F01,DD City,Negative,Negative,807900,1064949,Negative
+DDIC-001-C3,DDIC-001-C3-F02,DD City,Negative,Negative,807900,1064949,Negative
+DDIC-001,DDIC-001-F01,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F02,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F03,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F04,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F05,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F06,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F07,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-001,DDIC-001-F08,DD City,Negative,Negative,812143,1061910,Negative
+DDIC-002-C1,DDIC-002-C1-F01,DD City,Negative,Negative,811723,1062491,Negative
+DDIC-002-C1,DDIC-002-C1-F02,DD City,Negative,Negative,811723,1062491,Negative
+DDIC-002-C1,DDIC-002-C1-F03,DD City,Negative,Negative,811723,1062491,Negative
+DDIC-002-C2,DDIC-002-C2-F01,DD City,Negative,Negative,812501,1062387,Negative
+DDIC-002-C2,DDIC-002-C2-F02,DD City,Negative,Negative,812501,1062387,Negative
+DDIC-002-C2,DDIC-002-C2-F03,DD City,Negative,Negative,812501,1062387,Negative
+DDIC-002-C2,DDIC-002-C2-F04,DD City,Negative,Negative,812501,1062387,Negative
+DDIC-002,DDIC-002-F01,DD City,Negative,Negative,812405,1061386,Negative
+DDIC-002,DDIC-002-F02,DD City,Negative,Negative,812405,1061386,Negative
+DDIC-002,DDIC-002-F03,DD City,Negative,Negative,812405,1061386,Negative
+DDIC-002,DDIC-002-F04,DD City,Negative,Negative,812405,1061386,Negative
+DDIC-003-C1,DDIC-003-C1-F01,DD City,Negative,Negative,812048,1062054,Negative
+DDIC-003-C1,DDIC-003-C1-F02,DD City,Negative,Negative,812048,1062054,Negative
+DDIC-003-C1,DDIC-003-C1-F03,DD City,Negative,Negative,812048,1062054,Negative
+DDIC-003-C2,DDIC-003-C2-F01,DD City,Positive,Negative,812295,1062237,Positive
+DDIC-003-C3,DDIC-003-C3-F01,DD City,Negative,Negative,812372,1061176,Negative
+DDIC-003-C3,DDIC-003-C3-F02,DD City,Negative,Negative,812372,1061176,Negative
+DDIC-003-C3,DDIC-003-C3-F03,DD City,Negative,Negative,812372,1061176,Negative
+DDIC-003-C3,DDIC-003-C3-F04,DD City,Negative,Negative,812372,1061176,Negative
+DDIC-003,DDIC-003-F01,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F02,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F03,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F04,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F05,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F06,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-003,DDIC-003-F07,DD City,Negative,Negative,812165,1061924,Negative
+DDIC-004-C1,DDIC-004-C1-F01,DD City,Negative,Negative,812377,1062213,Negative
+DDIC-004-C1,DDIC-004-C1-F02,DD City,Negative,Negative,812377,1062213,Negative
+DDIC-004-C1,DDIC-004-C1-F03,DD City,Negative,Negative,812377,1062213,Negative
+DDIC-004-C1,DDIC-004-C1-F04,DD City,Negative,Negative,812377,1062213,Negative
+DDIC-004-C2,DDIC-004-C2-F01,DD City,Negative,Negative,812099,1061654,Negative
+DDIC-004-C2,DDIC-004-C2-F02,DD City,Negative,Negative,812099,1061654,Negative
+DDIC-004-C2,DDIC-004-C2-F03,DD City,Negative,Negative,812099,1061654,Negative
+DDIC-004-C2,DDIC-004-C2-F04,DD City,Negative,Negative,812099,1061654,Negative
+DDIC-004-C2,DDIC-004-C2-F05,DD City,Negative,Negative,812099,1061654,Negative
+DDIC-004-C3,DDIC-004-C3-F01,DD City,Negative,Negative,812319,1061131,Negative
+DDIC-004-C3,DDIC-004-C3-F02,DD City,Negative,Negative,812319,1061131,Negative
+DDIC-004-C3,DDIC-004-C3-F03,DD City,Negative,Negative,812319,1061131,Negative
+DDIC-004,DDIC-004-F01,DD City,Positive,Negative,812023,1061833,Positive
+DDIC-004,DDIC-004-F02,DD City,Positive,Negative,812023,1061833,Positive
+DDIC-005-C1,DDIC-005-C1-F01,DD City,Negative,Negative,812307,1062237,Negative
+DDIC-005-C2,DDIC-005-C2-F01,DD City,Positive,Negative,812218,1061708,Positive
+DDIC-005-C2,DDIC-005-C2-F02,DD City,Positive,Negative,812218,1061708,Positive
+DDIC-005-C2,DDIC-005-C2-F03,DD City,Positive,Negative,812218,1061708,Positive
+DDIC-005-C2,DDIC-005-C2-F04,DD City,Positive,Negative,812218,1061708,Positive
+DDIC-005-C3,DDIC-005-C3-F01,DD City,Negative,Negative,811263,1061738,Negative
+DDIC-005,DDIC-005-F01,DD City,Positive,Negative,812292,1062203,Positive
+DDIC-005,DDIC-005-F02,DD City,Positive,Negative,812292,1062203,Positive
+DDIC-005,DDIC-005-F03,DD City,Positive,Negative,812292,1062203,Positive
+DDIC-005,DDIC-005-F04,DD City,Positive,Negative,812292,1062203,Positive
+DDIC-005,DDIC-005-F05,DD City,Positive,Negative,812292,1062203,Positive
+DDIC-006-C1,DDIC-006-C1-F01,DD City,Negative,Negative,812116,1061645,Negative
+DDIC-006-C2,DDIC-006-C2-F01,DD City,Negative,Negative,812033,1061877,Negative
+DDIC-006-C2,DDIC-006-C2-F02,DD City,Negative,Negative,812033,1061877,Negative
+DDIC-006-C2,DDIC-006-C2-F03,DD City,Negative,Negative,812033,1061877,Negative
+DDIC-006-C3,DDIC-006-C3-F01,DD City,Negative,Negative,811393,1061177,Negative
+DDIC-006,DDIC-006-F01,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-006,DDIC-006-F02,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-006,DDIC-006-F03,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-006,DDIC-006-F04,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-006,DDIC-006-F05,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-006,DDIC-006-F06,DD City,Positive,Positive,812146,1062031,Positive
+DDIC-007-C1,DDIC-007-C1-F01,DD City,Negative,Negative,811679,1061924,Negative
+DDIC-007-C1,DDIC-007-C1-F02,DD City,Negative,Negative,811679,1061924,Negative
+DDIC-007-C1,DDIC-007-C1-F03,DD City,Negative,Negative,811679,1061924,Negative
+DDIC-007-C1,DDIC-007-C1-F04,DD City,Negative,Negative,811679,1061924,Negative
+DDIC-007-C2,DDIC-007-C2-F01,DD City,Negative,Negative,812669,1062735,Negative
+DDIC-007-C2,DDIC-007-C2-F02,DD City,Negative,Negative,812669,1062735,Negative
+DDIC-007-C2,DDIC-007-C2-F03,DD City,Negative,Negative,812669,1062735,Negative
+DDIC-007-C2,DDIC-007-C2-F04,DD City,Negative,Negative,812669,1062735,Negative
+DDIC-007-C3,DDIC-007-C3-F01,DD City,Negative,Negative,812254,1062475,Negative
+DDIC-007-C3,DDIC-007-C3-F02,DD City,Negative,Negative,812254,1062475,Negative
+DDIC-007-C3,DDIC-007-C3-F03,DD City,Negative,Negative,812254,1062475,Negative
+DDIC-007-C3,DDIC-007-C3-F04,DD City,Negative,Negative,812254,1062475,Negative
+DDIC-007,DDIC-007-F01,DD City,Negative,Negative,812173,1061743,Negative
+DDIC-007,DDIC-007-F02,DD City,Negative,Negative,812173,1061743,Negative
+DDIC-007,DDIC-007-F03,DD City,Negative,Negative,812173,1061743,Negative
+DDIC-008-C1,DDIC-008-C1-F01,DD City,Negative,Negative,812071,1061682,Negative
+DDIC-008-C2,DDIC-008-C2-F01,DD City,Negative,Negative,812472,1062368,Negative
+DDIC-008-C2,DDIC-008-C2-F02,DD City,Negative,Negative,812472,1062368,Negative
+DDIC-008-C3,DDIC-008-C3-F01,DD City,Negative,Negative,811893,1062162,Negative
+DDIC-008-C3,DDIC-008-C3-F02,DD City,Negative,Negative,811893,1062162,Negative
+DDIC-008,DDIC-008-F01,DD City,Positive,Negative,812601,1062304,Positive
+DDIC-008,DDIC-008-F02,DD City,Positive,Negative,812601,1062304,Positive
+DDIC-008,DDIC-008-F03,DD City,Positive,Negative,812601,1062304,Positive
+DDIC-008,DDIC-008-F04,DD City,Positive,Negative,812601,1062304,Positive
+DDIC-009-C1,DDIC-009-C1-F01,DD City,Negative,Negative,811856,1062264,Negative
+DDIC-009-C1,DDIC-009-C1-F02,DD City,Negative,Negative,811856,1062264,Negative
+DDIC-009-C1,DDIC-009-C1-F03,DD City,Negative,Negative,811856,1062264,Negative
+DDIC-009-C2,DDIC-009-C2-F01,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F02,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F03,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F04,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F05,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F06,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C2,DDIC-009-C2-F07,DD City,Negative,Negative,811654,1061641,Negative
+DDIC-009-C3,DDIC-009-C3-F01,DD City,Negative,Negative,812751,1063454,Negative
+DDIC-009-C3,DDIC-009-C3-F02,DD City,Negative,Negative,812751,1063454,Negative
+DDIC-009,DDIC-009-F01,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-009,DDIC-009-F02,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-009,DDIC-009-F03,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-009,DDIC-009-F04,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-009,DDIC-009-F05,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-009,DDIC-009-F06,DD City,Positive,Negative,812183,1061820,Positive
+DDIC-010-C1,DDIC-010-C1-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-010-C2,DDIC-010-C2-F01,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C2,DDIC-010-C2-F02,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C2,DDIC-010-C2-F03,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C2,DDIC-010-C2-F04,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C2,DDIC-010-C2-F05,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C2,DDIC-010-C2-F06,DD City,Negative,Negative,811842,1062200,Negative
+DDIC-010-C3,DDIC-010-C3-F01,DD City,Negative,Negative,811552,1061743,Negative
+DDIC-010-C3,DDIC-010-C3-F02,DD City,Negative,Negative,811552,1061743,Negative
+DDIC-010-C3,DDIC-010-C3-F03,DD City,Negative,Negative,811552,1061743,Negative
+DDIC-010-C3,DDIC-010-C3-F04,DD City,Negative,Negative,811552,1061743,Negative
+DDIC-010,DDIC-010-F01,DD City,Negative,Negative,812088,1062015,Negative
+DDIC-010,DDIC-010-F02,DD City,Negative,Negative,812088,1062015,Negative
+DDIC-010,DDIC-010-F03,DD City,Negative,Negative,812088,1062015,Negative
+DDIC-010,DDIC-010-F04,DD City,Negative,Negative,812088,1062015,Negative
+DDIC-011-C1,DDIC-011-C1-F01,DD City,Negative,Negative,812166,1061692,Negative
+DDIC-011-C1,DDIC-011-C1-F02,DD City,Negative,Negative,812166,1061692,Negative
+DDIC-011-C1,DDIC-011-C1-F03,DD City,Negative,Negative,812166,1061692,Negative
+DDIC-011-C1,DDIC-011-C1-F04,DD City,Negative,Negative,812166,1061692,Negative
+DDIC-011-C2,DDIC-011-C2-F01,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C2,DDIC-011-C2-F02,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C2,DDIC-011-C2-F03,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C2,DDIC-011-C2-F04,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C2,DDIC-011-C2-F05,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C2,DDIC-011-C2-F06,DD City,Negative,Negative,811748,1061704,Negative
+DDIC-011-C3,DDIC-011-C3-F01,DD City,Negative,Negative,811887,1061782,Negative
+DDIC-011-C3,DDIC-011-C3-F02,DD City,Negative,Negative,811887,1061782,Negative
+DDIC-011-C3,DDIC-011-C3-F03,DD City,Negative,Negative,811887,1061782,Negative
+DDIC-011-C3,DDIC-011-C3-F04,DD City,Negative,Negative,811887,1061782,Negative
+DDIC-011,DDIC-011-F01,DD City,Negative,Negative,8127670,1062582,Negative
+DDIC-011,DDIC-011-F02,DD City,Negative,Negative,8127670,1062582,Negative
+DDIC-012-C1,DDIC-012-C1-F01,DD City,Negative,Positive,811923,1061844,Negative
+DDIC-012-C1,DDIC-012-C1-F02,DD City,Negative,Positive,811923,1061844,Negative
+DDIC-012-C1,DDIC-012-C1-F03,DD City,Negative,Positive,811923,1061844,Negative
+DDIC-012,DDIC-012-F01,DD City,Positive,Negative,812356,1061149,Positive
+DDIC-012,DDIC-012-F02,DD City,Positive,Negative,812356,1061149,Positive
+DDIC-013-C1,DDIC-013-C1-F01,DD City,Negative,Negative,811903,1062146,Negative
+DDIC-013-C1,DDIC-013-C1-F02,DD City,Negative,Negative,811903,1062146,Negative
+DDIC-013-C1,DDIC-013-C1-F03,DD City,Negative,Negative,811903,1062146,Negative
+DDIC-013-C1,DDIC-013-C1-F04,DD City,Negative,Negative,811903,1062146,Negative
+DDIC-013-C1,DDIC-013-C1-F05,DD City,Negative,Negative,811903,1062146,Negative
+DDIC-013-C2,DDIC-013-C2-F01,DD City,Negative,Negative,810545,1061747,Negative
+DDIC-013-C2,DDIC-013-C2-F02,DD City,Negative,Negative,810545,1061747,Negative
+DDIC-013-C2,DDIC-013-C2-F03,DD City,Negative,Negative,810545,1061747,Negative
+DDIC-013-C2,DDIC-013-C2-F04,DD City,Negative,Negative,810545,1061747,Negative
+DDIC-013-C3,DDIC-013-C3-F01,DD City,Negative,Negative,813169,1063769,Negative
+DDIC-013-C3,DDIC-013-C3-F02,DD City,Negative,Negative,813169,1063769,Negative
+DDIC-013,DDIC-013-F01,DD City,Positive,Negative,812401,1061481,Positive
+DDIC-013,DDIC-013-F02,DD City,Positive,Negative,812401,1061481,Positive
+DDIC-013,DDIC-013-F03,DD City,Positive,Negative,812401,1061481,Positive
+DDIC-014-C1,DDIC-014-C1-F01,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-014-C1,DDIC-014-C1-F02,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-014-C2,DDIC-014-C2-F01,DD City,Negative,Negative,811789,1061394,Negative
+DDIC-014-C2,DDIC-014-C2-F02,DD City,Negative,Negative,811789,1061394,Negative
+DDIC-014-C2,DDIC-014-C2-F03,DD City,Negative,Negative,811789,1061394,Negative
+DDIC-014-C3,DDIC-014-C3-F01,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-014,DDIC-014-F01,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-014,DDIC-014-F02,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-014,DDIC-014-F03,DD City,Negative,Negative,NA,NA,Negative
+DDIC-014,DDIC-014-F04,DD City,Negative,Negative,811298,1062260,Negative
+DDIC-015-C1,DDIC-015-C1-F01,DD City,Negative,Negative,809101,1062797,Negative
+DDIC-015-C1,DDIC-015-C1-F02,DD City,Negative,Negative,809101,1062797,Negative
+DDIC-015-C2,DDIC-015-C2-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-015-C2,DDIC-015-C2-F02,DD City,Negative,Negative,NA,NA,Negative
+DDIC-015-C3,DDIC-015-C3-F01,DD City,Negative,Negative,811818,1062783,Negative
+DDIC-015-C3,DDIC-015-C3-F02,DD City,Negative,Negative,811818,1062783,Negative
+DDIC-015-C3,DDIC-015-C3-F03,DD City,Negative,Negative,811818,1062783,Negative
+DDIC-015,DDIC-015-F01,DD City,Negative,Negative,811912,1061800,Negative
+DDIC-015,DDIC-015-F02,DD City,Negative,Negative,811912,1061800,Negative
+DDIC-015,DDIC-015-F03,DD City,Negative,Negative,811912,1061800,Negative
+DDIC-015,DDIC-015-F04,DD City,Negative,Negative,811912,1061800,Negative
+DDIC-016-C1,DDIC-016-C1-F01,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F02,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F03,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F04,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F05,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F06,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016-C1,DDIC-016-C1-F07,DD City,Negative,Negative,812162,1061683,Negative
+DDIC-016,DDIC-016-F01,DD City,Negative,Negative,812554,1062295,Negative
+DDIC-017-C1,DDIC-017-C1-F01,DD City,Negative,Negative,811485,1061983,Negative
+DDIC-017-C1,DDIC-017-C1-F02,DD City,Negative,Negative,811485,1061983,Negative
+DDIC-017-C2,DDIC-017-C2-F01,DD City,Negative,Negative,811239,1061942,Negative
+DDIC-017-C2,DDIC-017-C2-F02,DD City,Negative,Negative,811239,1061942,Negative
+DDIC-017-C2,DDIC-017-C2-F03,DD City,Negative,Negative,811239,1061942,Negative
+DDIC-017-C2,DDIC-017-C2-F04,DD City,Negative,Negative,811239,1061942,Negative
+DDIC-017-C3,DDIC-017-C3-F01,DD City,Negative,Negative,812165,1063057,Negative
+DDIC-017-C3,DDIC-017-C3-F02,DD City,Negative,Negative,812165,1063057,Negative
+DDIC-017-C3,DDIC-017-C3-F03,DD City,Negative,Negative,812165,1063057,Negative
+DDIC-017,DDIC-017-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-017,DDIC-017-F02,DD City,Negative,Negative,NA,NA,Negative
+DDIC-018-C1,DDIC-018-C1-F01,DD City,Negative,Negative,812224,1061591,Negative
+DDIC-018-C2,DDIC-018-C2-F01,DD City,Negative,Negative,810210,1062852,Negative
+DDIC-018-C2,DDIC-018-C2-F02,DD City,Negative,Negative,810210,1062852,Negative
+DDIC-018-C2,DDIC-018-C2-F03,DD City,Negative,Negative,810210,1062852,Negative
+DDIC-018-C2,DDIC-018-C2-F04,DD City,Negative,Negative,810210,1062852,Negative
+DDIC-018-C2,DDIC-018-C2-F05,DD City,Negative,Negative,810210,1062852,Negative
+DDIC-018-C3,DDIC-018-C3-F01,DD City,Negative,Negative,811768,1061760,Negative
+DDIC-018-C3,DDIC-018-C3-F02,DD City,Negative,Negative,811768,1061760,Negative
+DDIC-018-C3,DDIC-018-C3-F03,DD City,Negative,Negative,811768,1061760,Negative
+DDIC-018-C3,DDIC-018-C3-F04,DD City,Negative,Negative,811768,1061760,Negative
+DDIC-018-C3,DDIC-018-C3-F05,DD City,Negative,Negative,811768,1061760,Negative
+DDIC-018,DDIC-018-F01,DD City,Negative,Negative,812545,1062064,Negative
+DDIC-018,DDIC-018-F02,DD City,Negative,Negative,812545,1062064,Negative
+DDIC-018,DDIC-018-F03,DD City,Negative,Negative,812545,1062064,Negative
+DDIC-019-C1,DDIC-019-C1-F01,DD City,Negative,Negative,810273,1061934,Negative
+DDIC-019-C1,DDIC-019-C1-F02,DD City,Negative,Negative,810273,1061934,Negative
+DDIC-019-C1,DDIC-019-C1-F03,DD City,Negative,Negative,810273,1061934,Negative
+DDIC-019-C1,DDIC-019-C1-F04,DD City,Negative,Negative,810273,1061934,Negative
+DDIC-019-C1,DDIC-019-C1-F05,DD City,Negative,Negative,810273,1061934,Negative
+DDIC-019-C2,DDIC-019-C2-F01,DD City,Negative,Negative,811942,1061736,Negative
+DDIC-019-C2,DDIC-019-C2-F02,DD City,Negative,Negative,811942,1061736,Negative
+DDIC-019-C2,DDIC-019-C2-F03,DD City,Negative,Negative,811942,1061736,Negative
+DDIC-019-C2,DDIC-019-C2-F04,DD City,Negative,Negative,811942,1061736,Negative
+DDIC-019-C3,DDIC-019-C3-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-019,DDIC-019-F01,DD City,Negative,Negative,812140,1061797,Negative
+DDIC-019,DDIC-019-F02,DD City,Negative,Negative,812140,1061797,Negative
+DDIC-019,DDIC-019-F03,DD City,Negative,Negative,812140,1061797,Negative
+DDIC-020-C1,DDIC-020-C1-F01,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F02,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F03,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F04,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F05,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F06,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020-C1,DDIC-020-C1-F07,DD City,Negative,Negative,811184,1062882,Negative
+DDIC-020,DDIC-020-F01,DD City,Negative,Negative,812448,1061446,Negative
+DDIC-021-C1,DDIC-021-C1-F01,DD City,Negative,Negative,811489,1062208,Negative
+DDIC-021-C1,DDIC-021-C1-F02,DD City,Negative,Negative,811489,1062208,Negative
+DDIC-021-C1,DDIC-021-C1-F03,DD City,Negative,Negative,811489,1062208,Negative
+DDIC-021-C2,DDIC-021-C2-F01,DD City,Negative,Negative,812230,1063518,Negative
+DDIC-021-C2,DDIC-021-C2-F02,DD City,Negative,Negative,812230,1063518,Negative
+DDIC-021,DDIC-021-F01,DD City,Negative,Negative,812453,1062212,Negative
+DDIC-021,DDIC-021-F02,DD City,Negative,Negative,812453,1062212,Negative
+DDIC-021,DDIC-021-F03,DD City,Negative,Negative,812453,1062212,Negative
+DDIC-021,DDIC-021-F04,DD City,Negative,Negative,812453,1062212,Negative
+DDIC-022-C1,DDIC-022-C1-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-022-C2,DDIC-022-C2-F01,DD City,Negative,Negative,811537,1062087,Negative
+DDIC-022-C3,DDIC-022-C3-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-022-C3,DDIC-022-C3-F02,DD City,Negative,Negative,NA,NA,Negative
+DDIC-022-C3,DDIC-022-C3-F03,DD City,Negative,Negative,NA,NA,Negative
+DDIC-022,DDIC-022-F01,DD City,Negative,Negative,814348,1058652,Negative
+DDIC-022,DDIC-022-F02,DD City,Negative,Negative,814348,1058652,Negative
+DDIC-023-C1,DDIC-023-C1-F01,DD City,Negative,Negative,811708,1061752,Negative
+DDIC-023-C1,DDIC-023-C1-F02,DD City,Negative,Negative,811708,1061752,Negative
+DDIC-023-C1,DDIC-023-C1-F03,DD City,Negative,Negative,811708,1061752,Negative
+DDIC-023-C1,DDIC-023-C1-F04,DD City,Negative,Negative,811708,1061752,Negative
+DDIC-023-C2,DDIC-023-C2-F01,DD City,Negative,Negative,810502,1062541,Negative
+DDIC-023-C2,DDIC-023-C2-F02,DD City,Negative,Negative,810502,1062541,Negative
+DDIC-023-C2,DDIC-023-C2-F03,DD City,Negative,Negative,810502,1062541,Negative
+DDIC-023-C2,DDIC-023-C2-F04,DD City,Negative,Negative,810502,1062541,Negative
+DDIC-023-C2,DDIC-023-C2-F05,DD City,Negative,Negative,810502,1062541,Negative
+DDIC-023-C3,DDIC-023-C3-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-023,DDIC-023-F01,DD City,Negative,Negative,812889,1062757,Negative
+DDIC-023,DDIC-023-F02,DD City,Negative,Negative,812889,1062757,Negative
+DDIC-023,DDIC-023-F03,DD City,Negative,Negative,812889,1062757,Negative
+DDIC-024-C1,DDIC-024-C1-F01,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F02,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F03,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F04,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F05,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F06,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C1,DDIC-024-C1-F07,DD City,Negative,Negative,812227,1061859,Negative
+DDIC-024-C2,DDIC-024-C2-F01,DD City,Negative,Negative,808722,1063330,Negative
+DDIC-024,DDIC-024-F01,DD City,Negative,Negative,812590,1062146,Negative
+DDIC-024,DDIC-024-F02,DD City,Negative,Negative,812590,1062146,Negative
+DDIC-025-C1,DDIC-025-C1-F01,DD City,Negative,Negative,812421,1061116,Negative
+DDIC-025-C1,DDIC-025-C1-F02,DD City,Negative,Negative,812421,1061116,Negative
+DDIC-025-C1,DDIC-025-C1-F03,DD City,Negative,Negative,812421,1061116,Negative
+DDIC-025-C1,DDIC-025-C1-F04,DD City,Negative,Negative,812421,1061116,Negative
+DDIC-025-C1,DDIC-025-C1-F05,DD City,Negative,Negative,812421,1061116,Negative
+DDIC-025-C2,DDIC-025-C2-F01,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C2,DDIC-025-C2-F02,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C2,DDIC-025-C2-F03,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C2,DDIC-025-C2-F04,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C2,DDIC-025-C2-F05,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C2,DDIC-025-C2-F06,DD City,Negative,Negative,811511,1062139,Negative
+DDIC-025-C3,DDIC-025-C3-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-025,DDIC-025-F01,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-025,DDIC-025-F02,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-025,DDIC-025-F03,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-025,DDIC-025-F04,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-025,DDIC-025-F05,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-025,DDIC-025-F06,DD City,Negative,Negative,812407,1065433,Negative
+DDIC-026-C1,DDIC-026-C1-F01,DD City,Negative,Negative,812415,1061416,Negative
+DDIC-026-C1,DDIC-026-C1-F02,DD City,Negative,Negative,812415,1061416,Negative
+DDIC-026-C2,DDIC-026-C2-F01,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F02,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F03,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F04,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F05,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F06,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F07,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C2,DDIC-026-C2-F08,DD City,Negative,Negative,810177,1062855,Negative
+DDIC-026-C3,DDIC-026-C3-F01,DD City,Negative,Negative,811594,1061853,Negative
+DDIC-026-C3,DDIC-026-C3-F02,DD City,Negative,Negative,811594,1061853,Negative
+DDIC-026-C3,DDIC-026-C3-F03,DD City,Negative,Negative,811594,1061853,Negative
+DDIC-026,DDIC-026-F01,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-026,DDIC-026-F02,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-026,DDIC-026-F03,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-026,DDIC-026-F04,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-026,DDIC-026-F05,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-026,DDIC-026-F06,DD City,Negative,Negative,812365,1062164,Negative
+DDIC-027-C1,DDIC-027-C1-F01,DD City,Negative,Negative,812721,1062565,Negative
+DDIC-027-C1,DDIC-027-C1-F02,DD City,Negative,Negative,812721,1062565,Negative
+DDIC-027-C1,DDIC-027-C1-F03,DD City,Negative,Negative,812721,1062565,Negative
+DDIC-027-C2,DDIC-027-C2-F01,DD City,Negative,Negative,812755,1062787,Negative
+DDIC-027-C2,DDIC-027-C2-F02,DD City,Negative,Negative,812755,1062787,Negative
+DDIC-027-C2,DDIC-027-C2-F03,DD City,Negative,Negative,812755,1062787,Negative
+DDIC-027-C2,DDIC-027-C2-F04,DD City,Negative,Negative,812755,1062787,Negative
+DDIC-027,DDIC-027-F01,DD City,Negative,Negative,811625,1061749,Negative
+DDIC-028-C1,DDIC-028-C1-F01,DD City,Negative,Negative,812334,1062318,Negative
+DDIC-028-C1,DDIC-028-C1-F02,DD City,Negative,Negative,812334,1062318,Negative
+DDIC-028,DDIC-028-F01,DD City,Negative,Negative,811524,1061980,Negative
+DDIC-028,DDIC-028-F02,DD City,Negative,Negative,811524,1061980,Negative
+DDIC-028,DDIC-028-F03,DD City,Negative,Negative,811524,1061980,Negative
+DDIC-028,DDIC-028-F04,DD City,Negative,Negative,811524,1061980,Negative
+DDIC-029-C1,DDIC-029-C1-F01,DD City,Negative,Negative,812111,1062036,Negative
+DDIC-029-C1,DDIC-029-C1-F02,DD City,Negative,Negative,812111,1062036,Negative
+DDIC-029-C1,DDIC-029-C1-F03,DD City,Negative,Negative,812111,1062036,Negative
+DDIC-029,DDIC-029-F01,DD City,Negative,Negative,811775,1062294,Negative
+DDIC-029,DDIC-029-F02,DD City,Negative,Negative,811775,1062294,Negative
+DDIC-029,DDIC-029-F03,DD City,Negative,Negative,811775,1062294,Negative
+DDIC-030-C1,DDIC-030-C1-F01,DD City,Negative,Negative,808157,1063502,Negative
+DDIC-030-C1,DDIC-030-C1-F02,DD City,Negative,Negative,808157,1063502,Negative
+DDIC-030-C1,DDIC-030-C1-F03,DD City,Negative,Negative,808157,1063502,Negative
+DDIC-030-C2,DDIC-030-C2-F01,DD City,Negative,Negative,809801,1061770,Negative
+DDIC-030-C2,DDIC-030-C2-F02,DD City,Negative,Negative,809801,1061770,Negative
+DDIC-030-C2,DDIC-030-C2-F03,DD City,Negative,Negative,809801,1061770,Negative
+DDIC-030-C3,DDIC-030-C3-F01,DD City,Positive,Negative,811902,1061574,Positive
+DDIC-030-C3,DDIC-030-C3-F02,DD City,Positive,Negative,811902,1061574,Positive
+DDIC-030-C3,DDIC-030-C3-F03,DD City,Positive,Negative,811902,1061574,Positive
+DDIC-030-C3,DDIC-030-C3-F04,DD City,Positive,Negative,811902,1061574,Positive
+DDIC-030-C3,DDIC-030-C3-F05,DD City,Positive,Negative,811902,1061574,Positive
+DDIC-030,DDIC-030-F01,DD City,Negative,Negative,811979,1062286,Negative
+DDIC-030,DDIC-030-F02,DD City,Negative,Negative,811979,1062286,Negative
+DDIC-031-C1,DDIC-031-C1-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-031-C2,DDIC-031-C2-F01,DD City,Negative,Negative,812070,1061518,Negative
+DDIC-031-C2,DDIC-031-C2-F02,DD City,Negative,Negative,812070,1061518,Negative
+DDIC-031-C3,DDIC-031-C3-F01,DD City,Negative,Negative,811251,1061719,Negative
+DDIC-031-C3,DDIC-031-C3-F02,DD City,Negative,Negative,811251,1061719,Negative
+DDIC-031-C3,DDIC-031-C3-F03,DD City,Negative,Negative,811251,1061719,Negative
+DDIC-031,DDIC-031-F01,DD City,Negative,Negative,812337,1061583,Negative
+DDIC-031,DDIC-031-F02,DD City,Negative,Negative,812337,1061583,Negative
+DDIC-031,DDIC-031-F03,DD City,Negative,Negative,812337,1061583,Negative
+DDIC-031,DDIC-031-F04,DD City,Negative,Negative,812337,1061583,Negative
+DDIC-031,DDIC-031-F05,DD City,Negative,Negative,812337,1061583,Negative
+DDIC-032-C1,DDIC-032-C1-F01,DD City,Negative,Negative,810154,1063474,Negative
+DDIC-032-C1,DDIC-032-C1-F02,DD City,Negative,Negative,810154,1063474,Negative
+DDIC-032-C1,DDIC-032-C1-F03,DD City,Negative,Negative,810154,1063474,Negative
+DDIC-032-C1,DDIC-032-C1-F04,DD City,Negative,Negative,810154,1063474,Negative
+DDIC-032-C2,DDIC-032-C2-F01,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F02,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F03,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F04,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F05,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F06,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032-C2,DDIC-032-C2-F07,DD City,Negative,Negative,812277,1061681,Negative
+DDIC-032,DDIC-032-F01,DD City,Negative,Negative,812405,1061148,Negative
+DDIC-032,DDIC-032-F02,DD City,Negative,Negative,812405,1061148,Negative
+DDIC-032,DDIC-032-F03,DD City,Negative,Negative,812405,1061148,Negative
+DDIC-032,DDIC-032-F04,DD City,Negative,Negative,812405,1061148,Negative
+DDIC-032,DDIC-032-F05,DD City,Negative,Negative,812405,1061148,Negative
+DDIC-033-C1,DDIC-033-C1-F01,DD City,Negative,Negative,811598,1061820,Negative
+DDIC-033-C1,DDIC-033-C1-F02,DD City,Negative,Negative,811598,1061820,Negative
+DDIC-033-C1,DDIC-033-C1-F03,DD City,Negative,Negative,811598,1061820,Negative
+DDIC-033-C1,DDIC-033-C1-F04,DD City,Negative,Negative,811598,1061820,Negative
+DDIC-033-C2,DDIC-033-C2-F01,DD City,Negative,Negative,811957,1061987,Negative
+DDIC-033-C2,DDIC-033-C2-F02,DD City,Negative,Negative,811957,1061987,Negative
+DDIC-033-C2,DDIC-033-C2-F03,DD City,Negative,Negative,811957,1061987,Negative
+DDIC-033-C2,DDIC-033-C2-F04,DD City,Negative,Negative,811957,1061987,Negative
+DDIC-033,DDIC-033-F01,DD City,Negative,Negative,812541,1061274,Negative
+DDIC-033,DDIC-033-F02,DD City,Negative,Negative,812541,1061274,Negative
+DDIC-033,DDIC-033-F03,DD City,Negative,Negative,812541,1061274,Negative
+DDIC-033,DDIC-033-F04,DD City,Negative,Negative,812541,1061274,Negative
+DDIC-034-C1,DDIC-034-C1-F01,DD City,Negative,Negative,812538,1062597,Negative
+DDIC-034-C2,DDIC-034-C2-F01,DD City,Negative,Negative,811259,1061895,Negative
+DDIC-034-C2,DDIC-034-C2-F02,DD City,Negative,Negative,811259,1061895,Negative
+DDIC-034-C2,DDIC-034-C2-F03,DD City,Negative,Negative,811259,1061895,Negative
+DDIC-034-C3,DDIC-034-C3-F01,DD City,Negative,Negative,812437,1062235,Negative
+DDIC-034-C3,DDIC-034-C3-F02,DD City,Negative,Negative,812437,1062235,Negative
+DDIC-034-C3,DDIC-034-C3-F03,DD City,Negative,Negative,812437,1062235,Negative
+DDIC-034-C3,DDIC-034-C3-F04,DD City,Negative,Negative,812437,1062235,Negative
+DDIC-034,DDIC-034-F01,DD City,Negative,Negative,812556,1064720,Negative
+DDIC-034,DDIC-034-F02,DD City,Negative,Negative,812556,1064720,Negative
+DDIC-034,DDIC-034-F03,DD City,Negative,Negative,812556,1064720,Negative
+DDIC-034,DDIC-034-F04,DD City,Negative,Negative,812556,1064720,Negative
+DDIC-034,DDIC-034-F05,DD City,Negative,Negative,812556,1064720,Negative
+DDIC-035-C1,DDIC-035-C1-F01,DD City,Negative,Negative,811673,1061833,Negative
+DDIC-035-C1,DDIC-035-C1-F02,DD City,Negative,Negative,811673,1061833,Negative
+DDIC-035-C1,DDIC-035-C1-F03,DD City,Negative,Negative,811673,1061833,Negative
+DDIC-035-C2,DDIC-035-C2-F01,DD City,Negative,Negative,812440,1061388,Negative
+DDIC-035-C2,DDIC-035-C2-F02,DD City,Negative,Negative,812440,1061388,Negative
+DDIC-035-C2,DDIC-035-C2-F03,DD City,Negative,Negative,812440,1061388,Negative
+DDIC-035-C3,DDIC-035-C3-F01,DD City,Negative,Negative,811860,1063198,Negative
+DDIC-035-C3,DDIC-035-C3-F02,DD City,Negative,Negative,811860,1063198,Negative
+DDIC-035,DDIC-035-F01,DD City,Negative,Negative,812344,1062325,Negative
+DDIC-036-C1,DDIC-036-C1-F01,DD City,Negative,Negative,812893,1062711,Negative
+DDIC-036-C2,DDIC-036-C2-F01,DD City,Negative,Negative,809270,1062994,Negative
+DDIC-036-C2,DDIC-036-C2-F02,DD City,Negative,Negative,809270,1062994,Negative
+DDIC-036-C2,DDIC-036-C2-F03,DD City,Negative,Negative,809270,1062994,Negative
+DDIC-036,DDIC-036-F01,DD City,Negative,Negative,813138,1063493,Negative
+DDIC-036,DDIC-036-F02,DD City,Negative,Negative,813138,1063493,Negative
+DDIC-037-C1,DDIC-037-C1-F01,DD City,Negative,Negative,811262,1062494,Negative
+DDIC-037-C2,DDIC-037-C2-F01,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F02,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F03,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F04,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F05,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F06,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037-C2,DDIC-037-C2-F07,DD City,Negative,Negative,NA,NA,Negative
+DDIC-037,DDIC-037-F01,DD City,Negative,Negative,812342,1061137,Negative
+DDIC-037,DDIC-037-F02,DD City,Negative,Negative,812342,1061137,Negative
+DDIC-037,DDIC-037-F03,DD City,Negative,Negative,812342,1061137,Negative
+DDIC-038-C1,DDIC-038-C1-F01,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F02,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F03,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F04,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F05,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F06,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C1,DDIC-038-C1-F07,DD City,Negative,Negative,812106,1062028,Negative
+DDIC-038-C2,DDIC-038-C2-F01,DD City,Negative,Negative,812959,1062869,Negative
+DDIC-038-C2,DDIC-038-C2-F02,DD City,Negative,Negative,812959,1062869,Negative
+DDIC-038-C3,DDIC-038-C3-F01,DD City,Positive,Positive,812139,1061920,Positive
+DDIC-038-C3,DDIC-038-C3-F02,DD City,Positive,Positive,812139,1061920,Positive
+DDIC-038,DDIC-038-F01,DD City,Negative,Negative,812419,1061106,Negative
+DDIC-038,DDIC-038-F02,DD City,Negative,Negative,812419,1061106,Negative
+DDIC-038,DDIC-038-F03,DD City,Negative,Negative,812419,1061106,Negative
+DDIC-039-C1,DDIC-039-C1-F01,DD City,Negative,Negative,812287,1061556,Negative
+DDIC-039-C2,DDIC-039-C2-F01,DD City,Positive,Negative,812027,1062932,Positive
+DDIC-039-C2,DDIC-039-C2-F02,DD City,Positive,Negative,812027,1062932,Positive
+DDIC-039,DDIC-039-F01,DD City,Negative,Negative,812320,1061606,Negative
+DDIC-039,DDIC-039-F02,DD City,Negative,Negative,812320,1061606,Negative
+DDIC-040-C1,DDIC-040-C1-F01,DD City,Negative,Negative,810923,1062906,Negative
+DDIC-040-C1,DDIC-040-C1-F02,DD City,Negative,Negative,810923,1062906,Negative
+DDIC-040-C1,DDIC-040-C1-F03,DD City,Negative,Negative,810923,1062906,Negative
+DDIC-040,DDIC-040-F01,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-040,DDIC-040-F02,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-040,DDIC-040-F03,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-040,DDIC-040-F04,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-040,DDIC-040-F05,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-040,DDIC-040-F06,DD City,Negative,Negative,810714,1061951,Negative
+DDIC-041-C1,DDIC-041-C1-F01,DD City,Negative,Negative,811097,1062512,Negative
+DDIC-041-C1,DDIC-041-C1-F02,DD City,Negative,Negative,811097,1062512,Negative
+DDIC-041-C1,DDIC-041-C1-F03,DD City,Negative,Negative,811097,1062512,Negative
+DDIC-041-C2,DDIC-041-C2-F01,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F02,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F03,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F04,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F05,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F06,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041-C2,DDIC-041-C2-F07,DD City,Negative,Negative,811754,1062554,Negative
+DDIC-041,DDIC-041-F01,DD City,Negative,Negative,811612,1062193,Negative
+DDIC-041,DDIC-041-F02,DD City,Negative,Negative,811612,1062193,Negative
+DDIC-041,DDIC-041-F03,DD City,Negative,Negative,811612,1062193,Negative
+DDIC-041,DDIC-041-F04,DD City,Negative,Negative,811612,1062193,Negative
+DDIC-042-C1,DDIC-042-C1-F01,DD City,Negative,Negative,811665,1061829,Negative
+DDIC-042-C1,DDIC-042-C1-F02,DD City,Negative,Negative,811665,1061829,Negative
+DDIC-042-C2,DDIC-042-C2-F01,DD City,Negative,Negative,811892,1062118,Negative
+DDIC-042-C2,DDIC-042-C2-F02,DD City,Negative,Negative,811892,1062118,Negative
+DDIC-042-C2,DDIC-042-C2-F03,DD City,Negative,Negative,811892,1062118,Negative
+DDIC-042,DDIC-042-F01,DD City,Negative,Negative,812160,1062016,Negative
+DDIC-042,DDIC-042-F02,DD City,Negative,Negative,812160,1062016,Negative
+DDIC-042,DDIC-042-F03,DD City,Negative,Negative,812160,1062016,Negative
+DDIC-042,DDIC-042-F04,DD City,Negative,Negative,812160,1062016,Negative
+DDIC-042,DDIC-042-F05,DD City,Negative,Negative,812160,1062016,Negative
+DDIC-043-C1,DDIC-043-C1-F01,DD City,Negative,Negative,812720,1062856,Negative
+DDIC-043-C2,DDIC-043-C2-F01,DD City,Negative,Negative,809456,1064047,Negative
+DDIC-043-C2,DDIC-043-C2-F02,DD City,Negative,Negative,809456,1064047,Negative
+DDIC-043-C2,DDIC-043-C2-F03,DD City,Negative,Negative,809456,1064047,Negative
+DDIC-043-C2,DDIC-043-C2-F04,DD City,Negative,Negative,809456,1064047,Negative
+DDIC-043-C3,DDIC-043-C3-F01,DD City,Negative,Negative,810654,1062150,Negative
+DDIC-043-C3,DDIC-043-C3-F02,DD City,Negative,Negative,810654,1062150,Negative
+DDIC-043,DDIC-043-F01,DD City,Negative,Negative,812166,1062035,Negative
+DDIC-043,DDIC-043-F02,DD City,Negative,Negative,812166,1062035,Negative
+DDIC-043,DDIC-043-F03,DD City,Negative,Negative,812166,1062035,Negative
+DDIC-044-C1,DDIC-044-C1-F01,DD City,Negative,Negative,810622,1061932,Negative
+DDIC-044-C1,DDIC-044-C1-F02,DD City,Negative,Negative,810622,1061932,Negative
+DDIC-044-C1,DDIC-044-C1-F03,DD City,Negative,Negative,810622,1061932,Negative
+DDIC-044-C1,DDIC-044-C1-F04,DD City,Negative,Negative,810622,1061932,Negative
+DDIC-044-C2,DDIC-044-C2-F01,DD City,Negative,Negative,811937,1061520,Negative
+DDIC-044-C2,DDIC-044-C2-F02,DD City,Negative,Negative,811937,1061520,Negative
+DDIC-044-C3,DDIC-044-C3-F01,DD City,Negative,Negative,811591,1061803,Negative
+DDIC-044-C3,DDIC-044-C3-F02,DD City,Negative,Negative,811591,1061803,Negative
+DDIC-044-C3,DDIC-044-C3-F03,DD City,Negative,Negative,811591,1061803,Negative
+DDIC-044-C3,DDIC-044-C3-F04,DD City,Negative,Negative,811591,1061803,Negative
+DDIC-044-C3,DDIC-044-C3-F05,DD City,Negative,Negative,811591,1061803,Negative
+DDIC-044,DDIC-044-F01,DD City,Negative,Negative,812472,1062291,Negative
+DDIC-044,DDIC-044-F02,DD City,Negative,Negative,812472,1062291,Negative
+DDIC-044,DDIC-044-F03,DD City,Negative,Negative,812472,1062291,Negative
+DDIC-045-C1,DDIC-045-C1-F01,DD City,Negative,Negative,810871,1062109,Negative
+DDIC-045-C1,DDIC-045-C1-F02,DD City,Negative,Negative,810871,1062109,Negative
+DDIC-045-C2,DDIC-045-C2-F01,DD City,Negative,Negative,812186,1062072,Negative
+DDIC-045-C2,DDIC-045-C2-F02,DD City,Negative,Negative,812186,1062072,Negative
+DDIC-045-C2,DDIC-045-C2-F03,DD City,Negative,Negative,812186,1062072,Negative
+DDIC-045-C2,DDIC-045-C2-F04,DD City,Negative,Negative,812186,1062072,Negative
+DDIC-045-C3,DDIC-045-C3-F01,DD City,Negative,Negative,811350,1062176,Negative
+DDIC-045-C3,DDIC-045-C3-F02,DD City,Negative,Negative,811350,1062176,Negative
+DDIC-045-C3,DDIC-045-C3-F03,DD City,Negative,Negative,811350,1062176,Negative
+DDIC-045-C3,DDIC-045-C3-F04,DD City,Negative,Negative,811350,1062176,Negative
+DDIC-045,DDIC-045-F01,DD City,Negative,Negative,812205,1061897,Negative
+DDIC-045,DDIC-045-F02,DD City,Negative,Negative,812205,1061897,Negative
+DDUIC-001-C1,DDUIC-001-C1-F01,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C1,DDUIC-001-C1-F02,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C1,DDUIC-001-C1-F03,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C2,DDUIC-001-C2-F01,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C2,DDUIC-001-C2-F02,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C2,DDUIC-001-C2-F03,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-001-C3,DDUIC-001-C3-F01,DDU,Negative,Negative,819995,10647558,Negative
+DDUIC-001-C3,DDUIC-001-C3-F02,DDU,Negative,Negative,819995,10647558,Negative
+DDUIC-001-C3,DDUIC-001-C3-F03,DDU,Negative,Negative,819995,10647558,Negative
+DDUIC-001,DDUIC-001-F01,DDU,Positive,Negative,811895,1064860,Positive
+DDUIC-001,DDUIC-001-F02,DDU,Positive,Negative,811895,1064860,Positive
+DDUIC-002-C1,DDUIC-002-C1-F01,DDU,Negative,Negative,812051,1064779,Negative
+DDUIC-002-C2,DDUIC-002-C2-F01,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-002-C3,DDUIC-002-C3-F01,DDU,Negative,Negative,812021,1064779,Negative
+DDUIC-002-C3,DDUIC-002-C3-F02,DDU,Negative,Negative,812021,1064779,Negative
+DDUIC-002-C3,DDUIC-002-C3-F03,DDU,Negative,Negative,812021,1064779,Negative
+DDUIC-002,DDUIC-002-F01,DDU,Positive,Negative,811894,1064766,Positive
+DDUIC-002,DDUIC-002-F02,DDU,Positive,Negative,811894,1064766,Positive
+DDUIC-003-C1,DDUIC-003-C1-F01,DDU,Positive,Negative,812147,1064831,Positive
+DDUIC-003-C2,DDUIC-003-C2-F01,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-003-C3,DDUIC-003-C3-F01,DDU,Negative,Positive,81215,1064918,Positive
+DDUIC-003-C3,DDUIC-003-C3-F02,DDU,Negative,Positive,81215,1064918,Positive
+DDUIC-003,DDUIC-003-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-003,DDUIC-003-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-003,DDUIC-003-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-004-C1,DDUIC-004-C1-F01,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-004-C1,DDUIC-004-C1-F02,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-004-C2,DDUIC-004-C2-F01,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-004-C2,DDUIC-004-C2-F02,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-004-C2,DDUIC-004-C2-F03,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-004-C3,DDUIC-004-C3-F01,DDU,Negative,Positive,812145,1064792,Positive
+DDUIC-004-C3,DDUIC-004-C3-F02,DDU,Negative,Positive,812145,1064792,Positive
+DDUIC-004,DDUIC-004-F01,DDU,Negative,Negative,812051,1064779,Negative
+DDUIC-005-C1,DDUIC-005-C1-F01,DDU,Negative,Positive,812150,1064918,Positive
+DDUIC-005-C2,DDUIC-005-C2-F01,DDU,Negative,Negative,812447,1064750,Negative
+DDUIC-005-C3,DDUIC-005-C3-F01,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-005,DDUIC-005-F01,DDU,Negative,Negative,811990,1064758,Negative
+DDUIC-006-C1,DDUIC-006-C1-F01,DDU,Negative,Positive,812051,1064779,Positive
+DDUIC-006-C2,DDUIC-006-C2-F01,DDU,Positive,Negative,811995,10644758,Positive
+DDUIC-006-C3,DDUIC-006-C3-F01,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-006,DDUIC-006-F01,DDU,Negative,Negative,812045,1064863,Negative
+DDUIC-007-C1,DDUIC-007-C1-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-007-C2,DDUIC-007-C2-F01,DDU,Negative,Negative,812156,1064881,Negative
+DDUIC-007,DDUIC-007-F01,DDU,Negative,Negative,811892,1064766,Negative
+DDUIC-008-C1,DDUIC-008-C1-F01,DDU,Negative,Positive,812156,1064881,Positive
+DDUIC-008-C1,DDUIC-008-C1-F02,DDU,Negative,Positive,812156,1064881,Positive
+DDUIC-008-C2,DDUIC-008-C2-F01,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-008-C2,DDUIC-008-C2-F02,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-008-C3,DDUIC-008-C3-F01,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-008-C3,DDUIC-008-C3-F02,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-008-C3,DDUIC-008-C3-F03,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-008-C3,DDUIC-008-C3-F04,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-008,DDUIC-008-F01,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-008,DDUIC-008-F02,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-008,DDUIC-008-F03,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-009-C1,DDUIC-009-C1-F01,DDU,Negative,Negative,812051,1064779,Negative
+DDUIC-009-C2,DDUIC-009-C2-F01,DDU,Negative,Negative,812003,1064874,Negative
+DDUIC-009-C2,DDUIC-009-C2-F02,DDU,Negative,Negative,812003,1064874,Negative
+DDUIC-009,DDUIC-009-F01,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-009,DDUIC-009-F02,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-009,DDUIC-009-F03,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-010-C1,DDUIC-010-C1-F01,DDU,Negative,Positive,812003,1064794,Positive
+DDUIC-010-C1,DDUIC-010-C1-F02,DDU,Negative,Positive,812003,1064794,Positive
+DDUIC-010,DDUIC-010-F01,DDU,Negative,Negative,812056,1064881,Negative
+DDUIC-012-C1,DDUIC-012-C1-F01,DDU,Positive,Negative,811944,1064840,Positive
+DDUIC-012-C1,DDUIC-012-C1-F02,DDU,Positive,Negative,811944,1064840,Positive
+DDUIC-012-C2,DDUIC-012-C2-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-012-C2,DDUIC-012-C2-F02,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-012-C3,DDUIC-012-C3-F01,DDU,Negative,Negative,NA,NA,Negative
+DDUIC-012,DDUIC-012-F01,DDU,Positive,Negative,811897,1064791,Positive
+DDUIC-012,DDUIC-012-F02,DDU,Positive,Negative,811897,1064791,Positive
+DDUIC-013-C1,DDUIC-013-C1-F01,DDU,Negative,Positive,812150,1064918,Positive
+DDUIC-013-C1,DDUIC-013-C1-F02,DDU,Negative,Positive,812150,1064918,Positive
+DDUIC-013-C2,DDUIC-013-C2-F01,DDU,Negative,Positive,812003,1064794,Positive
+DDUIC-013-C3,DDUIC-013-C3-F01,DDU,Negative,Positive,811897,1064791,Positive
+DDUIC-013-C3,DDUIC-013-C3-F02,DDU,Negative,Positive,811897,1064791,Positive
+DDUIC-013-C3,DDUIC-013-C3-F03,DDU,Negative,Positive,811897,1064791,Positive
+DDUIC-013,DDUIC-013-F01,DDU,Positive,Negative,810545,1061747,Positive
+DDUIC-014-C1,DDUIC-014-C1-F01,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-014-C1,DDUIC-014-C1-F02,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-014-C2,DDUIC-014-C2-F01,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-014,DDUIC-014-F01,DDU,Positive,Negative,812056,1064835,Positive
+DDUIC-014,DDUIC-014-F02,DDU,Positive,Negative,812056,1064835,Positive
+DDUIC-014,DDUIC-014-F03,DDU,Positive,Negative,812056,1064835,Positive
+DDUIC-015-C1,DDUIC-015-C1-F01,DDU,Negative,Positive,811987,1064856,Positive
+DDUIC-015-C1,DDUIC-015-C1-F02,DDU,Negative,Positive,811987,1064856,Positive
+DDUIC-015-C2,DDUIC-015-C2-F01,DDU,Positive,Negative,811888,1064821,Positive
+DDUIC-015-C3,DDUIC-015-C3-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-015-C3,DDUIC-015-C3-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-015-C3,DDUIC-015-C3-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-015,DDUIC-015-F01,DDU,Positive,Negative,812003,1064794,Positive
+DDUIC-016-C1,DDUIC-016-C1-F01,DDU,Negative,Positive,812056,1064835,Positive
+DDUIC-016-C1,DDUIC-016-C1-F02,DDU,Negative,Positive,812056,1064835,Positive
+DDUIC-016-C2,DDUIC-016-C2-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-016-C2,DDUIC-016-C2-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-016-C2,DDUIC-016-C2-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-016,DDUIC-016-F01,DDU,Negative,Positive,812048,1064912,Positive
+DDUIC-016,DDUIC-016-F02,DDU,Negative,Positive,812048,1064912,Positive
+DDUIC-016,DDUIC-016-F03,DDU,Negative,Positive,812048,1064912,Positive
+DDUIC-017-C1,DDUIC-017-C1-F01,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-017-C1,DDUIC-017-C1-F02,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-017-C1,DDUIC-017-C1-F03,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-017-C1,DDUIC-017-C1-F04,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-017-C1,DDUIC-017-C1-F05,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-017-C2,DDUIC-017-C2-F01,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-017-C2,DDUIC-017-C2-F02,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-017-C2,DDUIC-017-C2-F03,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-017-C3,DDUIC-017-C3-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017-C3,DDUIC-017-C3-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017-C3,DDUIC-017-C3-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017-C3,DDUIC-017-C3-F04,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017-C3,DDUIC-017-C3-F05,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017-C3,DDUIC-017-C3-F06,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-017,DDUIC-017-F01,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-017,DDUIC-017-F02,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-017,DDUIC-017-F03,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-017,DDUIC-017-F04,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-018-C1,DDUIC-018-C1-F01,DDU,Negative,Negative,812056,1064835,Negative
+DDUIC-018-C1,DDUIC-018-C1-F02,DDU,Negative,Negative,812056,1064835,Negative
+DDUIC-018-C1,DDUIC-018-C1-F03,DDU,Negative,Negative,812056,1064835,Negative
+DDUIC-018-C1,DDUIC-018-C1-F04,DDU,Negative,Negative,812056,1064835,Negative
+DDUIC-018-C2,DDUIC-018-C2-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-018-C2,DDUIC-018-C2-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-018-C2,DDUIC-018-C2-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-018-C2,DDUIC-018-C2-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-018-C3,DDUIC-018-C3-F01,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-018-C3,DDUIC-018-C3-F02,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-018-C3,DDUIC-018-C3-F03,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-018,DDUIC-018-F01,DDU,Positive,Negative,812051,1064779,Positive
+DDUIC-018,DDUIC-018-F02,DDU,Positive,Negative,812051,1064779,Positive
+DDUIC-018,DDUIC-018-F03,DDU,Positive,Negative,812051,1064779,Positive
+DDUIC-018,DDUIC-018-F04,DDU,Positive,Negative,812051,1064779,Positive
+DDUIC-019-C1,DDUIC-019-C1-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-019-C1,DDUIC-019-C1-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-019-C1,DDUIC-019-C1-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-019-C1,DDUIC-019-C1-F04,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-019-C1,DDUIC-019-C1-F05,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-019-C2,DDUIC-019-C2-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-019-C2,DDUIC-019-C2-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-019-C2,DDUIC-019-C2-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-019-C2,DDUIC-019-C2-F04,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-019,DDUIC-019-F01,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-019,DDUIC-019-F02,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-019,DDUIC-019-F03,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-019,DDUIC-019-F04,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-019,DDUIC-019-F05,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-019,DDUIC-019-F06,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-020-C1,DDUIC-020-C1-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C1,DDUIC-020-C1-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C1,DDUIC-020-C1-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C1,DDUIC-020-C1-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C2,DDUIC-020-C2-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C2,DDUIC-020-C2-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C2,DDUIC-020-C2-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C2,DDUIC-020-C2-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-020-C3,DDUIC-020-C3-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020-C3,DDUIC-020-C3-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020-C3,DDUIC-020-C3-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020-C3,DDUIC-020-C3-F04,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020-C3,DDUIC-020-C3-F05,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020-C3,DDUIC-020-C3-F06,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-020,DDUIC-020-F01,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-020,DDUIC-020-F02,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-020,DDUIC-020-F03,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-021-C1,DDUIC-021-C1-F01,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-021-C1,DDUIC-021-C1-F02,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-021-C1,DDUIC-021-C1-F03,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-021-C1,DDUIC-021-C1-F04,DDU,Negative,Negative,811954,1064776,Negative
+DDUIC-021-C2,DDUIC-021-C2-F01,DDU,Negative,Negative,811984,1064856,Negative
+DDUIC-021-C2,DDUIC-021-C2-F02,DDU,Negative,Negative,811984,1064856,Negative
+DDUIC-021-C2,DDUIC-021-C2-F03,DDU,Negative,Negative,811984,1064856,Negative
+DDUIC-021-C3,DDUIC-021-C3-F01,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-021-C3,DDUIC-021-C3-F02,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-021-C3,DDUIC-021-C3-F03,DDU,Negative,Negative,812003,1064794,Negative
+DDUIC-021,DDUIC-021-F01,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-021,DDUIC-021-F02,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-021,DDUIC-021-F03,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-022-C1,DDUIC-022-C1-F01,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-022-C1,DDUIC-022-C1-F02,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-022-C1,DDUIC-022-C1-F03,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-022-C2,DDUIC-022-C2-F01,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C2,DDUIC-022-C2-F02,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C2,DDUIC-022-C2-F03,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C3,DDUIC-022-C3-F01,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C3,DDUIC-022-C3-F02,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C3,DDUIC-022-C3-F03,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C3,DDUIC-022-C3-F04,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022-C3,DDUIC-022-C3-F05,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-022,DDUIC-022-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-022,DDUIC-022-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-022,DDUIC-022-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-022,DDUIC-022-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-023-C1,DDUIC-023-C1-F01,DDU,Negative,Negative,812157,1064881,Negative
+DDUIC-023-C1,DDUIC-023-C1-F02,DDU,Negative,Negative,812157,1064881,Negative
+DDUIC-023-C1,DDUIC-023-C1-F03,DDU,Negative,Negative,812157,1064881,Negative
+DDUIC-023-C1,DDUIC-023-C1-F04,DDU,Negative,Negative,812157,1064881,Negative
+DDUIC-023-C1,DDUIC-023-C1-F05,DDU,Negative,Negative,812157,1064881,Negative
+DDUIC-023-C2,DDUIC-023-C2-F01,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C2,DDUIC-023-C2-F02,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C2,DDUIC-023-C2-F03,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C2,DDUIC-023-C2-F04,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C2,DDUIC-023-C2-F05,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C3,DDUIC-023-C3-F01,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C3,DDUIC-023-C3-F02,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023-C3,DDUIC-023-C3-F03,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-023,DDUIC-023-F01,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-023,DDUIC-023-F02,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-023,DDUIC-023-F03,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-024-C1,DDUIC-024-C1-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-024-C1,DDUIC-024-C1-F02,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-024-C1,DDUIC-024-C1-F03,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-024-C2,DDUIC-024-C2-F01,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-024-C2,DDUIC-024-C2-F02,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-024-C2,DDUIC-024-C2-F03,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-024-C2,DDUIC-024-C2-F04,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-024-C2,DDUIC-024-C2-F05,DDU,Negative,Negative,811995,1064758,Negative
+DDUIC-024-C3,DDUIC-024-C3-F01,DDU,Negative,Negative,811944,106440,Negative
+DDUIC-024-C3,DDUIC-024-C3-F02,DDU,Negative,Negative,811944,106440,Negative
+DDUIC-024-C3,DDUIC-024-C3-F03,DDU,Negative,Negative,811944,106440,Negative
+DDUIC-024-C3,DDUIC-024-C3-F04,DDU,Negative,Negative,811944,106440,Negative
+DDUIC-024-C3,DDUIC-024-C3-F05,DDU,Negative,Negative,811944,106440,Negative
+DDUIC-024,DDUIC-024-F01,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-024,DDUIC-024-F02,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-024,DDUIC-024-F03,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-024,DDUIC-024-F04,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-025-C1,DDUIC-025-C1-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-025-C1,DDUIC-025-C1-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-025-C1,DDUIC-025-C1-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-025-C1,DDUIC-025-C1-F04,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-025-C2,DDUIC-025-C2-F01,DDU,Negative,Negative,812150,1064881,Negative
+DDUIC-025-C2,DDUIC-025-C2-F02,DDU,Negative,Negative,812150,1064881,Negative
+DDUIC-025-C2,DDUIC-025-C2-F03,DDU,Negative,Negative,812150,1064881,Negative
+DDUIC-025-C2,DDUIC-025-C2-F04,DDU,Negative,Negative,812150,1064881,Negative
+DDUIC-025-C2,DDUIC-025-C2-F05,DDU,Negative,Negative,812150,1064881,Negative
+DDUIC-025-C3,DDUIC-025-C3-F01,DDU,Negative,Negative,81895,1064860,Negative
+DDUIC-025-C3,DDUIC-025-C3-F02,DDU,Negative,Negative,81895,1064860,Negative
+DDUIC-025-C3,DDUIC-025-C3-F03,DDU,Negative,Negative,81895,1064860,Negative
+DDUIC-025,DDUIC-025-F01,DDU,Negative,Negative,811888,1064821,Negative
+DDUIC-025,DDUIC-025-F02,DDU,Negative,Negative,811888,1064821,Negative
+DDUIC-025,DDUIC-025-F03,DDU,Negative,Negative,811888,1064821,Negative
+DDUIC-025,DDUIC-025-F04,DDU,Negative,Negative,811888,1064821,Negative
+DDUIC-026-C1,DDUIC-026-C1-F01,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026-C1,DDUIC-026-C1-F02,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026-C1,DDUIC-026-C1-F03,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026-C2,DDUIC-026-C2-F01,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-026-C2,DDUIC-026-C2-F02,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-026-C2,DDUIC-026-C2-F03,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-026-C2,DDUIC-026-C2-F04,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-026-C2,DDUIC-026-C2-F05,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-026-C3,DDUIC-026-C3-F01,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026-C3,DDUIC-026-C3-F02,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026-C3,DDUIC-026-C3-F03,DDU,Negative,Negative,811944,1064840,Negative
+DDUIC-026,DDUIC-026-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-026,DDUIC-026-F02,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-026,DDUIC-026-F03,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-026,DDUIC-026-F04,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-027-C1,DDUIC-027-C1-F01,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-027-C1,DDUIC-027-C1-F02,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-027-C1,DDUIC-027-C1-F03,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-027-C1,DDUIC-027-C1-F04,DDU,Negative,Negative,811897,1064791,Negative
+DDUIC-027-C2,DDUIC-027-C2-F01,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-027-C2,DDUIC-027-C2-F02,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-027-C2,DDUIC-027-C2-F03,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-027-C2,DDUIC-027-C2-F04,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-027-C3,DDUIC-027-C3-F01,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-027-C3,DDUIC-027-C3-F02,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-027-C3,DDUIC-027-C3-F03,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-027-C3,DDUIC-027-C3-F04,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-027,DDUIC-027-F01,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-027,DDUIC-027-F02,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-027,DDUIC-027-F03,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-027,DDUIC-027-F04,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-027,DDUIC-027-F05,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-027,DDUIC-027-F06,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-028-C1,DDUIC-028-C1-F01,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C1,DDUIC-028-C1-F02,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C1,DDUIC-028-C1-F03,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C1,DDUIC-028-C1-F04,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F01,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F02,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F03,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F04,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F05,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C2,DDUIC-028-C2-F06,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-028-C3,DDUIC-028-C3-F01,DDU,Negative,Negative,811003,1064794,Negative
+DDUIC-028-C3,DDUIC-028-C3-F02,DDU,Negative,Negative,811003,1064794,Negative
+DDUIC-028-C3,DDUIC-028-C3-F03,DDU,Negative,Negative,811003,1064794,Negative
+DDUIC-028,DDUIC-028-F01,DDU,Negative,Negative,812145,1064292,Negative
+DDUIC-028,DDUIC-028-F02,DDU,Negative,Negative,812145,1064292,Negative
+DDUIC-028,DDUIC-028-F03,DDU,Negative,Negative,812145,1064292,Negative
+DDUIC-029-C1,DDUIC-029-C1-F01,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-029-C1,DDUIC-029-C1-F02,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-029-C1,DDUIC-029-C1-F03,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-029-C1,DDUIC-029-C1-F04,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-029-C1,DDUIC-029-C1-F05,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-029-C2,DDUIC-029-C2-F01,DDU,Negative,Negative,811895,1064860,Negative
+DDUIC-029-C2,DDUIC-029-C2-F02,DDU,Negative,Negative,811895,1064860,Negative
+DDUIC-029-C2,DDUIC-029-C2-F03,DDU,Negative,Negative,811895,1064860,Negative
+DDUIC-029-C3,DDUIC-029-C3-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-029-C3,DDUIC-029-C3-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-029-C3,DDUIC-029-C3-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-029-C3,DDUIC-029-C3-F04,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-029,DDUIC-029-F01,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-029,DDUIC-029-F02,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-029,DDUIC-029-F03,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-029,DDUIC-029-F04,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-029,DDUIC-029-F05,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-030-C1,DDUIC-030-C1-F01,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-030-C1,DDUIC-030-C1-F02,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-030-C1,DDUIC-030-C1-F03,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-030-C1,DDUIC-030-C1-F04,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-030-C2,DDUIC-030-C2-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-030-C2,DDUIC-030-C2-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-030-C2,DDUIC-030-C2-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-030-C2,DDUIC-030-C2-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-030-C2,DDUIC-030-C2-F05,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-030-C3,DDUIC-030-C3-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-030-C3,DDUIC-030-C3-F02,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-030-C3,DDUIC-030-C3-F03,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-030-C3,DDUIC-030-C3-F04,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-030-C3,DDUIC-030-C3-F05,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-030,DDUIC-030-F01,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-030,DDUIC-030-F02,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-030,DDUIC-030-F03,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-030,DDUIC-030-F04,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-030,DDUIC-030-F05,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-030,DDUIC-030-F06,DDU,Negative,Negative,812104,1064912,Negative
+DDUIC-031-C1,DDUIC-031-C1-F01,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-031-C1,DDUIC-031-C1-F02,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-031-C1,DDUIC-031-C1-F03,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-031-C1,DDUIC-031-C1-F04,DDU,Negative,Negative,812147,1064831,Negative
+DDUIC-031-C2,DDUIC-031-C2-F01,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-031-C2,DDUIC-031-C2-F02,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-031-C2,DDUIC-031-C2-F03,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-031-C2,DDUIC-031-C2-F04,DDU,Negative,Negative,811987,1064856,Negative
+DDUIC-031-C3,DDUIC-031-C3-F01,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-031-C3,DDUIC-031-C3-F02,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-031-C3,DDUIC-031-C3-F03,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-031-C3,DDUIC-031-C3-F04,DDU,Negative,Negative,812166,1064842,Negative
+DDUIC-031,DDUIC-031-F01,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-031,DDUIC-031-F02,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-031,DDUIC-031-F03,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-031,DDUIC-031-F04,DDU,Negative,Negative,812147,1064750,Negative
+DDUIC-032-C1,DDUIC-032-C1-F01,DDU,Negative,Negative,812166,1064843,Negative
+DDUIC-032-C1,DDUIC-032-C1-F02,DDU,Negative,Negative,812166,1064843,Negative
+DDUIC-032-C1,DDUIC-032-C1-F03,DDU,Negative,Negative,812166,1064843,Negative
+DDUIC-032-C1,DDUIC-032-C1-F04,DDU,Negative,Negative,812166,1064843,Negative
+DDUIC-032-C2,DDUIC-032-C2-F01,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-032-C2,DDUIC-032-C2-F02,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-032-C2,DDUIC-032-C2-F03,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-032-C2,DDUIC-032-C2-F04,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-032-C3,DDUIC-032-C3-F01,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-032-C3,DDUIC-032-C3-F02,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-032-C3,DDUIC-032-C3-F03,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-032,DDUIC-032-F01,DDU,Negative,Negative,812151,1064756,Negative
+DDUIC-032,DDUIC-032-F02,DDU,Negative,Negative,812151,1064756,Negative
+DDUIC-032,DDUIC-032-F03,DDU,Negative,Negative,812151,1064756,Negative
+DDUIC-032,DDUIC-032-F04,DDU,Negative,Negative,812151,1064756,Negative
+DDUIC-033-C1,DDUIC-033-C1-F01,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033-C1,DDUIC-033-C1-F02,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033-C1,DDUIC-033-C1-F03,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033-C1,DDUIC-033-C1-F04,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033-C1,DDUIC-033-C1-F05,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033-C2,DDUIC-033-C2-F01,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C2,DDUIC-033-C2-F02,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C2,DDUIC-033-C2-F03,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C2,DDUIC-033-C2-F04,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C2,DDUIC-033-C2-F05,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C2,DDUIC-033-C2-F06,DDU,Negative,Negative,812048,1064912,Negative
+DDUIC-033-C3,DDUIC-033-C3-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033-C3,DDUIC-033-C3-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033-C3,DDUIC-033-C3-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033-C3,DDUIC-033-C3-F04,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033-C3,DDUIC-033-C3-F05,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033-C3,DDUIC-033-C3-F06,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-033,DDUIC-033-F01,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033,DDUIC-033-F02,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033,DDUIC-033-F03,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-033,DDUIC-033-F04,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-034-C1,DDUIC-034-C1-F01,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-034-C1,DDUIC-034-C1-F02,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-034-C1,DDUIC-034-C1-F03,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-034-C1,DDUIC-034-C1-F04,DDU,Negative,Negative,812145,1064792,Negative
+DDUIC-034-C2,DDUIC-034-C2-F01,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-034-C2,DDUIC-034-C2-F02,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-034-C2,DDUIC-034-C2-F03,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-034-C2,DDUIC-034-C2-F04,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-034-C3,DDUIC-034-C3-F01,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-034-C3,DDUIC-034-C3-F02,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-034-C3,DDUIC-034-C3-F03,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-034-C3,DDUIC-034-C3-F04,DDU,Negative,Negative,812173,1064751,Negative
+DDUIC-034,DDUIC-034-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-034,DDUIC-034-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-034,DDUIC-034-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-035-C1,DDUIC-035-C1-F01,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-035-C1,DDUIC-035-C1-F02,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-035-C1,DDUIC-035-C1-F03,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-035-C1,DDUIC-035-C1-F04,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-035-C1,DDUIC-035-C1-F05,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-035-C2,DDUIC-035-C2-F01,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-035-C2,DDUIC-035-C2-F02,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-035-C2,DDUIC-035-C2-F03,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-035-C2,DDUIC-035-C2-F04,DDU,Negative,Negative,811894,1064766,Negative
+DDUIC-035-C3,DDUIC-035-C3-F01,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035-C3,DDUIC-035-C3-F02,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035-C3,DDUIC-035-C3-F03,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035-C3,DDUIC-035-C3-F04,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035-C3,DDUIC-035-C3-F05,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035-C3,DDUIC-035-C3-F06,DDU,Negative,Negative,812045,1064869,Negative
+DDUIC-035,DDUIC-035-F01,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-035,DDUIC-035-F02,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-035,DDUIC-035-F03,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-035,DDUIC-035-F04,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-035,DDUIC-035-F05,DDU,Negative,Negative,812150,1064918,Negative
+DDUIC-036-C1,DDUIC-036-C1-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C1,DDUIC-036-C1-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C1,DDUIC-036-C1-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C1,DDUIC-036-C1-F04,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C2,DDUIC-036-C2-F01,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C2,DDUIC-036-C2-F02,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C2,DDUIC-036-C2-F03,DDU,Negative,Negative,812170,1064791,Negative
+DDUIC-036-C3,DDUIC-036-C3-F01,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-036-C3,DDUIC-036-C3-F02,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-036-C3,DDUIC-036-C3-F03,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-036-C3,DDUIC-036-C3-F04,DDU,Negative,Negative,812151,1064956,Negative
+DDUIC-036,DDUIC-036-F01,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-036,DDUIC-036-F02,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-036,DDUIC-036-F03,DDU,Negative,Negative,812756,1064881,Negative
+DDUIC-036,DDUIC-036-F04,DDU,Negative,Negative,812756,1064881,Negative

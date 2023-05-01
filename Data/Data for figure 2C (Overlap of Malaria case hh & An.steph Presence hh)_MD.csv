@@ -1,0 +1,953 @@
+idhh,idindividual,Sites,casexp,Latitude,Longitude,Case Category,An.Stephensi Pos,Overlap
+DDIC-001,DDIC-001-F03,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F04,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F02,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F01,DD City,Case,812143,1061910,Index,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F06,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F05,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F08,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001,DDIC-001-F07,DD City,Case,812143,1061910,Index family,Negative,Malaria Case Only
+DDIC-001-C1,DDIC-001-C1-F05,DD City,Control,811674,1061627,Control family,Negative,No case and An. Steph
+DDIC-001-C1,DDIC-001-C1-F06,DD City,Control,811674,1061627,Control family,Negative,No case and An. Steph
+DDIC-001-C1,DDIC-001-C1-F03,DD City,Control,811674,1061627,Control family,Negative,No case and An. Steph
+DDIC-001-C1,DDIC-001-C1-F02,DD City,Control,811674,1061627,Control family,Negative,No case and An. Steph
+DDIC-001-C1,DDIC-001-C1-F04,DD City,Control,811674,1061627,Control family,Negative,No case and An. Steph
+DDIC-001-C1,DDIC-001-C1-F01,DD City,Control,811674,1061627,Control,Negative,No case and An. Steph
+DDIC-001-C2,DDIC-001-C2-F01,DD City,Control,812382,1061168,Control,Negative,No case and An. Steph
+DDIC-001-C2,DDIC-001-C2-F03,DD City,Control,812382,1061168,Control family,Negative,No case and An. Steph
+DDIC-001-C2,DDIC-001-C2-F02,DD City,Control,812382,1061168,Control family,Negative,No case and An. Steph
+DDIC-001-C3,DDIC-001-C3-F02,DD City,Control,807900,1064949,Control family,Negative,No case and An. Steph
+DDIC-001-C3,DDIC-001-C3-F01,DD City,Control,807900,1064949,Control,Negative,No case and An. Steph
+DDIC-002,DDIC-002-F01,DD City,Case,812405,1061386,Index,Negative,Malaria Case Only
+DDIC-002,DDIC-002-F03,DD City,Case,812405,1061386,Index family,Negative,Malaria Case Only
+DDIC-002,DDIC-002-F02,DD City,Case,812405,1061386,Index family,Negative,Malaria Case Only
+DDIC-002,DDIC-002-F04,DD City,Case,812405,1061386,Index family,Negative,Malaria Case Only
+DDIC-002-C1,DDIC-002-C1-F01,DD City,Control,811723,1062491,Control,Negative,No case and An. Steph
+DDIC-002-C1,DDIC-002-C1-F02,DD City,Control,811723,1062491,Control family,Negative,No case and An. Steph
+DDIC-002-C1,DDIC-002-C1-F03,DD City,Control,811723,1062491,Control family,Negative,No case and An. Steph
+DDIC-002-C2,DDIC-002-C2-F03,DD City,Control,812501,1062387,Control family,Negative,No case and An. Steph
+DDIC-002-C2,DDIC-002-C2-F01,DD City,Control,812501,1062387,Control,Negative,No case and An. Steph
+DDIC-002-C2,DDIC-002-C2-F02,DD City,Control,812501,1062387,Control family,Negative,No case and An. Steph
+DDIC-002-C2,DDIC-002-C2-F04,DD City,Control,812501,1062387,Control family,Negative,No case and An. Steph
+DDIC-003,DDIC-003-F05,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003,DDIC-003-F04,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003,DDIC-003-F06,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003,DDIC-003-F01,DD City,Case,812165,1061924,Index,Positive,Overlap
+DDIC-003,DDIC-003-F03,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003,DDIC-003-F07,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003,DDIC-003-F02,DD City,Case,812165,1061924,Index family,Negative,Malaria Case Only
+DDIC-003-C1,DDIC-003-C1-F01,DD City,Control,812048,1062054,Control,Negative,No case and An. Steph
+DDIC-003-C1,DDIC-003-C1-F02,DD City,Control,812048,1062054,Control family,Negative,No case and An. Steph
+DDIC-003-C1,DDIC-003-C1-F03,DD City,Control,812048,1062054,Control family,Negative,No case and An. Steph
+DDIC-003-C2,DDIC-003-C2-F01,DD City,Control,812295,1062237,Control,Negative,No case and An. Steph
+DDIC-003-C3,DDIC-003-C3-F01,DD City,Control,812372,1061176,Control,Negative,No case and An. Steph
+DDIC-003-C3,DDIC-003-C3-F04,DD City,Control,812372,1061176,Control family,Negative,No case and An. Steph
+DDIC-003-C3,DDIC-003-C3-F02,DD City,Control,812372,1061176,Control family,Negative,No case and An. Steph
+DDIC-003-C3,DDIC-003-C3-F03,DD City,Control,812372,1061176,Control family,Negative,No case and An. Steph
+DDIC-004,DDIC-004-F01,DD City,Case,812023,1061833,Index,Negative,Malaria Case Only
+DDIC-004,DDIC-004-F02,DD City,Case,812023,1061833,Index family,Negative,Malaria Case Only
+DDIC-004-C1,DDIC-004-C1-F01,DD City,Control,812377,1062213,Control,Negative,No case and An. Steph
+DDIC-004-C1,DDIC-004-C1-F04,DD City,Control,812377,1062213,Control family,Negative,No case and An. Steph
+DDIC-004-C1,DDIC-004-C1-F02,DD City,Control,812377,1062213,Control family,Negative,No case and An. Steph
+DDIC-004-C1,DDIC-004-C1-F03,DD City,Control,812377,1062213,Control family,Negative,No case and An. Steph
+DDIC-004-C2,DDIC-004-C2-F02,DD City,Control,812099,1061654,Control family,Negative,No case and An. Steph
+DDIC-004-C2,DDIC-004-C2-F04,DD City,Control,812099,1061654,Control family,Negative,No case and An. Steph
+DDIC-004-C2,DDIC-004-C2-F03,DD City,Control,812099,1061654,Control family,Negative,No case and An. Steph
+DDIC-004-C2,DDIC-004-C2-F05,DD City,Control,812099,1061654,Control family,Negative,No case and An. Steph
+DDIC-004-C2,DDIC-004-C2-F01,DD City,Control,812099,1061654,Control,Negative,No case and An. Steph
+DDIC-004-C3,DDIC-004-C3-F01,DD City,Control,812319,1061131,Control,Negative,No case and An. Steph
+DDIC-004-C3,DDIC-004-C3-F03,DD City,Control,812319,1061131,Control family,Positive,An. Stephensi only
+DDIC-004-C3,DDIC-004-C3-F02,DD City,Control,812319,1061131,Control family,Positive,An. Stephensi only
+DDIC-005,DDIC-005-F02,DD City,Case,812292,1062203,Index family,Negative,Malaria Case Only
+DDIC-005,DDIC-005-F05,DD City,Case,812292,1062203,Index family,Positive,Overlap
+DDIC-005,DDIC-005-F01,DD City,Case,812292,1062203,Index,Positive,Overlap
+DDIC-005,DDIC-005-F04,DD City,Case,812292,1062203,Index family,Positive,Overlap
+DDIC-005,DDIC-005-F03,DD City,Case,812292,1062203,Index family,Positive,Overlap
+DDIC-005-C1,DDIC-005-C1-F01,DD City,Control,812307,1062237,Control,Negative,No case and An. Steph
+DDIC-005-C2,DDIC-005-C2-F02,DD City,Control,812218,1061708,Control family,Positive,An. Stephensi only
+DDIC-005-C2,DDIC-005-C2-F04,DD City,Control,812218,1061708,Control family,Positive,An. Stephensi only
+DDIC-005-C2,DDIC-005-C2-F03,DD City,Control,812218,1061708,Control family,Positive,An. Stephensi only
+DDIC-005-C2,DDIC-005-C2-F01,DD City,Control,812218,1061708,Control,Positive,An. Stephensi only
+DDIC-005-C3,DDIC-005-C3-F01,DD City,Control,811263,1061738,Control,Positive,An. Stephensi only
+DDIC-006,DDIC-006-F02,DD City,Case,812146,1062031,Index family,Negative,Malaria Case Only
+DDIC-006,DDIC-006-F01,DD City,Case,812146,1062031,Index,Negative,Malaria Case Only
+DDIC-006,DDIC-006-F06,DD City,Case,812146,1062031,Index family,Negative,Malaria Case Only
+DDIC-006,DDIC-006-F04,DD City,Case,812146,1062031,Index family,Negative,Malaria Case Only
+DDIC-006,DDIC-006-F05,DD City,Case,812146,1062031,Index family,Negative,Malaria Case Only
+DDIC-006,DDIC-006-F03,DD City,Case,812146,1062031,Index family,Positive,Overlap
+DDIC-006-C1,DDIC-006-C1-F01,DD City,Control,812116,1061645,Control,Positive,An. Stephensi only
+DDIC-006-C2,DDIC-006-C2-F02,DD City,Control,812033,1061877,Control family,Positive,An. Stephensi only
+DDIC-006-C2,DDIC-006-C2-F03,DD City,Control,812033,1061877,Control family,Positive,An. Stephensi only
+DDIC-006-C2,DDIC-006-C2-F01,DD City,Control,812033,1061877,Control,Positive,An. Stephensi only
+DDIC-006-C3,DDIC-006-C3-F01,DD City,Control,811393,1061177,Control,Positive,An. Stephensi only
+DDIC-007,DDIC-007-F01,DD City,Case,812173,1061743,Index,Negative,Malaria Case Only
+DDIC-007,DDIC-007-F03,DD City,Case,812173,1061743,Index family,Negative,Malaria Case Only
+DDIC-007,DDIC-007-F02,DD City,Case,812173,1061743,Index family,Negative,Malaria Case Only
+DDIC-007-C1,DDIC-007-C1-F03,DD City,Control,811679,1061924,Control family,Negative,No case and An. Steph
+DDIC-007-C1,DDIC-007-C1-F02,DD City,Control,811679,1061924,Control family,Negative,No case and An. Steph
+DDIC-007-C1,DDIC-007-C1-F01,DD City,Control,811679,1061924,Control,Negative,No case and An. Steph
+DDIC-007-C1,DDIC-007-C1-F04,DD City,Control,811679,1061924,Control family,Negative,No case and An. Steph
+DDIC-007-C2,DDIC-007-C2-F03,DD City,Control,812669,1062735,Control family,Negative,No case and An. Steph
+DDIC-007-C2,DDIC-007-C2-F02,DD City,Control,812669,1062735,Control family,Negative,No case and An. Steph
+DDIC-007-C2,DDIC-007-C2-F01,DD City,Control,812669,1062735,Control,Negative,No case and An. Steph
+DDIC-007-C2,DDIC-007-C2-F04,DD City,Control,812669,1062735,Control family,Negative,No case and An. Steph
+DDIC-007-C3,DDIC-007-C3-F04,DD City,Control,812254,1062475,Control family,Negative,No case and An. Steph
+DDIC-007-C3,DDIC-007-C3-F02,DD City,Control,812254,1062475,Control family,Negative,No case and An. Steph
+DDIC-007-C3,DDIC-007-C3-F03,DD City,Control,812254,1062475,Control family,Negative,No case and An. Steph
+DDIC-007-C3,DDIC-007-C3-F01,DD City,Control,812254,1062475,Control,Negative,No case and An. Steph
+DDIC-008,DDIC-008-F02,DD City,Case,812601,1062304,Index family,Negative,Malaria Case Only
+DDIC-008,DDIC-008-F01,DD City,Case,812601,1062304,Index,Negative,Malaria Case Only
+DDIC-008,DDIC-008-F03,DD City,Case,812601,1062304,Index family,Negative,Malaria Case Only
+DDIC-008,DDIC-008-F04,DD City,Case,812601,1062304,Index family,Negative,Malaria Case Only
+DDIC-008-C1,DDIC-008-C1-F01,DD City,Control,812071,1061682,Control,Negative,No case and An. Steph
+DDIC-008-C2,DDIC-008-C2-F01,DD City,Case,812472,1062368,Index,Positive,Overlap
+DDIC-008-C2,DDIC-008-C2-F02,DD City,Case,812472,1062368,Index family,Positive,Overlap
+DDIC-008-C3,DDIC-008-C3-F01,DD City,Control,811893,1062162,Control,Positive,An. Stephensi only
+DDIC-008-C3,DDIC-008-C3-F02,DD City,Control,811893,1062162,Control family,Positive,An. Stephensi only
+DDIC-009,DDIC-009-F06,DD City,Case,812183,1061820,Index family,Negative,Malaria Case Only
+DDIC-009,DDIC-009-F05,DD City,Case,812183,1061820,Index family,Negative,Malaria Case Only
+DDIC-009,DDIC-009-F03,DD City,Case,812183,1061820,Index family,Negative,Malaria Case Only
+DDIC-009,DDIC-009-F01,DD City,Case,812183,1061820,Index,Negative,Malaria Case Only
+DDIC-009,DDIC-009-F02,DD City,Case,812183,1061820,Index family,Negative,Malaria Case Only
+DDIC-009,DDIC-009-F04,DD City,Case,812183,1061820,Index family,Negative,Malaria Case Only
+DDIC-009-C1,DDIC-009-C1-F02,DD City,Control,811856,1062264,Control family,Negative,No case and An. Steph
+DDIC-009-C1,DDIC-009-C1-F01,DD City,Control,811856,1062264,Control,Negative,No case and An. Steph
+DDIC-009-C1,DDIC-009-C1-F03,DD City,Control,811856,1062264,Control family,Negative,No case and An. Steph
+DDIC-009-C2,DDIC-009-C2-F06,DD City,Control,811654,1061641,Control family,Negative,No case and An. Steph
+DDIC-009-C2,DDIC-009-C2-F04,DD City,Control,811654,1061641,Control family,Negative,No case and An. Steph
+DDIC-009-C2,DDIC-009-C2-F05,DD City,Control,811654,1061641,Control family,Negative,No case and An. Steph
+DDIC-009-C2,DDIC-009-C2-F02,DD City,Control,811654,1061641,Control family,Positive,An. Stephensi only
+DDIC-009-C2,DDIC-009-C2-F01,DD City,Control,811654,1061641,Control,Positive,An. Stephensi only
+DDIC-009-C2,DDIC-009-C2-F03,DD City,Control,811654,1061641,Control family,Positive,An. Stephensi only
+DDIC-009-C2,DDIC-009-C2-F07,DD City,Control,811654,1061641,Control family,Positive,An. Stephensi only
+DDIC-009-C3,DDIC-009-C3-F01,DD City,Control,812751,1063454,Control,Positive,An. Stephensi only
+DDIC-009-C3,DDIC-009-C3-F02,DD City,Control,812751,1063454,Control family,Positive,An. Stephensi only
+DDIC-010,DDIC-010-F01,DD City,Case,812088,1062015,Index,Negative,Malaria Case Only
+DDIC-010,DDIC-010-F03,DD City,Case,812088,1062015,Index family,Negative,Malaria Case Only
+DDIC-010,DDIC-010-F02,DD City,Case,812088,1062015,Index family,Negative,Malaria Case Only
+DDIC-010,DDIC-010-F04,DD City,Case,812088,1062015,Index family,Negative,Malaria Case Only
+DDIC-010-C1,DDIC-010-C1-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F02,DD City,Control,811842,1062200,Control family,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F03,DD City,Control,811842,1062200,Control family,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F06,DD City,Control,811842,1062200,Control family,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F04,DD City,Control,811842,1062200,Control family,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F01,DD City,Control,811842,1062200,Control,Negative,No case and An. Steph
+DDIC-010-C2,DDIC-010-C2-F05,DD City,Control,811842,1062200,Control family,Negative,No case and An. Steph
+DDIC-010-C3,DDIC-010-C3-F04,DD City,Control,811552,1061743,Control family,Negative,No case and An. Steph
+DDIC-010-C3,DDIC-010-C3-F03,DD City,Control,811552,1061743,Control family,Negative,No case and An. Steph
+DDIC-010-C3,DDIC-010-C3-F01,DD City,Control,811552,1061743,Control,Negative,No case and An. Steph
+DDIC-010-C3,DDIC-010-C3-F02,DD City,Control,811552,1061743,Control family,Negative,No case and An. Steph
+DDIC-011,DDIC-011-F02,DD City,Case,8127670,1062582,Index family,Negative,Malaria Case Only
+DDIC-011,DDIC-011-F01,DD City,Case,8127670,1062582,Index,Negative,Malaria Case Only
+DDIC-011-C1,DDIC-011-C1-F04,DD City,Control,812166,1061692,Control family,Negative,No case and An. Steph
+DDIC-011-C1,DDIC-011-C1-F03,DD City,Control,812166,1061692,Control family,Negative,No case and An. Steph
+DDIC-011-C1,DDIC-011-C1-F01,DD City,Control,812166,1061692,Control,Negative,No case and An. Steph
+DDIC-011-C1,DDIC-011-C1-F02,DD City,Control,812166,1061692,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F02,DD City,Control,811748,1061704,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F04,DD City,Control,811748,1061704,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F03,DD City,Control,811748,1061704,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F06,DD City,Control,811748,1061704,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F05,DD City,Control,811748,1061704,Control family,Negative,No case and An. Steph
+DDIC-011-C2,DDIC-011-C2-F01,DD City,Control,811748,1061704,Control,Negative,No case and An. Steph
+DDIC-011-C3,DDIC-011-C3-F04,DD City,Control,811887,1061782,Control family,Negative,No case and An. Steph
+DDIC-011-C3,DDIC-011-C3-F02,DD City,Control,811887,1061782,Control family,Negative,No case and An. Steph
+DDIC-011-C3,DDIC-011-C3-F03,DD City,Control,811887,1061782,Control family,Negative,No case and An. Steph
+DDIC-011-C3,DDIC-011-C3-F01,DD City,Control,811887,1061782,Control,Negative,No case and An. Steph
+DDIC-012,DDIC-012-F02,DD City,Case,812356,1061149,Index family,Negative,Malaria Case Only
+DDIC-012,DDIC-012-F01,DD City,Case,812356,1061149,Index,Negative,Malaria Case Only
+DDIC-012-C1,DDIC-012-C1-F02,DD City,Control,811923,1061844,Control family,Negative,No case and An. Steph
+DDIC-012-C1,DDIC-012-C1-F03,DD City,Control,811923,1061844,Control family,Positive,An. Stephensi only
+DDIC-012-C1,DDIC-012-C1-F01,DD City,Control,811923,1061844,Control,Positive,An. Stephensi only
+DDIC-013,DDIC-013-F01,DD City,Case,812401,1061481,Index,Negative,Malaria Case Only
+DDIC-013,DDIC-013-F02,DD City,Case,812401,1061481,Index family,Negative,Malaria Case Only
+DDIC-013,DDIC-013-F03,DD City,Case,812401,1061481,Index family,Negative,Malaria Case Only
+DDIC-013-C1,DDIC-013-C1-F02,DD City,Control,811903,1062146,Control family,Negative,No case and An. Steph
+DDIC-013-C1,DDIC-013-C1-F01,DD City,Control,811903,1062146,Control,Negative,No case and An. Steph
+DDIC-013-C1,DDIC-013-C1-F04,DD City,Control,811903,1062146,Control family,Negative,No case and An. Steph
+DDIC-013-C1,DDIC-013-C1-F05,DD City,Control,811903,1062146,Control family,Negative,No case and An. Steph
+DDIC-013-C1,DDIC-013-C1-F03,DD City,Control,811903,1062146,Control family,Negative,No case and An. Steph
+DDIC-013-C2,DDIC-013-C2-F04,DD City,Control,810545,1061747,Control family,Negative,No case and An. Steph
+DDIC-013-C2,DDIC-013-C2-F02,DD City,Control,810545,1061747,Control family,Negative,No case and An. Steph
+DDIC-013-C2,DDIC-013-C2-F01,DD City,Control,810545,1061747,Control,Negative,No case and An. Steph
+DDIC-013-C2,DDIC-013-C2-F03,DD City,Control,810545,1061747,Control family,Positive,An. Stephensi only
+DDIC-013-C3,DDIC-013-C3-F02,DD City,Control,813169,1063769,Control family,Positive,An. Stephensi only
+DDIC-013-C3,DDIC-013-C3-F01,DD City,Control,813169,1063769,Control,Positive,An. Stephensi only
+DDIC-014,DDIC-014-F04,DD City,Case,811298,1062260,Index family,Negative,Malaria Case Only
+DDIC-014,DDIC-014-F01,DD City,Case,811298,1062260,Index,Negative,Malaria Case Only
+DDIC-014,DDIC-014-F03,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-014,DDIC-014-F02,DD City,Case,811298,1062260,Index family,Negative,Malaria Case Only
+DDIC-014-C1,DDIC-014-C1-F02,DD City,Control,811298,1062260,Control family,Negative,No case and An. Steph
+DDIC-014-C1,DDIC-014-C1-F01,DD City,Control,811298,1062260,Control,Negative,No case and An. Steph
+DDIC-014-C2,DDIC-014-C2-F01,DD City,Control,811789,1061394,Control,Negative,No case and An. Steph
+DDIC-014-C2,DDIC-014-C2-F02,DD City,Control,811789,1061394,Control family,Negative,No case and An. Steph
+DDIC-014-C2,DDIC-014-C2-F03,DD City,Control,811789,1061394,Control family,Negative,No case and An. Steph
+DDIC-014-C3,DDIC-014-C3-F01,DD City,Control,811298,1062260,Control,Negative,No case and An. Steph
+DDIC-015,DDIC-015-F04,DD City,Case,811912,1061800,Index family,Negative,Malaria Case Only
+DDIC-015,DDIC-015-F01,DD City,Case,811912,1061800,Index,Negative,Malaria Case Only
+DDIC-015,DDIC-015-F02,DD City,Case,811912,1061800,Index family,Negative,Malaria Case Only
+DDIC-015,DDIC-015-F03,DD City,Case,811912,1061800,Index family,Negative,Malaria Case Only
+DDIC-015-C1,DDIC-015-C1-F01,DD City,Control,809101,1062797,Control,Negative,No case and An. Steph
+DDIC-015-C1,DDIC-015-C1-F02,DD City,Control,809101,1062797,Control family,Negative,No case and An. Steph
+DDIC-015-C2,DDIC-015-C2-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-015-C2,DDIC-015-C2-F02,DD City,Control,NA,NA,Control family,Negative,No case and An. Steph
+DDIC-015-C3,DDIC-015-C3-F01,DD City,Control,811818,1062783,Control family,Negative,No case and An. Steph
+DDIC-015-C3,DDIC-015-C3-F02,DD City,Control,811818,1062783,Control family,Negative,No case and An. Steph
+DDIC-015-C3,DDIC-015-C3-F03,DD City,Control,811818,1062783,Control family,Negative,No case and An. Steph
+DDIC-016,DDIC-016-F01,DD City,Case,812554,1062295,Index,Negative,Malaria Case Only
+DDIC-016-C1,DDIC-016-C1-F05,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F04,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F03,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F07,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F06,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F02,DD City,Control,812162,1061683,Control family,Negative,No case and An. Steph
+DDIC-016-C1,DDIC-016-C1-F01,DD City,Control,812162,1061683,Control,Negative,No case and An. Steph
+DDIC-017,DDIC-017-F01,DD City,Case,NA,NA,Index,Negative,Malaria Case Only
+DDIC-017,DDIC-017-F02,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-017-C1,DDIC-017-C1-F01,DD City,Control,811485,1061983,Control,Negative,No case and An. Steph
+DDIC-017-C1,DDIC-017-C1-F02,DD City,Control,811485,1061983,Control family,Negative,No case and An. Steph
+DDIC-017-C2,DDIC-017-C2-F01,DD City,Control,811239,1061942,Control,Negative,No case and An. Steph
+DDIC-017-C2,DDIC-017-C2-F02,DD City,Control,811239,1061942,Control family,Negative,No case and An. Steph
+DDIC-017-C2,DDIC-017-C2-F04,DD City,Control,811239,1061942,Control family,Negative,No case and An. Steph
+DDIC-017-C2,DDIC-017-C2-F03,DD City,Control,811239,1061942,Control family,Negative,No case and An. Steph
+DDIC-017-C3,DDIC-017-C3-F02,DD City,Control,812165,1063057,Control family,Negative,No case and An. Steph
+DDIC-017-C3,DDIC-017-C3-F01,DD City,Control,812165,1063057,Control,Negative,No case and An. Steph
+DDIC-017-C3,DDIC-017-C3-F03,DD City,Control,812165,1063057,Control family,Negative,No case and An. Steph
+DDIC-018,DDIC-018-F01,DD City,Case,812545,1062064,Index,Negative,Malaria Case Only
+DDIC-018,DDIC-018-F02,DD City,Case,812545,1062064,Index family,Negative,Malaria Case Only
+DDIC-018,DDIC-018-F03,DD City,Case,812545,1062064,Index family,Negative,Malaria Case Only
+DDIC-018-C1,DDIC-018-C1-F01,DD City,Control,812224,1061591,Control,Negative,No case and An. Steph
+DDIC-018-C2,DDIC-018-C2-F02,DD City,Control,810210,1062852,Control family,Negative,No case and An. Steph
+DDIC-018-C2,DDIC-018-C2-F05,DD City,Control,810210,1062852,Control family,Negative,No case and An. Steph
+DDIC-018-C2,DDIC-018-C2-F01,DD City,Control,810210,1062852,Control,Negative,No case and An. Steph
+DDIC-018-C2,DDIC-018-C2-F04,DD City,Control,810210,1062852,Control family,Negative,No case and An. Steph
+DDIC-018-C2,DDIC-018-C2-F03,DD City,Control,810210,1062852,Control family,Negative,No case and An. Steph
+DDIC-018-C3,DDIC-018-C3-F02,DD City,Control,811768,1061760,Control family,Negative,No case and An. Steph
+DDIC-018-C3,DDIC-018-C3-F03,DD City,Control,811768,1061760,Control family,Negative,No case and An. Steph
+DDIC-018-C3,DDIC-018-C3-F04,DD City,Control,811768,1061760,Control family,Negative,No case and An. Steph
+DDIC-018-C3,DDIC-018-C3-F05,DD City,Control,811768,1061760,Control family,Negative,No case and An. Steph
+DDIC-018-C3,DDIC-018-C3-F01,DD City,Control,811768,1061760,Control,Negative,No case and An. Steph
+DDIC-019,DDIC-019-F01,DD City,Case,812140,1061797,Index,Negative,Malaria Case Only
+DDIC-019,DDIC-019-F03,DD City,Case,812140,1061797,Index family,Negative,Malaria Case Only
+DDIC-019,DDIC-019-F02,DD City,Case,812140,1061797,Index family,Negative,Malaria Case Only
+DDIC-019-C1,DDIC-019-C1-F02,DD City,Control,810273,1061934,Control family,Negative,No case and An. Steph
+DDIC-019-C1,DDIC-019-C1-F05,DD City,Control,810273,1061934,Control family,Negative,No case and An. Steph
+DDIC-019-C1,DDIC-019-C1-F04,DD City,Control,810273,1061934,Control family,Negative,No case and An. Steph
+DDIC-019-C1,DDIC-019-C1-F01,DD City,Control,810273,1061934,Control,Negative,No case and An. Steph
+DDIC-019-C1,DDIC-019-C1-F03,DD City,Control,810273,1061934,Control family,Negative,No case and An. Steph
+DDIC-019-C2,DDIC-019-C2-F02,DD City,Control,811942,1061736,Control family,Negative,No case and An. Steph
+DDIC-019-C2,DDIC-019-C2-F03,DD City,Control,811942,1061736,Control family,Negative,No case and An. Steph
+DDIC-019-C2,DDIC-019-C2-F01,DD City,Control,811942,1061736,Control,Negative,No case and An. Steph
+DDIC-019-C2,DDIC-019-C2-F04,DD City,Control,811942,1061736,Control family,Negative,No case and An. Steph
+DDIC-019-C3,DDIC-019-C3-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-020,DDIC-020-F01,DD City,Case,812448,1061446,Index,Negative,Malaria Case Only
+DDIC-020-C1,DDIC-020-C1-F02,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F03,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F05,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F07,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F01,DD City,Control,811184,1062882,Control,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F04,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-020-C1,DDIC-020-C1-F06,DD City,Control,811184,1062882,Control family,Negative,No case and An. Steph
+DDIC-021,DDIC-021-F04,DD City,Case,812453,1062212,Index family,Negative,Malaria Case Only
+DDIC-021,DDIC-021-F02,DD City,Case,812453,1062212,Index family,Negative,Malaria Case Only
+DDIC-021,DDIC-021-F01,DD City,Case,812453,1062212,Index,Negative,Malaria Case Only
+DDIC-021,DDIC-021-F03,DD City,Case,812453,1062212,Index family,Negative,Malaria Case Only
+DDIC-021-C1,DDIC-021-C1-F02,DD City,Control,811489,1062208,Control family,Negative,No case and An. Steph
+DDIC-021-C1,DDIC-021-C1-F03,DD City,Control,811489,1062208,Control family,Negative,No case and An. Steph
+DDIC-021-C1,DDIC-021-C1-F01,DD City,Control,811489,1062208,Control,Negative,No case and An. Steph
+DDIC-021-C2,DDIC-021-C2-F01,DD City,Control,812230,1063518,Control,Negative,No case and An. Steph
+DDIC-021-C2,DDIC-021-C2-F02,DD City,Control,812230,1063518,Control family,Negative,No case and An. Steph
+DDIC-022,DDIC-022-F01,DD City,Case,814348,1058652,Index,Negative,Malaria Case Only
+DDIC-022,DDIC-022-F02,DD City,Case,814348,1058652,Index family,Negative,Malaria Case Only
+DDIC-022-C1,DDIC-022-C1-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-022-C2,DDIC-022-C2-F01,DD City,Control,811537,1062087,Control,Negative,No case and An. Steph
+DDIC-022-C3,DDIC-022-C3-F02,DD City,Control,NA,NA,Control family,Negative,No case and An. Steph
+DDIC-022-C3,DDIC-022-C3-F03,DD City,Control,NA,NA,Control family,Negative,No case and An. Steph
+DDIC-022-C3,DDIC-022-C3-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-023,DDIC-023-F01,DD City,Case,812889,1062757,Index,Negative,Malaria Case Only
+DDIC-023,DDIC-023-F03,DD City,Case,812889,1062757,Index family,Negative,Malaria Case Only
+DDIC-023,DDIC-023-F02,DD City,Case,812889,1062757,Index family,Negative,Malaria Case Only
+DDIC-023-C1,DDIC-023-C1-F04,DD City,Control,811708,1061752,Control family,Negative,No case and An. Steph
+DDIC-023-C1,DDIC-023-C1-F02,DD City,Control,811708,1061752,Control family,Negative,No case and An. Steph
+DDIC-023-C1,DDIC-023-C1-F01,DD City,Control,811708,1061752,Control,Negative,No case and An. Steph
+DDIC-023-C1,DDIC-023-C1-F03,DD City,Control,811708,1061752,Control family,Negative,No case and An. Steph
+DDIC-023-C2,DDIC-023-C2-F03,DD City,Control,810502,1062541,Control family,Negative,No case and An. Steph
+DDIC-023-C2,DDIC-023-C2-F05,DD City,Control,810502,1062541,Control family,Negative,No case and An. Steph
+DDIC-023-C2,DDIC-023-C2-F01,DD City,Control,810502,1062541,Control,Negative,No case and An. Steph
+DDIC-023-C2,DDIC-023-C2-F02,DD City,Control,810502,1062541,Control family,Negative,No case and An. Steph
+DDIC-023-C2,DDIC-023-C2-F04,DD City,Control,810502,1062541,Control family,Negative,No case and An. Steph
+DDIC-023-C3,DDIC-023-C3-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-024,DDIC-024-F02,DD City,Case,812590,1062146,Index family,Negative,Malaria Case Only
+DDIC-024,DDIC-024-F01,DD City,Case,812590,1062146,Index,Negative,Malaria Case Only
+DDIC-024-C1,DDIC-024-C1-F07,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F05,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F01,DD City,Control,812227,1061859,Control,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F03,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F04,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F02,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C1,DDIC-024-C1-F06,DD City,Control,812227,1061859,Control family,Negative,No case and An. Steph
+DDIC-024-C2,DDIC-024-C2-F01,DD City,Control,808722,1063330,Control,Negative,No case and An. Steph
+DDIC-025,DDIC-025-F05,DD City,Case,812407,1065433,Index family,Negative,Malaria Case Only
+DDIC-025,DDIC-025-F01,DD City,Case,812407,1065433,Index,Negative,Malaria Case Only
+DDIC-025,DDIC-025-F06,DD City,Case,812407,1065433,Index family,Negative,Malaria Case Only
+DDIC-025,DDIC-025-F03,DD City,Case,812407,1065433,Index family,Negative,Malaria Case Only
+DDIC-025,DDIC-025-F04,DD City,Case,812407,1065433,Index family,Negative,Malaria Case Only
+DDIC-025,DDIC-025-F02,DD City,Case,812407,1065433,Index family,Negative,Malaria Case Only
+DDIC-025-C1,DDIC-025-C1-F02,DD City,Control,812421,1061116,Control family,Negative,No case and An. Steph
+DDIC-025-C1,DDIC-025-C1-F03,DD City,Control,812421,1061116,Control family,Negative,No case and An. Steph
+DDIC-025-C1,DDIC-025-C1-F05,DD City,Control,812421,1061116,Control family,Negative,No case and An. Steph
+DDIC-025-C1,DDIC-025-C1-F04,DD City,Control,812421,1061116,Control family,Negative,No case and An. Steph
+DDIC-025-C1,DDIC-025-C1-F01,DD City,Control,812421,1061116,Control,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F03,DD City,Control,811511,1062139,Control family,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F01,DD City,Control,811511,1062139,Control,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F05,DD City,Control,811511,1062139,Control family,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F04,DD City,Control,811511,1062139,Control family,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F06,DD City,Control,811511,1062139,Control family,Negative,No case and An. Steph
+DDIC-025-C2,DDIC-025-C2-F02,DD City,Control,811511,1062139,Control family,Negative,No case and An. Steph
+DDIC-025-C3,DDIC-025-C3-F01,DD City,Control,NA,NA,Control family,Negative,No case and An. Steph
+DDIC-026,DDIC-026-F02,DD City,Case,812365,1062164,Index family,Negative,Malaria Case Only
+DDIC-026,DDIC-026-F04,DD City,Case,812365,1062164,Index family,Negative,Malaria Case Only
+DDIC-026,DDIC-026-F01,DD City,Case,812365,1062164,Index,Negative,Malaria Case Only
+DDIC-026,DDIC-026-F05,DD City,Case,812365,1062164,Index family,Negative,Malaria Case Only
+DDIC-026,DDIC-026-F06,DD City,Case,812365,1062164,Index family,Negative,Malaria Case Only
+DDIC-026,DDIC-026-F03,DD City,Case,812365,1062164,Index family,Negative,Malaria Case Only
+DDIC-026-C1,DDIC-026-C1-F02,DD City,Control,812415,1061416,Control family,Negative,No case and An. Steph
+DDIC-026-C1,DDIC-026-C1-F01,DD City,Control,812415,1061416,Control,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F04,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F05,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F06,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F08,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F07,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F03,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F01,DD City,Control,810177,1062855,Control,Negative,No case and An. Steph
+DDIC-026-C2,DDIC-026-C2-F02,DD City,Control,810177,1062855,Control family,Negative,No case and An. Steph
+DDIC-026-C3,DDIC-026-C3-F01,DD City,Control,811594,1061853,Control,Negative,No case and An. Steph
+DDIC-026-C3,DDIC-026-C3-F02,DD City,Control,811594,1061853,Control family,Negative,No case and An. Steph
+DDIC-026-C3,DDIC-026-C3-F03,DD City,Control,811594,1061853,Control family,Negative,No case and An. Steph
+DDIC-027,DDIC-027-F01,DD City,Case,811625,1061749,Index,Negative,Malaria Case Only
+DDIC-027-C1,DDIC-027-C1-F03,DD City,Control,812721,1062565,Control family,Negative,No case and An. Steph
+DDIC-027-C1,DDIC-027-C1-F01,DD City,Control,812721,1062565,Control,Negative,No case and An. Steph
+DDIC-027-C1,DDIC-027-C1-F02,DD City,Control,812721,1062565,Control family,Negative,No case and An. Steph
+DDIC-027-C2,DDIC-027-C2-F02,DD City,Control,812755,1062787,Control family,Negative,No case and An. Steph
+DDIC-027-C2,DDIC-027-C2-F01,DD City,Control,812755,1062787,Control,Negative,No case and An. Steph
+DDIC-027-C2,DDIC-027-C2-F03,DD City,Control,812755,1062787,Control family,Negative,No case and An. Steph
+DDIC-027-C2,DDIC-027-C2-F04,DD City,Control,812755,1062787,Control family,Negative,No case and An. Steph
+DDIC-028,DDIC-028-F01,DD City,Case,811524,1061980,Index,Negative,Malaria Case Only
+DDIC-028,DDIC-028-F02,DD City,Case,811524,1061980,Index family,Negative,Malaria Case Only
+DDIC-028,DDIC-028-F03,DD City,Case,811524,1061980,Index family,Negative,Malaria Case Only
+DDIC-028,DDIC-028-F04,DD City,Case,811524,1061980,Index family,Negative,Malaria Case Only
+DDIC-028-C1,DDIC-028-C1-F02,DD City,Control,812334,1062318,Control family,Negative,No case and An. Steph
+DDIC-028-C1,DDIC-028-C1-F01,DD City,Control,812334,1062318,Control,Negative,No case and An. Steph
+DDIC-029,DDIC-029-F02,DD City,Case,811775,1062294,Index family,Negative,Malaria Case Only
+DDIC-029,DDIC-029-F01,DD City,Case,811775,1062294,Index,Negative,Malaria Case Only
+DDIC-029,DDIC-029-F03,DD City,Case,811775,1062294,Index family,Negative,Malaria Case Only
+DDIC-029-C1,DDIC-029-C1-F03,DD City,Control,812111,1062036,Control family,Negative,No case and An. Steph
+DDIC-029-C1,DDIC-029-C1-F02,DD City,Control,812111,1062036,Control family,Negative,No case and An. Steph
+DDIC-029-C1,DDIC-029-C1-F01,DD City,Control,812111,1062036,Control,Negative,No case and An. Steph
+DDIC-030,DDIC-030-F02,DD City,Case,811979,1062286,Index family,Negative,Malaria Case Only
+DDIC-030,DDIC-030-F01,DD City,Case,811979,1062286,Index,Negative,Malaria Case Only
+DDIC-030-C1,DDIC-030-C1-F03,DD City,Control,808157,1063502,Control family,Negative,No case and An. Steph
+DDIC-030-C1,DDIC-030-C1-F02,DD City,Control,808157,1063502,Control family,Negative,No case and An. Steph
+DDIC-030-C1,DDIC-030-C1-F01,DD City,Control,808157,1063502,Control,Negative,No case and An. Steph
+DDIC-030-C2,DDIC-030-C2-F03,DD City,Control,809801,1061770,Control family,Negative,No case and An. Steph
+DDIC-030-C2,DDIC-030-C2-F01,DD City,Control,809801,1061770,Control,Positive,An. Stephensi only
+DDIC-030-C2,DDIC-030-C2-F02,DD City,Control,809801,1061770,Control family,Positive,An. Stephensi only
+DDIC-030-C3,DDIC-030-C3-F03,DD City,Control,811902,1061574,Control family,Positive,An. Stephensi only
+DDIC-030-C3,DDIC-030-C3-F02,DD City,Control,811902,1061574,Control family,Positive,An. Stephensi only
+DDIC-030-C3,DDIC-030-C3-F01,DD City,Control,811902,1061574,Control,Positive,An. Stephensi only
+DDIC-030-C3,DDIC-030-C3-F05,DD City,Control,811902,1061574,Control family,Negative,No case and An. Steph
+DDIC-030-C3,DDIC-030-C3-F04,DD City,Control,811902,1061574,Control family,Negative,No case and An. Steph
+DDIC-031,DDIC-031-F01,DD City,Case,812337,1061583,Index,Negative,Malaria Case Only
+DDIC-031,DDIC-031-F03,DD City,Case,812337,1061583,Index family,Negative,Malaria Case Only
+DDIC-031,DDIC-031-F02,DD City,Case,812337,1061583,Index family,Negative,Malaria Case Only
+DDIC-031,DDIC-031-F04,DD City,Case,812337,1061583,Index family,Negative,Malaria Case Only
+DDIC-031,DDIC-031-F05,DD City,Case,812337,1061583,Index family,Negative,Malaria Case Only
+DDIC-031-C1,DDIC-031-C1-F01,DD City,Control,NA,NA,Control,Negative,No case and An. Steph
+DDIC-031-C2,DDIC-031-C2-F02,DD City,Control,812070,1061518,Control family,Negative,No case and An. Steph
+DDIC-031-C2,DDIC-031-C2-F01,DD City,Control,812070,1061518,Control,Negative,No case and An. Steph
+DDIC-031-C3,DDIC-031-C3-F02,DD City,Control,811251,1061719,Control family,Negative,No case and An. Steph
+DDIC-031-C3,DDIC-031-C3-F01,DD City,Control,811251,1061719,Control,Negative,No case and An. Steph
+DDIC-031-C3,DDIC-031-C3-F03,DD City,Control,811251,1061719,Control family,Negative,No case and An. Steph
+DDIC-032,DDIC-032-F01,DD City,Case,812405,1061148,Index,Negative,Malaria Case Only
+DDIC-032,DDIC-032-F03,DD City,Case,812405,1061148,Index family,Negative,Malaria Case Only
+DDIC-032,DDIC-032-F05,DD City,Case,812405,1061148,Index family,Negative,Malaria Case Only
+DDIC-032,DDIC-032-F04,DD City,Case,812405,1061148,Index family,Negative,Malaria Case Only
+DDIC-032,DDIC-032-F02,DD City,Case,812405,1061148,Index family,Negative,Malaria Case Only
+DDIC-032-C1,DDIC-032-C1-F03,DD City,Control,810154,1063474,Control family,Negative,No case and An. Steph
+DDIC-032-C1,DDIC-032-C1-F02,DD City,Control,810154,1063474,Control family,Negative,No case and An. Steph
+DDIC-032-C1,DDIC-032-C1-F01,DD City,Control,810154,1063474,Control,Negative,No case and An. Steph
+DDIC-032-C1,DDIC-032-C1-F04,DD City,Control,810154,1063474,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F06,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F05,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F04,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F03,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F07,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F02,DD City,Control,812277,1061681,Control family,Negative,No case and An. Steph
+DDIC-032-C2,DDIC-032-C2-F01,DD City,Control,812277,1061681,Control,Negative,No case and An. Steph
+DDIC-033,DDIC-033-F04,DD City,Case,812541,1061274,Index family,Negative,Malaria Case Only
+DDIC-033,DDIC-033-F03,DD City,Case,812541,1061274,Index family,Negative,Malaria Case Only
+DDIC-033,DDIC-033-F01,DD City,Case,812541,1061274,Index,Negative,Malaria Case Only
+DDIC-033,DDIC-033-F02,DD City,Case,812541,1061274,Index family,Negative,Malaria Case Only
+DDIC-033-C1,DDIC-033-C1-F04,DD City,Control,811598,1061820,Control family,Negative,No case and An. Steph
+DDIC-033-C1,DDIC-033-C1-F03,DD City,Control,811598,1061820,Control family,Negative,No case and An. Steph
+DDIC-033-C1,DDIC-033-C1-F01,DD City,Control,811598,1061820,Control,Negative,No case and An. Steph
+DDIC-033-C1,DDIC-033-C1-F02,DD City,Control,811598,1061820,Control family,Negative,No case and An. Steph
+DDIC-033-C2,DDIC-033-C2-F03,DD City,Control,811957,1061987,Control family,Negative,No case and An. Steph
+DDIC-033-C2,DDIC-033-C2-F02,DD City,Control,811957,1061987,Control family,Negative,No case and An. Steph
+DDIC-033-C2,DDIC-033-C2-F01,DD City,Control,811957,1061987,Control,Negative,No case and An. Steph
+DDIC-033-C2,DDIC-033-C2-F04,DD City,Control,811957,1061987,Control family,Negative,No case and An. Steph
+DDIC-034,DDIC-034-F01,DD City,Case,812556,1064720,Index,Negative,Malaria Case Only
+DDIC-034,DDIC-034-F02,DD City,Case,812556,1064720,Index family,Negative,Malaria Case Only
+DDIC-034,DDIC-034-F03,DD City,Case,812556,1064720,Index family,Negative,Malaria Case Only
+DDIC-034,DDIC-034-F05,DD City,Case,812556,1064720,Index family,Negative,Malaria Case Only
+DDIC-034,DDIC-034-F04,DD City,Case,812556,1064720,Index family,Negative,Malaria Case Only
+DDIC-034-C1,DDIC-034-C1-F01,DD City,Control,812538,1062597,Control,Negative,No case and An. Steph
+DDIC-034-C2,DDIC-034-C2-F02,DD City,Control,811259,1061895,Control family,Negative,No case and An. Steph
+DDIC-034-C2,DDIC-034-C2-F03,DD City,Control,811259,1061895,Control family,Negative,No case and An. Steph
+DDIC-034-C2,DDIC-034-C2-F01,DD City,Control,811259,1061895,Control,Negative,No case and An. Steph
+DDIC-034-C3,DDIC-034-C3-F01,DD City,Control,812437,1062235,Control,Negative,No case and An. Steph
+DDIC-034-C3,DDIC-034-C3-F04,DD City,Control,812437,1062235,Control family,Negative,No case and An. Steph
+DDIC-034-C3,DDIC-034-C3-F03,DD City,Control,812437,1062235,Control family,Negative,No case and An. Steph
+DDIC-034-C3,DDIC-034-C3-F02,DD City,Control,812437,1062235,Control family,Negative,No case and An. Steph
+DDIC-035,DDIC-035-F01,DD City,Case,812344,1062325,Index,Negative,Malaria Case Only
+DDIC-035-C1,DDIC-035-C1-F01,DD City,Control,811673,1061833,Control,Negative,No case and An. Steph
+DDIC-035-C1,DDIC-035-C1-F02,DD City,Control,811673,1061833,Control family,Negative,No case and An. Steph
+DDIC-035-C1,DDIC-035-C1-F03,DD City,Control,811673,1061833,Control family,Negative,No case and An. Steph
+DDIC-035-C2,DDIC-035-C2-F02,DD City,Control,812440,1061388,Control family,Negative,No case and An. Steph
+DDIC-035-C2,DDIC-035-C2-F01,DD City,Control,812440,1061388,Control,Negative,No case and An. Steph
+DDIC-035-C2,DDIC-035-C2-F03,DD City,Control,812440,1061388,Control family,Negative,No case and An. Steph
+DDIC-035-C3,DDIC-035-C3-F01,DD City,Control,811860,1063198,Control,Negative,No case and An. Steph
+DDIC-035-C3,DDIC-035-C3-F02,DD City,Control,811860,1063198,Control family,Negative,No case and An. Steph
+DDIC-036,DDIC-036-F02,DD City,Case,813138,1063493,Index family,Negative,Malaria Case Only
+DDIC-036,DDIC-036-F01,DD City,Case,813138,1063493,Index,Negative,Malaria Case Only
+DDIC-036-C1,DDIC-036-C1-F01,DD City,Control,812893,1062711,Control,Negative,No case and An. Steph
+DDIC-036-C2,DDIC-036-C2-F03,DD City,Control,809270,1062994,Control family,Negative,No case and An. Steph
+DDIC-036-C2,DDIC-036-C2-F01,DD City,Control,809270,1062994,Control,Negative,No case and An. Steph
+DDIC-036-C2,DDIC-036-C2-F02,DD City,Control,809270,1062994,Control family,Negative,No case and An. Steph
+DDIC-037,DDIC-037-F01,DD City,Case,812342,1061137,Index,Negative,Malaria Case Only
+DDIC-037,DDIC-037-F03,DD City,Case,812342,1061137,Index family,Negative,Malaria Case Only
+DDIC-037,DDIC-037-F02,DD City,Case,812342,1061137,Index family,Negative,Malaria Case Only
+DDIC-037-C1,DDIC-037-C1-F01,DD City,Control,811262,1062494,Control,Negative,No case and An. Steph
+DDIC-037-C2,DDIC-037-C2-F06,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F05,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F04,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F02,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F01,DD City,Case,NA,NA,Index,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F07,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-037-C2,DDIC-037-C2-F03,DD City,Case,NA,NA,Index family,Negative,Malaria Case Only
+DDIC-038,DDIC-038-F03,DD City,Case,812419,1061106,Index family,Negative,Malaria Case Only
+DDIC-038,DDIC-038-F02,DD City,Case,812419,1061106,Index family,Negative,Malaria Case Only
+DDIC-038,DDIC-038-F01,DD City,Case,812419,1061106,Index,Negative,Malaria Case Only
+DDIC-038-C1,DDIC-038-C1-F03,DD City,Control,812106,1062028,Control family,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F05,DD City,Control,812106,1062028,Control family,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F01,DD City,Control,812106,1062028,Control,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F02,DD City,Control,812106,1062028,Control family,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F06,DD City,Control,812106,1062028,Control family,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F07,DD City,Control,812106,1062028,Control family,Negative,No case and An. Steph
+DDIC-038-C1,DDIC-038-C1-F04,DD City,Control,812106,1062028,Control family,Positive,An. Stephensi only
+DDIC-038-C2,DDIC-038-C2-F01,DD City,Control,812959,1062869,Control,Positive,An. Stephensi only
+DDIC-038-C2,DDIC-038-C2-F02,DD City,Control,812959,1062869,Control family,Negative,No case and An. Steph
+DDIC-038-C3,DDIC-038-C3-F01,DD City,Control,812139,1061920,Control,Negative,No case and An. Steph
+DDIC-038-C3,DDIC-038-C3-F02,DD City,Control,812139,1061920,Control family,Negative,No case and An. Steph
+DDIC-039,DDIC-039-F02,DD City,Case,812320,1061606,Index family,Negative,Malaria Case Only
+DDIC-039,DDIC-039-F01,DD City,Case,812320,1061606,Index,Positive,Overlap
+DDIC-039-C1,DDIC-039-C1-F01,DD City,Control,812287,1061556,Control,Positive,An. Stephensi only
+DDIC-039-C2,DDIC-039-C2-F02,DD City,Control,812027,1062932,Control family,Negative,No case and An. Steph
+DDIC-039-C2,DDIC-039-C2-F01,DD City,Control,812027,1062932,Control,Negative,No case and An. Steph
+DDIC-040,DDIC-040-F04,DD City,Case,810714,1061951,Index family,Negative,Malaria Case Only
+DDIC-040,DDIC-040-F05,DD City,Case,810714,1061951,Index family,Negative,Malaria Case Only
+DDIC-040,DDIC-040-F06,DD City,Case,810714,1061951,Index family,Negative,Malaria Case Only
+DDIC-040,DDIC-040-F01,DD City,Case,810714,1061951,Index,Negative,Malaria Case Only
+DDIC-040,DDIC-040-F02,DD City,Case,810714,1061951,Index family,Negative,Malaria Case Only
+DDIC-040,DDIC-040-F03,DD City,Case,810714,1061951,Index family,Negative,Malaria Case Only
+DDIC-040-C1,DDIC-040-C1-F01,DD City,Control,810923,1062906,Control,Negative,No case and An. Steph
+DDIC-040-C1,DDIC-040-C1-F02,DD City,Control,810923,1062906,Control family,Negative,No case and An. Steph
+DDIC-040-C1,DDIC-040-C1-F03,DD City,Control,810923,1062906,Control family,Negative,No case and An. Steph
+DDIC-041,DDIC-041-F04,DD City,Case,811612,1062193,Index family,Negative,Malaria Case Only
+DDIC-041,DDIC-041-F03,DD City,Case,811612,1062193,Index family,Negative,Malaria Case Only
+DDIC-041,DDIC-041-F02,DD City,Case,811612,1062193,Index family,Negative,Malaria Case Only
+DDIC-041,DDIC-041-F01,DD City,Case,811612,1062193,Index,Negative,Malaria Case Only
+DDIC-041-C1,DDIC-041-C1-F03,DD City,Control,811097,1062512,Control family,Negative,No case and An. Steph
+DDIC-041-C1,DDIC-041-C1-F01,DD City,Control,811097,1062512,Control,Negative,No case and An. Steph
+DDIC-041-C1,DDIC-041-C1-F02,DD City,Control,811097,1062512,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F05,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F02,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F04,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F07,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F03,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F06,DD City,Control,811754,1062554,Control family,Negative,No case and An. Steph
+DDIC-041-C2,DDIC-041-C2-F01,DD City,Control,811754,1062554,Control,Negative,No case and An. Steph
+DDIC-042,DDIC-042-F03,DD City,Case,812160,1062016,Index family,Negative,Malaria Case Only
+DDIC-042,DDIC-042-F05,DD City,Case,812160,1062016,Index family,Negative,Malaria Case Only
+DDIC-042,DDIC-042-F01,DD City,Case,812160,1062016,Index,Negative,Malaria Case Only
+DDIC-042,DDIC-042-F04,DD City,Case,812160,1062016,Index family,Negative,Malaria Case Only
+DDIC-042,DDIC-042-F02,DD City,Case,812160,1062016,Index family,Negative,Malaria Case Only
+DDIC-042-C1,DDIC-042-C1-F02,DD City,Control,811665,1061829,Control family,Negative,No case and An. Steph
+DDIC-042-C1,DDIC-042-C1-F01,DD City,Control,811665,1061829,Control,Negative,No case and An. Steph
+DDIC-042-C2,DDIC-042-C2-F03,DD City,Control,811892,1062118,Control family,Negative,No case and An. Steph
+DDIC-042-C2,DDIC-042-C2-F01,DD City,Control,811892,1062118,Control,Negative,No case and An. Steph
+DDIC-042-C2,DDIC-042-C2-F02,DD City,Control,811892,1062118,Control family,Negative,No case and An. Steph
+DDIC-043,DDIC-043-F03,DD City,Case,812166,1062035,Index family,Negative,Malaria Case Only
+DDIC-043,DDIC-043-F01,DD City,Case,812166,1062035,Index,Negative,Malaria Case Only
+DDIC-043,DDIC-043-F02,DD City,Case,812166,1062035,Index family,Negative,Malaria Case Only
+DDIC-043-C1,DDIC-043-C1-F01,DD City,Control,812720,1062856,Control,Negative,No case and An. Steph
+DDIC-043-C2,DDIC-043-C2-F03,DD City,Control,809456,1064047,Control family,Negative,No case and An. Steph
+DDIC-043-C2,DDIC-043-C2-F02,DD City,Control,809456,1064047,Control family,Negative,No case and An. Steph
+DDIC-043-C2,DDIC-043-C2-F04,DD City,Control,809456,1064047,Control family,Negative,No case and An. Steph
+DDIC-043-C2,DDIC-043-C2-F01,DD City,Control,809456,1064047,Control,Negative,No case and An. Steph
+DDIC-043-C3,DDIC-043-C3-F02,DD City,Control,810654,1062150,Control family,Negative,No case and An. Steph
+DDIC-043-C3,DDIC-043-C3-F01,DD City,Control,810654,1062150,Control,Negative,No case and An. Steph
+DDIC-044,DDIC-044-F03,DD City,Case,812472,1062291,Index family,Negative,Malaria Case Only
+DDIC-044,DDIC-044-F01,DD City,Case,812472,1062291,Index,Negative,Malaria Case Only
+DDIC-044,DDIC-044-F02,DD City,Case,812472,1062291,Index family,Negative,Malaria Case Only
+DDIC-044-C1,DDIC-044-C1-F03,DD City,Control,810622,1061932,Control family,Negative,No case and An. Steph
+DDIC-044-C1,DDIC-044-C1-F02,DD City,Control,810622,1061932,Control family,Negative,No case and An. Steph
+DDIC-044-C1,DDIC-044-C1-F04,DD City,Control,810622,1061932,Control family,Negative,No case and An. Steph
+DDIC-044-C1,DDIC-044-C1-F01,DD City,Control,810622,1061932,Control,Negative,No case and An. Steph
+DDIC-044-C2,DDIC-044-C2-F02,DD City,Control,811937,1061520,Control family,Negative,No case and An. Steph
+DDIC-044-C2,DDIC-044-C2-F01,DD City,Control,811937,1061520,Control,Negative,No case and An. Steph
+DDIC-044-C3,DDIC-044-C3-F03,DD City,Control,811591,1061803,Control family,Negative,No case and An. Steph
+DDIC-044-C3,DDIC-044-C3-F02,DD City,Control,811591,1061803,Control family,Negative,No case and An. Steph
+DDIC-044-C3,DDIC-044-C3-F05,DD City,Control,811591,1061803,Control family,Negative,No case and An. Steph
+DDIC-044-C3,DDIC-044-C3-F04,DD City,Control,811591,1061803,Control family,Negative,No case and An. Steph
+DDIC-044-C3,DDIC-044-C3-F01,DD City,Control,811591,1061803,Control,Negative,No case and An. Steph
+DDIC-045,DDIC-045-F01,DD City,Case,812205,1061897,Index,Negative,Malaria Case Only
+DDIC-045,DDIC-045-F02,DD City,Case,812205,1061897,Index family,Negative,Malaria Case Only
+DDIC-045-C1,DDIC-045-C1-F02,DD City,Control,810871,1062109,Control family,Negative,No case and An. Steph
+DDIC-045-C1,DDIC-045-C1-F01,DD City,Control,810871,1062109,Control,Negative,No case and An. Steph
+DDIC-045-C2,DDIC-045-C2-F04,DD City,Control,812186,1062072,Control family,Negative,No case and An. Steph
+DDIC-045-C2,DDIC-045-C2-F02,DD City,Control,812186,1062072,Control family,Negative,No case and An. Steph
+DDIC-045-C2,DDIC-045-C2-F01,DD City,Control,812186,1062072,Control,Negative,No case and An. Steph
+DDIC-045-C2,DDIC-045-C2-F03,DD City,Control,812186,1062072,Control family,Negative,No case and An. Steph
+DDIC-045-C3,DDIC-045-C3-F02,DD City,Case,811350,1062176,Index family,Negative,Malaria Case Only
+DDIC-045-C3,DDIC-045-C3-F03,DD City,Case,811350,1062176,Index family,Negative,Malaria Case Only
+DDIC-045-C3,DDIC-045-C3-F01,DD City,Case,811350,1062176,Index,Negative,Malaria Case Only
+DDIC-045-C3,DDIC-045-C3-F04,DD City,Case,811350,1062176,Index family,Negative,Malaria Case Only
+DDUIC-001,DDUIC-001-F01,DDU,Case,811895,1064860,Index,Negative,Malaria Case Only
+DDUIC-001,DDUIC-001-F02,DDU,Case,811895,1064860,Index family,Negative,Malaria Case Only
+DDUIC-001-C1,DDUIC-001-C1-F01,DDU,Control,812156,1064881,Control,Negative,No case and An. Steph
+DDUIC-001-C1,DDUIC-001-C1-F03,DDU,Control,812156,1064881,Control family,Negative,No case and An. Steph
+DDUIC-001-C1,DDUIC-001-C1-F02,DDU,Control,812156,1064881,Control family,Negative,No case and An. Steph
+DDUIC-001-C2,DDUIC-001-C2-F03,DDU,Control,812156,1064881,Control family,Negative,No case and An. Steph
+DDUIC-001-C2,DDUIC-001-C2-F02,DDU,Control,812156,1064881,Control family,Negative,No case and An. Steph
+DDUIC-001-C2,DDUIC-001-C2-F01,DDU,Control,812156,1064881,Control,Negative,No case and An. Steph
+DDUIC-001-C3,DDUIC-001-C3-F02,DDU,Control,819995,10647558,Control family,Negative,No case and An. Steph
+DDUIC-001-C3,DDUIC-001-C3-F01,DDU,Control,819995,10647558,Control,Positive,An. Stephensi only
+DDUIC-001-C3,DDUIC-001-C3-F03,DDU,Control,819995,10647558,Control family,Positive,An. Stephensi only
+DDUIC-002,DDUIC-002-F01,DDU,Case,811894,1064766,Index,Negative,Malaria Case Only
+DDUIC-002,DDUIC-002-F02,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-002-C1,DDUIC-002-C1-F01,DDU,Control,812051,1064779,Control,Negative,No case and An. Steph
+DDUIC-002-C2,DDUIC-002-C2-F01,DDU,Control,811944,1064840,Control,Negative,No case and An. Steph
+DDUIC-002-C3,DDUIC-002-C3-F01,DDU,Control,812021,1064779,Control,Negative,No case and An. Steph
+DDUIC-002-C3,DDUIC-002-C3-F03,DDU,Control,812021,1064779,Control family,Positive,An. Stephensi only
+DDUIC-002-C3,DDUIC-002-C3-F02,DDU,Control,812021,1064779,Control family,Positive,An. Stephensi only
+DDUIC-003,DDUIC-003-F01,DDU,Case,812045,1064869,Index,Positive,Overlap
+DDUIC-003,DDUIC-003-F03,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-003,DDUIC-003-F02,DDU,Case,812045,1064869,Index family,Positive,Overlap
+DDUIC-003-C1,DDUIC-003-C1-F01,DDU,Control,812147,1064831,Control,Positive,An. Stephensi only
+DDUIC-003-C2,DDUIC-003-C2-F01,DDU,Control,812156,1064881,Control,Negative,No case and An. Steph
+DDUIC-003-C3,DDUIC-003-C3-F02,DDU,Control,81215,1064918,Control family,Negative,No case and An. Steph
+DDUIC-003-C3,DDUIC-003-C3-F01,DDU,Control,81215,1064918,Control,Negative,No case and An. Steph
+DDUIC-004,DDUIC-004-F01,DDU,Case,812051,1064779,Index,Negative,Malaria Case Only
+DDUIC-004-C1,DDUIC-004-C1-F01,DDU,Control,811995,1064758,Control,Negative,No case and An. Steph
+DDUIC-004-C1,DDUIC-004-C1-F02,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-004-C2,DDUIC-004-C2-F01,DDU,Control,811995,1064758,Control,Negative,No case and An. Steph
+DDUIC-004-C2,DDUIC-004-C2-F03,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-004-C2,DDUIC-004-C2-F02,DDU,Control,811995,1064758,Control family,Positive,An. Stephensi only
+DDUIC-004-C3,DDUIC-004-C3-F01,DDU,Control,812145,1064792,Control,Positive,An. Stephensi only
+DDUIC-004-C3,DDUIC-004-C3-F02,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-005,DDUIC-005-F01,DDU,Case,811990,1064758,Index,Positive,Overlap
+DDUIC-005-C1,DDUIC-005-C1-F01,DDU,Control,812150,1064918,Control,Negative,No case and An. Steph
+DDUIC-005-C2,DDUIC-005-C2-F01,DDU,Case,812447,1064750,Index,Negative,Malaria Case Only
+DDUIC-005-C3,DDUIC-005-C3-F01,DDU,Control,812147,1064750,Control,Negative,No case and An. Steph
+DDUIC-006,DDUIC-006-F01,DDU,Case,812045,1064863,Index,Positive,Overlap
+DDUIC-006-C1,DDUIC-006-C1-F01,DDU,Case,812051,1064779,Index,Positive,Overlap
+DDUIC-006-C2,DDUIC-006-C2-F01,DDU,Case,811995,10644758,Index,Negative,Malaria Case Only
+DDUIC-006-C3,DDUIC-006-C3-F01,DDU,Case,811995,1064758,Index,Negative,Malaria Case Only
+DDUIC-007,DDUIC-007-F01,DDU,Case,811892,1064766,Index,Negative,Malaria Case Only
+DDUIC-007-C1,DDUIC-007-C1-F01,DDU,Control,812147,1064831,Control,Negative,No case and An. Steph
+DDUIC-007-C2,DDUIC-007-C2-F01,DDU,Control,812156,1064881,Control,Negative,No case and An. Steph
+DDUIC-008,DDUIC-008-F01,DDU,Case,811987,1064856,Index,Positive,Overlap
+DDUIC-008,DDUIC-008-F03,DDU,Case,811987,1064856,Index family,Positive,Overlap
+DDUIC-008,DDUIC-008-F02,DDU,Case,811987,1064856,Index family,Negative,Malaria Case Only
+DDUIC-008-C1,DDUIC-008-C1-F01,DDU,Control,812156,1064881,Control,Negative,No case and An. Steph
+DDUIC-008-C1,DDUIC-008-C1-F02,DDU,Control,812156,1064881,Control family,Negative,No case and An. Steph
+DDUIC-008-C2,DDUIC-008-C2-F02,DDU,Case,811987,1064856,Index family,Negative,Malaria Case Only
+DDUIC-008-C2,DDUIC-008-C2-F01,DDU,Case,811987,1064856,Index,Negative,Malaria Case Only
+DDUIC-008-C3,DDUIC-008-C3-F02,DDU,Control,812003,1064794,Control family,Negative,No case and An. Steph
+DDUIC-008-C3,DDUIC-008-C3-F03,DDU,Control,812003,1064794,Control family,Negative,No case and An. Steph
+DDUIC-008-C3,DDUIC-008-C3-F01,DDU,Control,812003,1064794,Control,Negative,No case and An. Steph
+DDUIC-008-C3,DDUIC-008-C3-F04,DDU,Control,812003,1064794,Control family,Negative,No case and An. Steph
+DDUIC-009,DDUIC-009-F02,DDU,Case,811954,1064776,Index family,Negative,Malaria Case Only
+DDUIC-009,DDUIC-009-F03,DDU,Case,811954,1064776,Index family,Negative,Malaria Case Only
+DDUIC-009,DDUIC-009-F01,DDU,Case,811954,1064776,Index,Negative,Malaria Case Only
+DDUIC-009-C1,DDUIC-009-C1-F01,DDU,Control,812051,1064779,Control,Negative,No case and An. Steph
+DDUIC-009-C2,DDUIC-009-C2-F02,DDU,Case,812003,1064874,Index family,Negative,Malaria Case Only
+DDUIC-009-C2,DDUIC-009-C2-F01,DDU,Case,812003,1064874,Index,Negative,Malaria Case Only
+DDUIC-010,DDUIC-010-F01,DDU,Case,812056,1064881,Index,Positive,Overlap
+DDUIC-010-C1,DDUIC-010-C1-F02,DDU,Case,812003,1064794,Index family,Positive,Overlap
+DDUIC-010-C1,DDUIC-010-C1-F01,DDU,Case,812003,1064794,Index,Negative,Malaria Case Only
+DDUIC-012,DDUIC-012-F01,DDU,Case,811897,1064791,Index,Positive,Overlap
+DDUIC-012,DDUIC-012-F02,DDU,Case,811897,1064791,Index family,Positive,Overlap
+DDUIC-012-C1,DDUIC-012-C1-F01,DDU,Control,811944,1064840,Control,Negative,No case and An. Steph
+DDUIC-012-C1,DDUIC-012-C1-F02,DDU,Control,811944,1064840,Control family,Negative,No case and An. Steph
+DDUIC-012-C2,DDUIC-012-C2-F02,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-012-C2,DDUIC-012-C2-F01,DDU,Control,812147,1064831,Control,Positive,An. Stephensi only
+DDUIC-012-C3,DDUIC-012-C3-F01,DDU,Control,NA,NA,Control,Positive,An. Stephensi only
+DDUIC-013,DDUIC-013-F01,DDU,Case,810545,1061747,Index,Positive,Overlap
+DDUIC-013-C1,DDUIC-013-C1-F01,DDU,Control,812150,1064918,Control,Positive,An. Stephensi only
+DDUIC-013-C1,DDUIC-013-C1-F02,DDU,Control,812150,1064918,Control family,Positive,An. Stephensi only
+DDUIC-013-C2,DDUIC-013-C2-F01,DDU,Control,812003,1064794,Control,Positive,An. Stephensi only
+DDUIC-013-C3,DDUIC-013-C3-F01,DDU,Case,811897,1064791,Index,Positive,Overlap
+DDUIC-013-C3,DDUIC-013-C3-F03,DDU,Case,811897,1064791,Index family,Positive,Overlap
+DDUIC-013-C3,DDUIC-013-C3-F02,DDU,Case,811897,1064791,Index family,Positive,Overlap
+DDUIC-014,DDUIC-014-F03,DDU,Case,812056,1064835,Index family,Negative,Malaria Case Only
+DDUIC-014,DDUIC-014-F02,DDU,Case,812056,1064835,Index family,Negative,Malaria Case Only
+DDUIC-014,DDUIC-014-F01,DDU,Case,812056,1064835,Index,Negative,Malaria Case Only
+DDUIC-014-C1,DDUIC-014-C1-F02,DDU,Control,811954,1064776,Control family,Positive,An. Stephensi only
+DDUIC-014-C1,DDUIC-014-C1-F01,DDU,Control,811954,1064776,Control,Positive,An. Stephensi only
+DDUIC-014-C2,DDUIC-014-C2-F01,DDU,Control,812145,1064792,Control,Positive,An. Stephensi only
+DDUIC-015,DDUIC-015-F01,DDU,Case,812003,1064794,Index,Positive,Overlap
+DDUIC-015-C1,DDUIC-015-C1-F01,DDU,Control,811987,1064856,Control,Positive,An. Stephensi only
+DDUIC-015-C1,DDUIC-015-C1-F02,DDU,Control,811987,1064856,Control family,Positive,An. Stephensi only
+DDUIC-015-C2,DDUIC-015-C2-F01,DDU,Control,811888,1064821,Control,Negative,An. Stephensi only
+DDUIC-015-C3,DDUIC-015-C3-F01,DDU,Control,812045,1064869,Control,Negative,No case and An. Steph
+DDUIC-015-C3,DDUIC-015-C3-F02,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-015-C3,DDUIC-015-C3-F03,DDU,Control,812045,1064869,Control family,Positive,An. Stephensi only
+DDUIC-016,DDUIC-016-F01,DDU,Case,812048,1064912,Index,Positive,Overlap
+DDUIC-016,DDUIC-016-F02,DDU,Case,812048,1064912,Index family,Positive,Overlap
+DDUIC-016,DDUIC-016-F03,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-016-C1,DDUIC-016-C1-F01,DDU,Case,812056,1064835,Index,Negative,Malaria Case Only
+DDUIC-016-C1,DDUIC-016-C1-F02,DDU,Case,812056,1064835,Index family,Negative,Malaria Case Only
+DDUIC-016-C2,DDUIC-016-C2-F03,DDU,Control,812048,1064912,Control family,Positive,An. Stephensi only
+DDUIC-016-C2,DDUIC-016-C2-F02,DDU,Control,812048,1064912,Control family,Positive,An. Stephensi only
+DDUIC-016-C2,DDUIC-016-C2-F01,DDU,Control,812048,1064912,Control,Positive,An. Stephensi only
+DDUIC-017,DDUIC-017-F01,DDU,Case,811897,1064791,Index,Negative,An. Stephensi only
+DDUIC-017,DDUIC-017-F03,DDU,Case,811897,1064791,Index family,Negative,An. Stephensi only
+DDUIC-017,DDUIC-017-F02,DDU,Case,811897,1064791,Index family,Negative,An. Stephensi only
+DDUIC-017,DDUIC-017-F04,DDU,Case,811897,1064791,Index family,Negative,An. Stephensi only
+DDUIC-017-C1,DDUIC-017-C1-F04,DDU,Control,812145,1064792,Control family,Negative,An. Stephensi only
+DDUIC-017-C1,DDUIC-017-C1-F02,DDU,Control,812145,1064792,Control family,Negative,An. Stephensi only
+DDUIC-017-C1,DDUIC-017-C1-F01,DDU,Control,812145,1064792,Control,Negative,An. Stephensi only
+DDUIC-017-C1,DDUIC-017-C1-F05,DDU,Control,812145,1064792,Control family,Negative,An. Stephensi only
+DDUIC-017-C1,DDUIC-017-C1-F03,DDU,Control,812145,1064792,Control family,Negative,An. Stephensi only
+DDUIC-017-C2,DDUIC-017-C2-F03,DDU,Control,812166,1064842,Control family,Negative,An. Stephensi only
+DDUIC-017-C2,DDUIC-017-C2-F02,DDU,Control,812166,1064842,Control family,Negative,An. Stephensi only
+DDUIC-017-C2,DDUIC-017-C2-F01,DDU,Control,812166,1064842,Control,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F01,DDU,Control,812170,1064791,Control,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F02,DDU,Control,812170,1064791,Control family,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F05,DDU,Control,812170,1064791,Control family,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F06,DDU,Control,812170,1064791,Control family,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F03,DDU,Control,812170,1064791,Control family,Negative,An. Stephensi only
+DDUIC-017-C3,DDUIC-017-C3-F04,DDU,Control,812170,1064791,Control family,Negative,An. Stephensi only
+DDUIC-018,DDUIC-018-F04,DDU,Case,812051,1064779,Index family,Negative,An. Stephensi only
+DDUIC-018,DDUIC-018-F02,DDU,Case,812051,1064779,Index family,Negative,An. Stephensi only
+DDUIC-018,DDUIC-018-F01,DDU,Case,812051,1064779,Index,Negative,An. Stephensi only
+DDUIC-018,DDUIC-018-F03,DDU,Case,812051,1064779,Index family,Negative,An. Stephensi only
+DDUIC-018-C1,DDUIC-018-C1-F02,DDU,Control,812056,1064835,Control family,Negative,An. Stephensi only
+DDUIC-018-C1,DDUIC-018-C1-F04,DDU,Control,812056,1064835,Control family,Negative,An. Stephensi only
+DDUIC-018-C1,DDUIC-018-C1-F03,DDU,Control,812056,1064835,Control family,Negative,An. Stephensi only
+DDUIC-018-C1,DDUIC-018-C1-F01,DDU,Control,812056,1064835,Control,Negative,An. Stephensi only
+DDUIC-018-C2,DDUIC-018-C2-F04,DDU,Control,812048,1064912,Control family,Negative,An. Stephensi only
+DDUIC-018-C2,DDUIC-018-C2-F01,DDU,Control,812048,1064912,Control,Negative,An. Stephensi only
+DDUIC-018-C2,DDUIC-018-C2-F03,DDU,Control,812048,1064912,Control family,Negative,An. Stephensi only
+DDUIC-018-C2,DDUIC-018-C2-F02,DDU,Control,812048,1064912,Control family,Positive,An. Stephensi only
+DDUIC-018-C3,DDUIC-018-C3-F02,DDU,Control,811995,1064758,Control family,Positive,An. Stephensi only
+DDUIC-018-C3,DDUIC-018-C3-F01,DDU,Control,811995,1064758,Control,Positive,An. Stephensi only
+DDUIC-018-C3,DDUIC-018-C3-F03,DDU,Control,811995,1064758,Control family,Positive,An. Stephensi only
+DDUIC-019,DDUIC-019-F03,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-019,DDUIC-019-F01,DDU,Case,812147,1064750,Index,Negative,Malaria Case Only
+DDUIC-019,DDUIC-019-F02,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-019,DDUIC-019-F04,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-019,DDUIC-019-F06,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-019,DDUIC-019-F05,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-019-C1,DDUIC-019-C1-F02,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-019-C1,DDUIC-019-C1-F01,DDU,Case,812045,1064869,Index,Negative,Malaria Case Only
+DDUIC-019-C1,DDUIC-019-C1-F03,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-019-C1,DDUIC-019-C1-F05,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-019-C1,DDUIC-019-C1-F04,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-019-C2,DDUIC-019-C2-F02,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-019-C2,DDUIC-019-C2-F03,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-019-C2,DDUIC-019-C2-F04,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-019-C2,DDUIC-019-C2-F01,DDU,Control,812170,1064791,Control,Negative,No case and An. Steph
+DDUIC-020,DDUIC-020-F02,DDU,Case,811944,1064840,Index family,Negative,Malaria Case Only
+DDUIC-020,DDUIC-020-F03,DDU,Case,811944,1064840,Index family,Negative,Malaria Case Only
+DDUIC-020,DDUIC-020-F01,DDU,Case,811944,1064840,Index,Negative,Malaria Case Only
+DDUIC-020-C1,DDUIC-020-C1-F04,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C1,DDUIC-020-C1-F02,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C1,DDUIC-020-C1-F01,DDU,Control,812048,1064912,Control,Negative,No case and An. Steph
+DDUIC-020-C1,DDUIC-020-C1-F03,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C2,DDUIC-020-C2-F01,DDU,Control,812048,1064912,Control,Negative,No case and An. Steph
+DDUIC-020-C2,DDUIC-020-C2-F03,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C2,DDUIC-020-C2-F02,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C2,DDUIC-020-C2-F04,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F02,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F05,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F06,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F01,DDU,Control,812045,1064869,Control,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F03,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-020-C3,DDUIC-020-C3-F04,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-021,DDUIC-021-F03,DDU,Case,811944,1064840,Index family,Negative,Malaria Case Only
+DDUIC-021,DDUIC-021-F02,DDU,Case,811944,1064840,Index family,Negative,Malaria Case Only
+DDUIC-021,DDUIC-021-F01,DDU,Case,811944,1064840,Index,Negative,Malaria Case Only
+DDUIC-021-C1,DDUIC-021-C1-F01,DDU,Case,811954,1064776,Index,Negative,Malaria Case Only
+DDUIC-021-C1,DDUIC-021-C1-F04,DDU,Case,811954,1064776,Index family,Negative,Malaria Case Only
+DDUIC-021-C1,DDUIC-021-C1-F03,DDU,Case,811954,1064776,Index family,Negative,Malaria Case Only
+DDUIC-021-C1,DDUIC-021-C1-F02,DDU,Case,811954,1064776,Index family,Negative,Malaria Case Only
+DDUIC-021-C2,DDUIC-021-C2-F03,DDU,Control,811984,1064856,Control family,Negative,No case and An. Steph
+DDUIC-021-C2,DDUIC-021-C2-F01,DDU,Control,811984,1064856,Control,Negative,No case and An. Steph
+DDUIC-021-C2,DDUIC-021-C2-F02,DDU,Control,811984,1064856,Control family,Negative,No case and An. Steph
+DDUIC-021-C3,DDUIC-021-C3-F02,DDU,Control,812003,1064794,Control family,Negative,No case and An. Steph
+DDUIC-021-C3,DDUIC-021-C3-F03,DDU,Control,812003,1064794,Control family,Negative,No case and An. Steph
+DDUIC-021-C3,DDUIC-021-C3-F01,DDU,Control,812003,1064794,Control,Negative,No case and An. Steph
+DDUIC-022,DDUIC-022-F03,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-022,DDUIC-022-F02,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-022,DDUIC-022-F04,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-022,DDUIC-022-F01,DDU,Case,812048,1064912,Index,Negative,Malaria Case Only
+DDUIC-022-C1,DDUIC-022-C1-F02,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-022-C1,DDUIC-022-C1-F03,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-022-C1,DDUIC-022-C1-F01,DDU,Control,812166,1064842,Control,Negative,No case and An. Steph
+DDUIC-022-C2,DDUIC-022-C2-F03,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-022-C2,DDUIC-022-C2-F01,DDU,Control,812150,1064918,Control,Negative,No case and An. Steph
+DDUIC-022-C2,DDUIC-022-C2-F02,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-022-C3,DDUIC-022-C3-F04,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-022-C3,DDUIC-022-C3-F03,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-022-C3,DDUIC-022-C3-F01,DDU,Control,812150,1064918,Control,Negative,No case and An. Steph
+DDUIC-022-C3,DDUIC-022-C3-F02,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-022-C3,DDUIC-022-C3-F05,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-023,DDUIC-023-F02,DDU,Case,811897,1064791,Index family,Negative,Malaria Case Only
+DDUIC-023,DDUIC-023-F01,DDU,Case,811897,1064791,Index,Negative,Malaria Case Only
+DDUIC-023,DDUIC-023-F03,DDU,Case,811897,1064791,Index family,Negative,Malaria Case Only
+DDUIC-023-C1,DDUIC-023-C1-F04,DDU,Control,812157,1064881,Control family,Negative,No case and An. Steph
+DDUIC-023-C1,DDUIC-023-C1-F05,DDU,Control,812157,1064881,Control family,Negative,No case and An. Steph
+DDUIC-023-C1,DDUIC-023-C1-F02,DDU,Control,812157,1064881,Control family,Negative,No case and An. Steph
+DDUIC-023-C1,DDUIC-023-C1-F01,DDU,Control,812157,1064881,Control,Negative,No case and An. Steph
+DDUIC-023-C1,DDUIC-023-C1-F03,DDU,Control,812157,1064881,Control family,Negative,No case and An. Steph
+DDUIC-023-C2,DDUIC-023-C2-F05,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-023-C2,DDUIC-023-C2-F02,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-023-C2,DDUIC-023-C2-F04,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-023-C2,DDUIC-023-C2-F01,DDU,Control,812173,1064751,Control,Negative,No case and An. Steph
+DDUIC-023-C2,DDUIC-023-C2-F03,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-023-C3,DDUIC-023-C3-F03,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-023-C3,DDUIC-023-C3-F01,DDU,Control,812173,1064751,Control,Negative,No case and An. Steph
+DDUIC-023-C3,DDUIC-023-C3-F02,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-024,DDUIC-024-F02,DDU,Case,811897,1064791,Index family,Negative,Malaria Case Only
+DDUIC-024,DDUIC-024-F04,DDU,Case,811897,1064791,Index family,Negative,Malaria Case Only
+DDUIC-024,DDUIC-024-F01,DDU,Case,811897,1064791,Index,Negative,Malaria Case Only
+DDUIC-024,DDUIC-024-F03,DDU,Case,811897,1064791,Index family,Negative,Malaria Case Only
+DDUIC-024-C1,DDUIC-024-C1-F03,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-024-C1,DDUIC-024-C1-F02,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-024-C1,DDUIC-024-C1-F01,DDU,Control,812147,1064831,Control,Negative,No case and An. Steph
+DDUIC-024-C2,DDUIC-024-C2-F04,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-024-C2,DDUIC-024-C2-F03,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-024-C2,DDUIC-024-C2-F05,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-024-C2,DDUIC-024-C2-F02,DDU,Control,811995,1064758,Control family,Negative,No case and An. Steph
+DDUIC-024-C2,DDUIC-024-C2-F01,DDU,Control,811995,1064758,Control,Negative,No case and An. Steph
+DDUIC-024-C3,DDUIC-024-C3-F03,DDU,Control,811944,106440,Control family,Negative,No case and An. Steph
+DDUIC-024-C3,DDUIC-024-C3-F02,DDU,Control,811944,106440,Control family,Negative,No case and An. Steph
+DDUIC-024-C3,DDUIC-024-C3-F04,DDU,Control,811944,106440,Control family,Negative,No case and An. Steph
+DDUIC-024-C3,DDUIC-024-C3-F05,DDU,Control,811944,106440,Control family,Negative,No case and An. Steph
+DDUIC-024-C3,DDUIC-024-C3-F01,DDU,Control,811944,106440,Control,Negative,No case and An. Steph
+DDUIC-025,DDUIC-025-F01,DDU,Case,811888,1064821,Index,Negative,Malaria Case Only
+DDUIC-025,DDUIC-025-F03,DDU,Case,811888,1064821,Index family,Negative,Malaria Case Only
+DDUIC-025,DDUIC-025-F04,DDU,Case,811888,1064821,Index family,Negative,Malaria Case Only
+DDUIC-025,DDUIC-025-F02,DDU,Case,811888,1064821,Index family,Negative,Malaria Case Only
+DDUIC-025-C1,DDUIC-025-C1-F01,DDU,Control,812170,1064791,Control,Negative,No case and An. Steph
+DDUIC-025-C1,DDUIC-025-C1-F02,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-025-C1,DDUIC-025-C1-F03,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-025-C1,DDUIC-025-C1-F04,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-025-C2,DDUIC-025-C2-F05,DDU,Control,812150,1064881,Control family,Negative,No case and An. Steph
+DDUIC-025-C2,DDUIC-025-C2-F01,DDU,Control,812150,1064881,Control,Negative,No case and An. Steph
+DDUIC-025-C2,DDUIC-025-C2-F02,DDU,Control,812150,1064881,Control family,Negative,No case and An. Steph
+DDUIC-025-C2,DDUIC-025-C2-F04,DDU,Control,812150,1064881,Control family,Negative,No case and An. Steph
+DDUIC-025-C2,DDUIC-025-C2-F03,DDU,Control,812150,1064881,Control family,Negative,No case and An. Steph
+DDUIC-025-C3,DDUIC-025-C3-F03,DDU,Control,81895,1064860,Control family,Negative,No case and An. Steph
+DDUIC-025-C3,DDUIC-025-C3-F02,DDU,Control,81895,1064860,Control family,Negative,No case and An. Steph
+DDUIC-025-C3,DDUIC-025-C3-F01,DDU,Control,81895,1064860,Control,Negative,No case and An. Steph
+DDUIC-026,DDUIC-026-F03,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-026,DDUIC-026-F01,DDU,Case,812147,1064831,Index,Negative,Malaria Case Only
+DDUIC-026,DDUIC-026-F02,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-026,DDUIC-026-F04,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-026-C1,DDUIC-026-C1-F03,DDU,Control,811944,1064840,Control family,Negative,No case and An. Steph
+DDUIC-026-C1,DDUIC-026-C1-F01,DDU,Control,811944,1064840,Control,Negative,No case and An. Steph
+DDUIC-026-C1,DDUIC-026-C1-F02,DDU,Control,811944,1064840,Control family,Negative,No case and An. Steph
+DDUIC-026-C2,DDUIC-026-C2-F05,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-026-C2,DDUIC-026-C2-F02,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-026-C2,DDUIC-026-C2-F01,DDU,Control,812150,1064918,Control,Negative,No case and An. Steph
+DDUIC-026-C2,DDUIC-026-C2-F04,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-026-C2,DDUIC-026-C2-F03,DDU,Control,812150,1064918,Control family,Negative,No case and An. Steph
+DDUIC-026-C3,DDUIC-026-C3-F02,DDU,Control,811944,1064840,Control family,Negative,No case and An. Steph
+DDUIC-026-C3,DDUIC-026-C3-F03,DDU,Control,811944,1064840,Control family,Negative,No case and An. Steph
+DDUIC-026-C3,DDUIC-026-C3-F01,DDU,Control,811944,1064840,Control,Negative,No case and An. Steph
+DDUIC-027,DDUIC-027-F03,DDU,Case,812166,1064842,Index family,Negative,Malaria Case Only
+DDUIC-027,DDUIC-027-F05,DDU,Case,812166,1064842,Index family,Negative,Malaria Case Only
+DDUIC-027,DDUIC-027-F04,DDU,Case,812166,1064842,Index family,Negative,Malaria Case Only
+DDUIC-027,DDUIC-027-F02,DDU,Case,812166,1064842,Index family,Negative,Malaria Case Only
+DDUIC-027,DDUIC-027-F01,DDU,Case,812166,1064842,Index,Negative,Malaria Case Only
+DDUIC-027,DDUIC-027-F06,DDU,Case,812166,1064842,Index family,Negative,Malaria Case Only
+DDUIC-027-C1,DDUIC-027-C1-F04,DDU,Control,811897,1064791,Control family,Negative,No case and An. Steph
+DDUIC-027-C1,DDUIC-027-C1-F03,DDU,Control,811897,1064791,Control family,Negative,No case and An. Steph
+DDUIC-027-C1,DDUIC-027-C1-F01,DDU,Control,811897,1064791,Control,Negative,No case and An. Steph
+DDUIC-027-C1,DDUIC-027-C1-F02,DDU,Control,811897,1064791,Control family,Negative,No case and An. Steph
+DDUIC-027-C2,DDUIC-027-C2-F04,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-027-C2,DDUIC-027-C2-F03,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-027-C2,DDUIC-027-C2-F01,DDU,Control,812145,1064792,Control,Negative,No case and An. Steph
+DDUIC-027-C2,DDUIC-027-C2-F02,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-027-C3,DDUIC-027-C3-F03,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-027-C3,DDUIC-027-C3-F02,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-027-C3,DDUIC-027-C3-F01,DDU,Control,811987,1064856,Control,Negative,No case and An. Steph
+DDUIC-027-C3,DDUIC-027-C3-F04,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-028,DDUIC-028-F01,DDU,Case,812145,1064292,Index,Negative,Malaria Case Only
+DDUIC-028,DDUIC-028-F03,DDU,Case,812145,1064292,Index family,Negative,Malaria Case Only
+DDUIC-028,DDUIC-028-F02,DDU,Case,812145,1064292,Index family,Negative,Malaria Case Only
+DDUIC-028-C1,DDUIC-028-C1-F02,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C1,DDUIC-028-C1-F01,DDU,Control,812173,1064751,Control,Negative,No case and An. Steph
+DDUIC-028-C1,DDUIC-028-C1-F04,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C1,DDUIC-028-C1-F03,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F05,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F03,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F04,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F06,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F01,DDU,Control,812173,1064751,Control,Negative,No case and An. Steph
+DDUIC-028-C2,DDUIC-028-C2-F02,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-028-C3,DDUIC-028-C3-F02,DDU,Case,811003,1064794,Index family,Negative,Malaria Case Only
+DDUIC-028-C3,DDUIC-028-C3-F01,DDU,Case,811003,1064794,Index,Negative,Malaria Case Only
+DDUIC-028-C3,DDUIC-028-C3-F03,DDU,Case,811003,1064794,Index family,Negative,Malaria Case Only
+DDUIC-029,DDUIC-029-F05,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-029,DDUIC-029-F03,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-029,DDUIC-029-F01,DDU,Case,811894,1064766,Index,Negative,Malaria Case Only
+DDUIC-029,DDUIC-029-F04,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-029,DDUIC-029-F02,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-029-C1,DDUIC-029-C1-F02,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-029-C1,DDUIC-029-C1-F04,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-029-C1,DDUIC-029-C1-F01,DDU,Control,812166,1064842,Control,Negative,No case and An. Steph
+DDUIC-029-C1,DDUIC-029-C1-F03,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-029-C1,DDUIC-029-C1-F05,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-029-C2,DDUIC-029-C2-F01,DDU,Control,811895,1064860,Control,Negative,No case and An. Steph
+DDUIC-029-C2,DDUIC-029-C2-F03,DDU,Control,811895,1064860,Control family,Negative,No case and An. Steph
+DDUIC-029-C2,DDUIC-029-C2-F02,DDU,Control,811895,1064860,Control family,Negative,No case and An. Steph
+DDUIC-029-C3,DDUIC-029-C3-F04,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-029-C3,DDUIC-029-C3-F02,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-029-C3,DDUIC-029-C3-F01,DDU,Case,812045,1064869,Index,Negative,Malaria Case Only
+DDUIC-029-C3,DDUIC-029-C3-F03,DDU,Case,812045,1064869,Index family,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F02,DDU,Case,812104,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F06,DDU,Case,812104,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F05,DDU,Case,812104,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F01,DDU,Case,812104,1064912,Index,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F04,DDU,Case,812104,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030,DDUIC-030-F03,DDU,Case,812104,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030-C1,DDUIC-030-C1-F03,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-030-C1,DDUIC-030-C1-F01,DDU,Control,811894,1064766,Control,Negative,No case and An. Steph
+DDUIC-030-C1,DDUIC-030-C1-F04,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-030-C1,DDUIC-030-C1-F02,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-030-C2,DDUIC-030-C2-F03,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030-C2,DDUIC-030-C2-F04,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030-C2,DDUIC-030-C2-F02,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030-C2,DDUIC-030-C2-F01,DDU,Case,812048,1064912,Index,Negative,Malaria Case Only
+DDUIC-030-C2,DDUIC-030-C2-F05,DDU,Case,812048,1064912,Index family,Negative,Malaria Case Only
+DDUIC-030-C3,DDUIC-030-C3-F03,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-030-C3,DDUIC-030-C3-F05,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-030-C3,DDUIC-030-C3-F02,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-030-C3,DDUIC-030-C3-F04,DDU,Case,812147,1064831,Index family,Negative,Malaria Case Only
+DDUIC-030-C3,DDUIC-030-C3-F01,DDU,Case,812147,1064831,Index,Negative,Malaria Case Only
+DDUIC-031,DDUIC-031-F04,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-031,DDUIC-031-F02,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-031,DDUIC-031-F01,DDU,Case,812147,1064750,Index,Negative,Malaria Case Only
+DDUIC-031,DDUIC-031-F03,DDU,Case,812147,1064750,Index family,Negative,Malaria Case Only
+DDUIC-031-C1,DDUIC-031-C1-F04,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-031-C1,DDUIC-031-C1-F01,DDU,Control,812147,1064831,Control,Negative,No case and An. Steph
+DDUIC-031-C1,DDUIC-031-C1-F02,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-031-C1,DDUIC-031-C1-F03,DDU,Control,812147,1064831,Control family,Negative,No case and An. Steph
+DDUIC-031-C2,DDUIC-031-C2-F04,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-031-C2,DDUIC-031-C2-F03,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-031-C2,DDUIC-031-C2-F01,DDU,Control,811987,1064856,Control,Negative,No case and An. Steph
+DDUIC-031-C2,DDUIC-031-C2-F02,DDU,Control,811987,1064856,Control family,Negative,No case and An. Steph
+DDUIC-031-C3,DDUIC-031-C3-F04,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-031-C3,DDUIC-031-C3-F03,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-031-C3,DDUIC-031-C3-F01,DDU,Control,812166,1064842,Control,Negative,No case and An. Steph
+DDUIC-031-C3,DDUIC-031-C3-F02,DDU,Control,812166,1064842,Control family,Negative,No case and An. Steph
+DDUIC-032,DDUIC-032-F03,DDU,Case,812151,1064756,Index family,Negative,Malaria Case Only
+DDUIC-032,DDUIC-032-F01,DDU,Case,812151,1064756,Index,Negative,Malaria Case Only
+DDUIC-032,DDUIC-032-F04,DDU,Case,812151,1064756,Index family,Negative,Malaria Case Only
+DDUIC-032,DDUIC-032-F02,DDU,Case,812151,1064756,Index family,Negative,Malaria Case Only
+DDUIC-032-C1,DDUIC-032-C1-F04,DDU,Control,812166,1064843,Control family,Negative,No case and An. Steph
+DDUIC-032-C1,DDUIC-032-C1-F01,DDU,Control,812166,1064843,Control,Negative,No case and An. Steph
+DDUIC-032-C1,DDUIC-032-C1-F02,DDU,Control,812166,1064843,Control family,Negative,No case and An. Steph
+DDUIC-032-C1,DDUIC-032-C1-F03,DDU,Control,812166,1064843,Control family,Negative,No case and An. Steph
+DDUIC-032-C2,DDUIC-032-C2-F01,DDU,Control,812145,1064792,Control,Negative,No case and An. Steph
+DDUIC-032-C2,DDUIC-032-C2-F04,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-032-C2,DDUIC-032-C2-F02,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-032-C2,DDUIC-032-C2-F03,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-032-C3,DDUIC-032-C3-F02,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-032-C3,DDUIC-032-C3-F01,DDU,Case,812150,1064918,Index,Negative,Malaria Case Only
+DDUIC-032-C3,DDUIC-032-C3-F03,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-033,DDUIC-033-F04,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033,DDUIC-033-F03,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033,DDUIC-033-F01,DDU,Case,811894,1064766,Index,Negative,Malaria Case Only
+DDUIC-033,DDUIC-033-F02,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033-C1,DDUIC-033-C1-F04,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033-C1,DDUIC-033-C1-F01,DDU,Case,811894,1064766,Index,Negative,Malaria Case Only
+DDUIC-033-C1,DDUIC-033-C1-F05,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033-C1,DDUIC-033-C1-F02,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033-C1,DDUIC-033-C1-F03,DDU,Case,811894,1064766,Index family,Negative,Malaria Case Only
+DDUIC-033-C2,DDUIC-033-C2-F05,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-033-C2,DDUIC-033-C2-F04,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-033-C2,DDUIC-033-C2-F02,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-033-C2,DDUIC-033-C2-F06,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-033-C2,DDUIC-033-C2-F01,DDU,Control,812048,1064912,Control,Negative,No case and An. Steph
+DDUIC-033-C2,DDUIC-033-C2-F03,DDU,Control,812048,1064912,Control family,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F02,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F05,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F04,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F01,DDU,Control,812170,1064791,Control,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F06,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-033-C3,DDUIC-033-C3-F03,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-034,DDUIC-034-F02,DDU,Case,812170,1064791,Index family,Negative,Malaria Case Only
+DDUIC-034,DDUIC-034-F01,DDU,Case,812170,1064791,Index,Negative,Malaria Case Only
+DDUIC-034,DDUIC-034-F03,DDU,Case,812170,1064791,Index family,Negative,Malaria Case Only
+DDUIC-034-C1,DDUIC-034-C1-F04,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-034-C1,DDUIC-034-C1-F03,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-034-C1,DDUIC-034-C1-F02,DDU,Control,812145,1064792,Control family,Negative,No case and An. Steph
+DDUIC-034-C1,DDUIC-034-C1-F01,DDU,Control,812145,1064792,Control,Negative,No case and An. Steph
+DDUIC-034-C2,DDUIC-034-C2-F04,DDU,Control,812756,1064881,Control family,Negative,No case and An. Steph
+DDUIC-034-C2,DDUIC-034-C2-F03,DDU,Control,812756,1064881,Control family,Negative,No case and An. Steph
+DDUIC-034-C2,DDUIC-034-C2-F01,DDU,Control,812756,1064881,Control,Negative,No case and An. Steph
+DDUIC-034-C2,DDUIC-034-C2-F02,DDU,Control,812756,1064881,Control family,Negative,No case and An. Steph
+DDUIC-034-C3,DDUIC-034-C3-F01,DDU,Control,812173,1064751,Control,Negative,No case and An. Steph
+DDUIC-034-C3,DDUIC-034-C3-F04,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-034-C3,DDUIC-034-C3-F02,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-034-C3,DDUIC-034-C3-F03,DDU,Control,812173,1064751,Control family,Negative,No case and An. Steph
+DDUIC-035,DDUIC-035-F02,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-035,DDUIC-035-F01,DDU,Case,812150,1064918,Index,Negative,Malaria Case Only
+DDUIC-035,DDUIC-035-F05,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-035,DDUIC-035-F03,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-035,DDUIC-035-F04,DDU,Case,812150,1064918,Index family,Negative,Malaria Case Only
+DDUIC-035-C1,DDUIC-035-C1-F01,DDU,Control,812151,1064956,Control,Negative,No case and An. Steph
+DDUIC-035-C1,DDUIC-035-C1-F04,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-035-C1,DDUIC-035-C1-F03,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-035-C1,DDUIC-035-C1-F05,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-035-C1,DDUIC-035-C1-F02,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-035-C2,DDUIC-035-C2-F01,DDU,Control,811894,1064766,Control,Negative,No case and An. Steph
+DDUIC-035-C2,DDUIC-035-C2-F04,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-035-C2,DDUIC-035-C2-F02,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-035-C2,DDUIC-035-C2-F03,DDU,Control,811894,1064766,Control family,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F05,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F03,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F02,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F04,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F01,DDU,Control,812045,1064869,Control,Negative,No case and An. Steph
+DDUIC-035-C3,DDUIC-035-C3-F06,DDU,Control,812045,1064869,Control family,Negative,No case and An. Steph
+DDUIC-036,DDUIC-036-F04,DDU,Case,812756,1064881,Index family,Negative,Malaria Case Only
+DDUIC-036,DDUIC-036-F03,DDU,Case,812756,1064881,Index family,Negative,Malaria Case Only
+DDUIC-036,DDUIC-036-F02,DDU,Case,812756,1064881,Index family,Negative,Malaria Case Only
+DDUIC-036,DDUIC-036-F01,DDU,Case,812756,1064881,Index,Negative,Malaria Case Only
+DDUIC-036-C1,DDUIC-036-C1-F03,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-036-C1,DDUIC-036-C1-F04,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-036-C1,DDUIC-036-C1-F02,DDU,Control,812170,1064791,Control family,Negative,No case and An. Steph
+DDUIC-036-C1,DDUIC-036-C1-F01,DDU,Control,812170,1064791,Control,Negative,No case and An. Steph
+DDUIC-036-C2,DDUIC-036-C2-F03,DDU,Case,812170,1064791,Index family,Negative,Malaria Case Only
+DDUIC-036-C2,DDUIC-036-C2-F01,DDU,Case,812170,1064791,Index,Negative,Malaria Case Only
+DDUIC-036-C2,DDUIC-036-C2-F02,DDU,Case,812170,1064791,Index family,Negative,Malaria Case Only
+DDUIC-036-C3,DDUIC-036-C3-F02,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-036-C3,DDUIC-036-C3-F04,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph
+DDUIC-036-C3,DDUIC-036-C3-F01,DDU,Control,812151,1064956,Control,Negative,No case and An. Steph
+DDUIC-036-C3,DDUIC-036-C3-F03,DDU,Control,812151,1064956,Control family,Negative,No case and An. Steph

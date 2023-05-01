@@ -1,0 +1,663 @@
+idhh,idindividual,casecat,malpos,site,pfqpos
+DDIC-001,DDIC-001-F03,Index family,Negative,DD City,Negative
+DDIC-001,DDIC-001-F04,Index family,Negative,DD City,Negative
+DDIC-001,DDIC-001-F02,Index family,Negative,DD City,Negative
+DDIC-001,DDIC-001-F06,Index family,Negative,DD City,Positive
+DDIC-001,DDIC-001-F05,Index family,Negative,DD City,Negative
+DDIC-001,DDIC-001-F08,Index family,Negative,DD City,Negative
+DDIC-001,DDIC-001-F07,Index family,Negative,DD City,Negative
+DDIC-001-C1,DDIC-001-C1-F05,Control family,Negative,DD City,Negative
+DDIC-001-C1,DDIC-001-C1-F06,Control family,Negative,DD City,Negative
+DDIC-001-C1,DDIC-001-C1-F03,Control family,Negative,DD City,Negative
+DDIC-001-C1,DDIC-001-C1-F02,Control family,Negative,DD City,Negative
+DDIC-001-C1,DDIC-001-C1-F04,Control family,Negative,DD City,Negative
+DDIC-001-C2,DDIC-001-C2-F03,Control family,Positive,DD City,Positive
+DDIC-001-C2,DDIC-001-C2-F02,Control family,Negative,DD City,Negative
+DDIC-001-C3,DDIC-001-C3-F02,Control family,Negative,DD City,Negative
+DDIC-002,DDIC-002-F03,Index family,Positive,DD City,Positive
+DDIC-002,DDIC-002-F02,Index family,Negative,DD City,Positive
+DDIC-002,DDIC-002-F04,Index family,Negative,DD City,Positive
+DDIC-002-C1,DDIC-002-C1-F02,Control family,Negative,DD City,Negative
+DDIC-002-C1,DDIC-002-C1-F03,Control family,Negative,DD City,Negative
+DDIC-002-C2,DDIC-002-C2-F03,Control family,Negative,DD City,Negative
+DDIC-002-C2,DDIC-002-C2-F02,Control family,Negative,DD City,Negative
+DDIC-002-C2,DDIC-002-C2-F04,Control family,Negative,DD City,Negative
+DDIC-003,DDIC-003-F05,Index family,Negative,DD City,Positive
+DDIC-003,DDIC-003-F04,Index family,Positive,DD City,Positive
+DDIC-003,DDIC-003-F06,Index family,Negative,DD City,Positive
+DDIC-003,DDIC-003-F03,Index family,Positive,DD City,Positive
+DDIC-003,DDIC-003-F07,Index family,Negative,DD City,Positive
+DDIC-003,DDIC-003-F02,Index family,Negative,DD City,Negative
+DDIC-003-C1,DDIC-003-C1-F02,Control family,Negative,DD City,Negative
+DDIC-003-C1,DDIC-003-C1-F03,Control family,Negative,DD City,Negative
+DDIC-003-C3,DDIC-003-C3-F04,Control family,Negative,DD City,
+DDIC-003-C3,DDIC-003-C3-F02,Control family,Negative,DD City,Negative
+DDIC-003-C3,DDIC-003-C3-F03,Control family,Negative,DD City,Negative
+DDIC-004,DDIC-004-F02,Index family,Negative,DD City,Positive
+DDIC-004-C1,DDIC-004-C1-F04,Control family,Negative,DD City,Negative
+DDIC-004-C1,DDIC-004-C1-F02,Control family,Negative,DD City,Negative
+DDIC-004-C1,DDIC-004-C1-F03,Control family,Negative,DD City,Negative
+DDIC-004-C2,DDIC-004-C2-F02,Control family,Negative,DD City,Negative
+DDIC-004-C2,DDIC-004-C2-F04,Control family,Negative,DD City,Negative
+DDIC-004-C2,DDIC-004-C2-F03,Control family,Negative,DD City,Negative
+DDIC-004-C2,DDIC-004-C2-F05,Control family,Negative,DD City,Negative
+DDIC-004-C3,DDIC-004-C3-F03,Control family,Negative,DD City,Negative
+DDIC-004-C3,DDIC-004-C3-F02,Control family,Negative,DD City,Negative
+DDIC-005,DDIC-005-F02,Index family,Negative,DD City,Positive
+DDIC-005,DDIC-005-F05,Index family,Negative,DD City,Negative
+DDIC-005,DDIC-005-F04,Index family,Negative,DD City,Negative
+DDIC-005,DDIC-005-F03,Index family,Negative,DD City,Positive
+DDIC-005-C2,DDIC-005-C2-F02,Control family,Negative,DD City,Negative
+DDIC-005-C2,DDIC-005-C2-F04,Control family,Negative,DD City,Negative
+DDIC-005-C2,DDIC-005-C2-F03,Control family,Negative,DD City,Negative
+DDIC-006,DDIC-006-F02,Index family,Negative,DD City,Negative
+DDIC-006,DDIC-006-F06,Index family,Negative,DD City,Negative
+DDIC-006,DDIC-006-F04,Index family,Positive,DD City,Positive
+DDIC-006,DDIC-006-F05,Index family,Negative,DD City,Positive
+DDIC-006,DDIC-006-F03,Index family,Positive,DD City,Positive
+DDIC-006-C2,DDIC-006-C2-F02,Control family,Negative,DD City,Negative
+DDIC-006-C2,DDIC-006-C2-F03,Control family,Negative,DD City,Negative
+DDIC-007,DDIC-007-F03,Index family,Negative,DD City,Negative
+DDIC-007,DDIC-007-F02,Index family,Negative,DD City,Negative
+DDIC-007-C1,DDIC-007-C1-F03,Control family,Negative,DD City,Negative
+DDIC-007-C1,DDIC-007-C1-F02,Control family,Negative,DD City,Negative
+DDIC-007-C1,DDIC-007-C1-F04,Control family,Negative,DD City,Negative
+DDIC-007-C2,DDIC-007-C2-F03,Control family,Negative,DD City,Negative
+DDIC-007-C2,DDIC-007-C2-F02,Control family,Negative,DD City,Negative
+DDIC-007-C2,DDIC-007-C2-F04,Control family,Negative,DD City,Negative
+DDIC-007-C3,DDIC-007-C3-F04,Control family,Negative,DD City,Negative
+DDIC-007-C3,DDIC-007-C3-F02,Control family,Negative,DD City,Negative
+DDIC-007-C3,DDIC-007-C3-F03,Control family,Negative,DD City,Negative
+DDIC-008,DDIC-008-F02,Index family,Negative,DD City,Negative
+DDIC-008,DDIC-008-F03,Index family,Negative,DD City,Negative
+DDIC-008,DDIC-008-F04,Index family,Negative,DD City,Negative
+DDIC-008-C2,DDIC-008-C2-F02,Index family,Negative,DD City,Negative
+DDIC-008-C3,DDIC-008-C3-F02,Control family,Negative,DD City,Negative
+DDIC-009,DDIC-009-F06,Index family,Negative,DD City,Negative
+DDIC-009,DDIC-009-F05,Index family,Positive,DD City,Positive
+DDIC-009,DDIC-009-F03,Index family,Negative,DD City,Positive
+DDIC-009,DDIC-009-F02,Index family,Positive,DD City,Positive
+DDIC-009,DDIC-009-F04,Index family,Positive,DD City,Positive
+DDIC-009-C1,DDIC-009-C1-F02,Control family,Negative,DD City,Negative
+DDIC-009-C1,DDIC-009-C1-F03,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F06,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F04,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F05,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F02,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F03,Control family,Negative,DD City,Negative
+DDIC-009-C2,DDIC-009-C2-F07,Control family,Negative,DD City,Negative
+DDIC-009-C3,DDIC-009-C3-F02,Control family,Negative,DD City,Negative
+DDIC-010,DDIC-010-F03,Index family,Negative,DD City,Negative
+DDIC-010,DDIC-010-F02,Index family,Negative,DD City,Negative
+DDIC-010,DDIC-010-F04,Index family,Negative,DD City,Negative
+DDIC-010-C2,DDIC-010-C2-F02,Control family,Negative,DD City,Negative
+DDIC-010-C2,DDIC-010-C2-F03,Control family,Negative,DD City,Negative
+DDIC-010-C2,DDIC-010-C2-F06,Control family,Negative,DD City,Negative
+DDIC-010-C2,DDIC-010-C2-F04,Control family,Negative,DD City,Negative
+DDIC-010-C2,DDIC-010-C2-F05,Control family,Negative,DD City,Negative
+DDIC-010-C3,DDIC-010-C3-F04,Control family,Negative,DD City,Negative
+DDIC-010-C3,DDIC-010-C3-F03,Control family,Negative,DD City,Negative
+DDIC-010-C3,DDIC-010-C3-F02,Control family,Negative,DD City,Negative
+DDIC-011,DDIC-011-F02,Index family,Positive,DD City,Positive
+DDIC-011-C1,DDIC-011-C1-F04,Control family,Negative,DD City,Negative
+DDIC-011-C1,DDIC-011-C1-F03,Control family,Negative,DD City,Negative
+DDIC-011-C1,DDIC-011-C1-F02,Control family,Negative,DD City,Negative
+DDIC-011-C2,DDIC-011-C2-F02,Control family,Negative,DD City,Negative
+DDIC-011-C2,DDIC-011-C2-F04,Control family,Negative,DD City,Negative
+DDIC-011-C2,DDIC-011-C2-F03,Control family,Negative,DD City,Negative
+DDIC-011-C2,DDIC-011-C2-F06,Control family,Negative,DD City,Negative
+DDIC-011-C2,DDIC-011-C2-F05,Control family,Negative,DD City,Negative
+DDIC-011-C3,DDIC-011-C3-F04,Control family,Negative,DD City,Negative
+DDIC-011-C3,DDIC-011-C3-F02,Control family,Negative,DD City,Negative
+DDIC-011-C3,DDIC-011-C3-F03,Control family,Negative,DD City,Negative
+DDIC-012,DDIC-012-F02,Index family,Negative,DD City,Negative
+DDIC-012-C1,DDIC-012-C1-F02,Control family,Negative,DD City,Negative
+DDIC-012-C1,DDIC-012-C1-F03,Control family,Negative,DD City,Negative
+DDIC-013,DDIC-013-F02,Index family,Negative,DD City,Negative
+DDIC-013,DDIC-013-F03,Index family,Negative,DD City,Negative
+DDIC-013-C1,DDIC-013-C1-F02,Control family,Negative,DD City,Negative
+DDIC-013-C1,DDIC-013-C1-F04,Control family,Negative,DD City,Negative
+DDIC-013-C1,DDIC-013-C1-F05,Control family,Negative,DD City,Negative
+DDIC-013-C1,DDIC-013-C1-F03,Control family,Negative,DD City,Negative
+DDIC-013-C2,DDIC-013-C2-F04,Control family,Negative,DD City,Negative
+DDIC-013-C2,DDIC-013-C2-F02,Control family,Negative,DD City,Negative
+DDIC-013-C2,DDIC-013-C2-F03,Control family,Negative,DD City,Negative
+DDIC-013-C3,DDIC-013-C3-F02,Control family,Negative,DD City,Negative
+DDIC-014,DDIC-014-F04,Index family,Negative,DD City,Negative
+DDIC-014,DDIC-014-F03,Index family,Negative,DD City,Negative
+DDIC-014,DDIC-014-F02,Index family,Negative,DD City,Negative
+DDIC-014-C1,DDIC-014-C1-F02,Control family,Negative,DD City,Negative
+DDIC-014-C2,DDIC-014-C2-F02,Control family,Negative,DD City,Negative
+DDIC-014-C2,DDIC-014-C2-F03,Control family,Negative,DD City,Positive
+DDIC-015,DDIC-015-F04,Index family,Negative,DD City,Negative
+DDIC-015,DDIC-015-F02,Index family,Negative,DD City,Positive
+DDIC-015,DDIC-015-F03,Index family,Negative,DD City,Negative
+DDIC-015-C1,DDIC-015-C1-F02,Control family,Negative,DD City,Negative
+DDIC-015-C2,DDIC-015-C2-F02,Control family,Negative,DD City,Negative
+DDIC-015-C3,DDIC-015-C3-F02,Control family,Negative,DD City,Negative
+DDIC-015-C3,DDIC-015-C3-F03,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F05,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F04,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F03,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F07,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F06,Control family,Negative,DD City,Negative
+DDIC-016-C1,DDIC-016-C1-F02,Control family,Negative,DD City,Negative
+DDIC-017,DDIC-017-F02,Index family,Negative,DD City,Positive
+DDIC-017-C1,DDIC-017-C1-F02,Control family,Negative,DD City,Negative
+DDIC-017-C2,DDIC-017-C2-F02,Control family,Negative,DD City,Negative
+DDIC-017-C2,DDIC-017-C2-F04,Control family,Negative,DD City,Negative
+DDIC-017-C2,DDIC-017-C2-F03,Control family,Negative,DD City,Negative
+DDIC-017-C3,DDIC-017-C3-F02,Control family,Negative,DD City,Negative
+DDIC-017-C3,DDIC-017-C3-F03,Control family,Negative,DD City,Negative
+DDIC-018,DDIC-018-F02,Index family,Negative,DD City,Negative
+DDIC-018,DDIC-018-F03,Index family,Negative,DD City,Negative
+DDIC-018-C2,DDIC-018-C2-F02,Control family,Negative,DD City,Negative
+DDIC-018-C2,DDIC-018-C2-F05,Control family,Negative,DD City,Negative
+DDIC-018-C2,DDIC-018-C2-F04,Control family,Negative,DD City,Negative
+DDIC-018-C2,DDIC-018-C2-F03,Control family,Negative,DD City,Negative
+DDIC-018-C3,DDIC-018-C3-F02,Control family,Negative,DD City,Negative
+DDIC-018-C3,DDIC-018-C3-F03,Control family,Negative,DD City,Negative
+DDIC-018-C3,DDIC-018-C3-F04,Control family,Negative,DD City,Negative
+DDIC-018-C3,DDIC-018-C3-F05,Control family,Negative,DD City,Negative
+DDIC-019,DDIC-019-F03,Index family,Negative,DD City,Negative
+DDIC-019,DDIC-019-F02,Index family,Positive,DD City,Positive
+DDIC-019-C1,DDIC-019-C1-F02,Control family,Negative,DD City,Negative
+DDIC-019-C1,DDIC-019-C1-F05,Control family,Negative,DD City,Negative
+DDIC-019-C1,DDIC-019-C1-F04,Control family,Negative,DD City,Negative
+DDIC-019-C1,DDIC-019-C1-F03,Control family,Negative,DD City,Negative
+DDIC-019-C2,DDIC-019-C2-F02,Control family,Negative,DD City,Negative
+DDIC-019-C2,DDIC-019-C2-F03,Control family,Negative,DD City,Negative
+DDIC-019-C2,DDIC-019-C2-F04,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F02,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F03,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F05,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F07,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F04,Control family,Negative,DD City,Negative
+DDIC-020-C1,DDIC-020-C1-F06,Control family,Negative,DD City,Negative
+DDIC-021,DDIC-021-F04,Index family,Negative,DD City,Negative
+DDIC-021,DDIC-021-F02,Index family,Negative,DD City,Negative
+DDIC-021,DDIC-021-F03,Index family,Negative,DD City,Positive
+DDIC-021-C1,DDIC-021-C1-F02,Control family,Negative,DD City,Negative
+DDIC-021-C1,DDIC-021-C1-F03,Control family,Negative,DD City,Negative
+DDIC-021-C2,DDIC-021-C2-F02,Control family,Negative,DD City,Negative
+DDIC-022,DDIC-022-F02,Index family,Negative,DD City,Negative
+DDIC-022-C3,DDIC-022-C3-F02,Control family,Negative,DD City,Negative
+DDIC-022-C3,DDIC-022-C3-F03,Control family,Negative,DD City,Negative
+DDIC-023,DDIC-023-F03,Index family,Positive,DD City,Negative
+DDIC-023,DDIC-023-F02,Index family,Negative,DD City,Positive
+DDIC-023-C1,DDIC-023-C1-F04,Control family,Negative,DD City,Negative
+DDIC-023-C1,DDIC-023-C1-F02,Control family,Negative,DD City,Negative
+DDIC-023-C1,DDIC-023-C1-F03,Control family,Negative,DD City,Negative
+DDIC-023-C2,DDIC-023-C2-F03,Control family,Negative,DD City,Negative
+DDIC-023-C2,DDIC-023-C2-F05,Control family,Negative,DD City,Positive
+DDIC-023-C2,DDIC-023-C2-F02,Control family,Negative,DD City,Negative
+DDIC-023-C2,DDIC-023-C2-F04,Control family,Negative,DD City,Negative
+DDIC-024,DDIC-024-F02,Index family,Negative,DD City,Negative
+DDIC-024-C1,DDIC-024-C1-F07,Control family,Negative,DD City,Negative
+DDIC-024-C1,DDIC-024-C1-F05,Control family,Negative,DD City,Negative
+DDIC-024-C1,DDIC-024-C1-F03,Control family,Negative,DD City,Negative
+DDIC-024-C1,DDIC-024-C1-F04,Control family,Positive,DD City,Positive
+DDIC-024-C1,DDIC-024-C1-F02,Control family,Positive,DD City,Negative
+DDIC-024-C1,DDIC-024-C1-F06,Control family,Negative,DD City,Positive
+DDIC-025,DDIC-025-F05,Index family,Negative,DD City,Negative
+DDIC-025,DDIC-025-F06,Index family,Negative,DD City,Negative
+DDIC-025,DDIC-025-F03,Index family,Negative,DD City,Negative
+DDIC-025,DDIC-025-F04,Index family,Negative,DD City,Negative
+DDIC-025,DDIC-025-F02,Index family,Negative,DD City,Negative
+DDIC-025-C1,DDIC-025-C1-F02,Control family,Negative,DD City,Negative
+DDIC-025-C1,DDIC-025-C1-F03,Control family,Negative,DD City,Negative
+DDIC-025-C1,DDIC-025-C1-F05,Control family,Negative,DD City,Negative
+DDIC-025-C1,DDIC-025-C1-F04,Control family,Negative,DD City,Negative
+DDIC-025-C2,DDIC-025-C2-F03,Control family,Negative,DD City,Negative
+DDIC-025-C2,DDIC-025-C2-F05,Control family,Negative,DD City,Negative
+DDIC-025-C2,DDIC-025-C2-F04,Control family,Negative,DD City,Negative
+DDIC-025-C2,DDIC-025-C2-F06,Control family,Negative,DD City,Negative
+DDIC-025-C2,DDIC-025-C2-F02,Control family,Negative,DD City,Negative
+DDIC-026,DDIC-026-F02,Index family,Negative,DD City,Negative
+DDIC-026,DDIC-026-F04,Index family,Positive,DD City,Negative
+DDIC-026,DDIC-026-F05,Index family,Negative,DD City,Negative
+DDIC-026,DDIC-026-F06,Index family,Negative,DD City,Negative
+DDIC-026,DDIC-026-F03,Index family,Negative,DD City,Negative
+DDIC-026-C1,DDIC-026-C1-F02,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F04,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F05,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F06,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F08,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F07,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F03,Control family,Negative,DD City,Negative
+DDIC-026-C2,DDIC-026-C2-F02,Control family,Negative,DD City,Positive
+DDIC-026-C3,DDIC-026-C3-F02,Control family,Negative,DD City,Negative
+DDIC-026-C3,DDIC-026-C3-F03,Control family,Negative,DD City,Negative
+DDIC-027-C1,DDIC-027-C1-F03,Control family,Negative,DD City,Negative
+DDIC-027-C1,DDIC-027-C1-F02,Control family,Negative,DD City,Negative
+DDIC-027-C2,DDIC-027-C2-F02,Control family,Negative,DD City,Positive
+DDIC-027-C2,DDIC-027-C2-F03,Control family,Negative,DD City,Positive
+DDIC-027-C2,DDIC-027-C2-F04,Control family,Negative,DD City,Positive
+DDIC-028,DDIC-028-F02,Index family,Positive,DD City,Positive
+DDIC-028,DDIC-028-F03,Index family,Negative,DD City,Negative
+DDIC-028,DDIC-028-F04,Index family,Negative,DD City,Negative
+DDIC-028-C1,DDIC-028-C1-F02,Control family,Negative,DD City,Negative
+DDIC-029,DDIC-029-F02,Index family,Negative,DD City,Positive
+DDIC-029,DDIC-029-F03,Index family,Negative,DD City,Negative
+DDIC-029-C1,DDIC-029-C1-F03,Control family,Negative,DD City,Negative
+DDIC-029-C1,DDIC-029-C1-F02,Control family,Negative,DD City,Negative
+DDIC-030,DDIC-030-F02,Index family,Positive,DD City,Positive
+DDIC-030-C1,DDIC-030-C1-F03,Control family,Negative,DD City,Negative
+DDIC-030-C1,DDIC-030-C1-F02,Control family,Negative,DD City,Negative
+DDIC-030-C2,DDIC-030-C2-F03,Control family,Negative,DD City,Negative
+DDIC-030-C2,DDIC-030-C2-F02,Control family,Negative,DD City,Negative
+DDIC-030-C3,DDIC-030-C3-F03,Control family,Negative,DD City,Negative
+DDIC-030-C3,DDIC-030-C3-F02,Control family,Negative,DD City,Negative
+DDIC-030-C3,DDIC-030-C3-F05,Control family,Negative,DD City,Negative
+DDIC-030-C3,DDIC-030-C3-F04,Control family,Negative,DD City,Negative
+DDIC-031,DDIC-031-F03,Index family,Negative,DD City,Negative
+DDIC-031,DDIC-031-F02,Index family,Negative,DD City,Negative
+DDIC-031,DDIC-031-F04,Index family,Negative,DD City,Negative
+DDIC-031,DDIC-031-F05,Index family,Negative,DD City,Negative
+DDIC-031-C2,DDIC-031-C2-F02,Control family,Negative,DD City,Negative
+DDIC-031-C3,DDIC-031-C3-F02,Control family,Negative,DD City,Negative
+DDIC-031-C3,DDIC-031-C3-F03,Control family,,DD City,
+DDIC-032,DDIC-032-F03,Index family,Positive,DD City,Positive
+DDIC-032,DDIC-032-F05,Index family,Negative,DD City,Negative
+DDIC-032,DDIC-032-F04,Index family,Positive,DD City,Positive
+DDIC-032,DDIC-032-F02,Index family,Positive,DD City,Positive
+DDIC-032-C1,DDIC-032-C1-F03,Control family,Negative,DD City,Negative
+DDIC-032-C1,DDIC-032-C1-F02,Control family,Negative,DD City,Negative
+DDIC-032-C1,DDIC-032-C1-F04,Control family,Negative,DD City,Negative
+DDIC-032-C2,DDIC-032-C2-F06,Control family,Positive,DD City,
+DDIC-032-C2,DDIC-032-C2-F05,Control family,Negative,DD City,
+DDIC-032-C2,DDIC-032-C2-F04,Control family,Positive,DD City,
+DDIC-032-C2,DDIC-032-C2-F03,Control family,Negative,DD City,
+DDIC-032-C2,DDIC-032-C2-F07,Control family,Negative,DD City,
+DDIC-032-C2,DDIC-032-C2-F02,Control family,Positive,DD City,
+DDIC-033,DDIC-033-F04,Index family,Positive,DD City,Positive
+DDIC-033,DDIC-033-F03,Index family,Negative,DD City,
+DDIC-033,DDIC-033-F02,Index family,Negative,DD City,Negative
+DDIC-033-C1,DDIC-033-C1-F04,Control family,Negative,DD City,Negative
+DDIC-033-C1,DDIC-033-C1-F03,Control family,Negative,DD City,Negative
+DDIC-033-C1,DDIC-033-C1-F02,Control family,Negative,DD City,Negative
+DDIC-033-C2,DDIC-033-C2-F03,Control family,Negative,DD City,Negative
+DDIC-033-C2,DDIC-033-C2-F02,Control family,Negative,DD City,Negative
+DDIC-033-C2,DDIC-033-C2-F04,Control family,Negative,DD City,Negative
+DDIC-034,DDIC-034-F02,Index family,Negative,DD City,Negative
+DDIC-034,DDIC-034-F03,Index family,Negative,DD City,Negative
+DDIC-034,DDIC-034-F05,Index family,Negative,DD City,Negative
+DDIC-034,DDIC-034-F04,Index family,Negative,DD City,Negative
+DDIC-034-C2,DDIC-034-C2-F02,Control family,Negative,DD City,
+DDIC-034-C2,DDIC-034-C2-F03,Control family,Negative,DD City,Negative
+DDIC-034-C3,DDIC-034-C3-F04,Control family,Negative,DD City,Negative
+DDIC-034-C3,DDIC-034-C3-F03,Control family,Negative,DD City,Negative
+DDIC-034-C3,DDIC-034-C3-F02,Control family,Negative,DD City,Negative
+DDIC-035-C1,DDIC-035-C1-F02,Control family,Negative,DD City,Negative
+DDIC-035-C1,DDIC-035-C1-F03,Control family,Negative,DD City,Negative
+DDIC-035-C2,DDIC-035-C2-F02,Control family,Negative,DD City,Negative
+DDIC-035-C2,DDIC-035-C2-F03,Control family,Negative,DD City,Negative
+DDIC-035-C3,DDIC-035-C3-F02,Control family,Negative,DD City,Negative
+DDIC-036,DDIC-036-F02,Index family,Positive,DD City,Positive
+DDIC-036-C2,DDIC-036-C2-F03,Control family,Negative,DD City,Negative
+DDIC-036-C2,DDIC-036-C2-F02,Control family,Negative,DD City,Negative
+DDIC-037,DDIC-037-F03,Index family,Negative,DD City,Negative
+DDIC-037,DDIC-037-F02,Index family,Negative,DD City,Negative
+DDIC-037-C2,DDIC-037-C2-F06,Index family,Negative,DD City,Positive
+DDIC-037-C2,DDIC-037-C2-F05,Index family,Negative,DD City,Negative
+DDIC-037-C2,DDIC-037-C2-F04,Index family,Negative,DD City,Positive
+DDIC-037-C2,DDIC-037-C2-F02,Index family,Negative,DD City,Positive
+DDIC-037-C2,DDIC-037-C2-F07,Index family,Negative,DD City,Negative
+DDIC-037-C2,DDIC-037-C2-F03,Index family,Negative,DD City,Positive
+DDIC-038,DDIC-038-F03,Index family,Negative,DD City,Negative
+DDIC-038,DDIC-038-F02,Index family,Positive,DD City,Positive
+DDIC-038-C1,DDIC-038-C1-F03,Control family,Negative,DD City,Negative
+DDIC-038-C1,DDIC-038-C1-F05,Control family,Negative,DD City,Negative
+DDIC-038-C1,DDIC-038-C1-F02,Control family,Negative,DD City,Negative
+DDIC-038-C1,DDIC-038-C1-F06,Control family,Negative,DD City,Negative
+DDIC-038-C1,DDIC-038-C1-F07,Control family,Negative,DD City,Negative
+DDIC-038-C1,DDIC-038-C1-F04,Control family,Negative,DD City,Negative
+DDIC-038-C2,DDIC-038-C2-F02,Control family,Negative,DD City,Negative
+DDIC-038-C3,DDIC-038-C3-F02,Control family,Negative,DD City,Negative
+DDIC-039,DDIC-039-F02,Index family,Negative,DD City,Negative
+DDIC-039-C2,DDIC-039-C2-F02,Control family,Negative,DD City,Negative
+DDIC-040,DDIC-040-F04,Index family,Negative,DD City,Negative
+DDIC-040,DDIC-040-F05,Index family,Negative,DD City,Negative
+DDIC-040,DDIC-040-F06,Index family,Negative,DD City,Negative
+DDIC-040,DDIC-040-F02,Index family,Negative,DD City,Negative
+DDIC-040,DDIC-040-F03,Index family,Negative,DD City,Negative
+DDIC-040-C1,DDIC-040-C1-F02,Control family,Negative,DD City,Negative
+DDIC-040-C1,DDIC-040-C1-F03,Control family,Negative,DD City,Negative
+DDIC-041,DDIC-041-F04,Index family,Negative,DD City,Negative
+DDIC-041,DDIC-041-F03,Index family,Negative,DD City,Negative
+DDIC-041,DDIC-041-F02,Index family,Negative,DD City,Negative
+DDIC-041-C1,DDIC-041-C1-F03,Control family,Negative,DD City,Negative
+DDIC-041-C1,DDIC-041-C1-F02,Control family,Negative,DD City,Positive
+DDIC-041-C2,DDIC-041-C2-F05,Control family,Negative,DD City,Negative
+DDIC-041-C2,DDIC-041-C2-F02,Control family,Negative,DD City,Negative
+DDIC-041-C2,DDIC-041-C2-F04,Control family,Negative,DD City,Negative
+DDIC-041-C2,DDIC-041-C2-F07,Control family,Negative,DD City,Negative
+DDIC-041-C2,DDIC-041-C2-F03,Control family,Negative,DD City,Negative
+DDIC-041-C2,DDIC-041-C2-F06,Control family,Negative,DD City,Negative
+DDIC-042,DDIC-042-F03,Index family,Positive,DD City,Positive
+DDIC-042,DDIC-042-F05,Index family,Negative,DD City,Negative
+DDIC-042,DDIC-042-F04,Index family,Positive,DD City,Positive
+DDIC-042,DDIC-042-F02,Index family,Negative,DD City,Positive
+DDIC-042-C1,DDIC-042-C1-F02,Control family,Negative,DD City,Negative
+DDIC-042-C2,DDIC-042-C2-F03,Control family,Negative,DD City,Negative
+DDIC-042-C2,DDIC-042-C2-F02,Control family,Negative,DD City,Negative
+DDIC-043,DDIC-043-F03,Index family,Negative,DD City,Negative
+DDIC-043,DDIC-043-F02,Index family,Positive,DD City,Positive
+DDIC-043-C2,DDIC-043-C2-F03,Control family,Negative,DD City,Negative
+DDIC-043-C2,DDIC-043-C2-F02,Control family,Negative,DD City,Negative
+DDIC-043-C2,DDIC-043-C2-F04,Control family,Negative,DD City,Negative
+DDIC-043-C3,DDIC-043-C3-F02,Control family,Negative,DD City,Negative
+DDIC-044,DDIC-044-F03,Index family,Positive,DD City,Positive
+DDIC-044,DDIC-044-F02,Index family,Negative,DD City,Negative
+DDIC-044-C1,DDIC-044-C1-F03,Control family,Negative,DD City,Negative
+DDIC-044-C1,DDIC-044-C1-F02,Control family,Negative,DD City,Negative
+DDIC-044-C1,DDIC-044-C1-F04,Control family,Negative,DD City,Negative
+DDIC-044-C2,DDIC-044-C2-F02,Control family,Negative,DD City,Negative
+DDIC-044-C3,DDIC-044-C3-F03,Control family,Negative,DD City,Negative
+DDIC-044-C3,DDIC-044-C3-F02,Control family,Negative,DD City,Negative
+DDIC-044-C3,DDIC-044-C3-F05,Control family,Negative,DD City,Negative
+DDIC-044-C3,DDIC-044-C3-F04,Control family,Negative,DD City,Negative
+DDIC-045,DDIC-045-F02,Index family,Negative,DD City,Negative
+DDIC-045-C1,DDIC-045-C1-F02,Control family,Negative,DD City,Negative
+DDIC-045-C2,DDIC-045-C2-F04,Control family,,DD City,
+DDIC-045-C2,DDIC-045-C2-F02,Control family,Negative,DD City,Negative
+DDIC-045-C2,DDIC-045-C2-F03,Control family,Negative,DD City,Negative
+DDIC-045-C3,DDIC-045-C3-F02,Index family,Negative,DD City,Negative
+DDIC-045-C3,DDIC-045-C3-F03,Index family,,DD City,
+DDIC-045-C3,DDIC-045-C3-F04,Index family,,DD City,
+DDUIC-001,DDUIC-001-F02,Index family,Negative,DDU,Negative
+DDUIC-001-C1,DDUIC-001-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-001-C1,DDUIC-001-C1-F02,Control family,Positive,DDU,Negative
+DDUIC-001-C2,DDUIC-001-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-001-C2,DDUIC-001-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-001-C3,DDUIC-001-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-001-C3,DDUIC-001-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-002,DDUIC-002-F02,Index family,Negative,DDU,Negative
+DDUIC-002-C3,DDUIC-002-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-002-C3,DDUIC-002-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-003,DDUIC-003-F03,Index family,Negative,DDU,Negative
+DDUIC-003,DDUIC-003-F02,Index family,Positive,DDU,Positive
+DDUIC-003-C3,DDUIC-003-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-004-C1,DDUIC-004-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-004-C2,DDUIC-004-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-004-C2,DDUIC-004-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-004-C3,DDUIC-004-C3-F02,Control family,Negative,DDU,Positive
+DDUIC-008,DDUIC-008-F03,Index family,Negative,DDU,Negative
+DDUIC-008,DDUIC-008-F02,Index family,Negative,DDU,Positive
+DDUIC-008-C1,DDUIC-008-C1-F02,Control family,Positive,DDU,Positive
+DDUIC-008-C2,DDUIC-008-C2-F02,Index family,Positive,DDU,Positive
+DDUIC-008-C3,DDUIC-008-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-008-C3,DDUIC-008-C3-F03,Control family,Negative,DDU,Positive
+DDUIC-008-C3,DDUIC-008-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-009,DDUIC-009-F02,Index family,Negative,DDU,Negative
+DDUIC-009,DDUIC-009-F03,Index family,Positive,DDU,Positive
+DDUIC-009-C2,DDUIC-009-C2-F02,Index family,Negative,DDU,Negative
+DDUIC-010-C1,DDUIC-010-C1-F02,Index family,Positive,DDU,Negative
+DDUIC-012,DDUIC-012-F02,Index family,Positive,DDU,Positive
+DDUIC-012-C1,DDUIC-012-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-012-C2,DDUIC-012-C2-F02,Control family,Positive,DDU,Negative
+DDUIC-013-C1,DDUIC-013-C1-F02,Control family,Negative,DDU,Positive
+DDUIC-013-C3,DDUIC-013-C3-F03,Index family,Positive,DDU,Negative
+DDUIC-013-C3,DDUIC-013-C3-F02,Index family,Negative,DDU,Negative
+DDUIC-014,DDUIC-014-F03,Index family,Positive,DDU,Negative
+DDUIC-014,DDUIC-014-F02,Index family,Positive,DDU,Negative
+DDUIC-014-C1,DDUIC-014-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-015-C1,DDUIC-015-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-015-C3,DDUIC-015-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-015-C3,DDUIC-015-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-016,DDUIC-016-F02,Index family,Negative,DDU,Negative
+DDUIC-016,DDUIC-016-F03,Index family,Negative,DDU,Negative
+DDUIC-016-C1,DDUIC-016-C1-F02,Index family,Negative,DDU,Negative
+DDUIC-016-C2,DDUIC-016-C2-F03,Control family,Negative,DDU,Positive
+DDUIC-016-C2,DDUIC-016-C2-F02,Control family,Positive,DDU,Positive
+DDUIC-017,DDUIC-017-F03,Index family,Negative,DDU,Negative
+DDUIC-017,DDUIC-017-F02,Index family,Negative,DDU,Negative
+DDUIC-017,DDUIC-017-F04,Index family,Positive,DDU,Negative
+DDUIC-017-C1,DDUIC-017-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-017-C1,DDUIC-017-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-017-C1,DDUIC-017-C1-F05,Control family,Positive,DDU,Positive
+DDUIC-017-C1,DDUIC-017-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-017-C2,DDUIC-017-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-017-C2,DDUIC-017-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-017-C3,DDUIC-017-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-017-C3,DDUIC-017-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-017-C3,DDUIC-017-C3-F06,Control family,Negative,DDU,Negative
+DDUIC-017-C3,DDUIC-017-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-017-C3,DDUIC-017-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-018,DDUIC-018-F04,Index family,Negative,DDU,Negative
+DDUIC-018,DDUIC-018-F02,Index family,Negative,DDU,Negative
+DDUIC-018,DDUIC-018-F03,Index family,Negative,DDU,Negative
+DDUIC-018-C1,DDUIC-018-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-018-C1,DDUIC-018-C1-F04,Control family,Positive,DDU,Positive
+DDUIC-018-C1,DDUIC-018-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-018-C2,DDUIC-018-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-018-C2,DDUIC-018-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-018-C2,DDUIC-018-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-018-C3,DDUIC-018-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-018-C3,DDUIC-018-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-019,DDUIC-019-F03,Index family,Positive,DDU,Positive
+DDUIC-019,DDUIC-019-F02,Index family,Negative,DDU,Negative
+DDUIC-019,DDUIC-019-F04,Index family,Negative,DDU,Negative
+DDUIC-019,DDUIC-019-F06,Index family,Negative,DDU,Negative
+DDUIC-019,DDUIC-019-F05,Index family,Negative,DDU,Negative
+DDUIC-019-C1,DDUIC-019-C1-F02,Index family,Negative,DDU,Positive
+DDUIC-019-C1,DDUIC-019-C1-F03,Index family,Negative,DDU,Negative
+DDUIC-019-C1,DDUIC-019-C1-F05,Index family,Negative,DDU,Negative
+DDUIC-019-C1,DDUIC-019-C1-F04,Index family,Negative,DDU,Negative
+DDUIC-019-C2,DDUIC-019-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-019-C2,DDUIC-019-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-019-C2,DDUIC-019-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-020,DDUIC-020-F02,Index family,Negative,DDU,Negative
+DDUIC-020,DDUIC-020-F03,Index family,Negative,DDU,Positive
+DDUIC-020-C1,DDUIC-020-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-020-C1,DDUIC-020-C1-F02,Control family,Positive,DDU,Positive
+DDUIC-020-C1,DDUIC-020-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-020-C2,DDUIC-020-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-020-C2,DDUIC-020-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-020-C2,DDUIC-020-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-020-C3,DDUIC-020-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-020-C3,DDUIC-020-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-020-C3,DDUIC-020-C3-F06,Control family,Negative,DDU,Negative
+DDUIC-020-C3,DDUIC-020-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-020-C3,DDUIC-020-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-021,DDUIC-021-F03,Index family,Negative,DDU,Negative
+DDUIC-021,DDUIC-021-F02,Index family,Negative,DDU,Negative
+DDUIC-021-C1,DDUIC-021-C1-F04,Index family,Negative,DDU,Negative
+DDUIC-021-C1,DDUIC-021-C1-F03,Index family,Negative,DDU,Negative
+DDUIC-021-C1,DDUIC-021-C1-F02,Index family,Negative,DDU,Positive
+DDUIC-021-C2,DDUIC-021-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-021-C2,DDUIC-021-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-021-C3,DDUIC-021-C3-F02,Control family,Positive,DDU,Positive
+DDUIC-021-C3,DDUIC-021-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-022,DDUIC-022-F03,Index family,Positive,DDU,Negative
+DDUIC-022,DDUIC-022-F02,Index family,Negative,DDU,Negative
+DDUIC-022,DDUIC-022-F04,Index family,Negative,DDU,Negative
+DDUIC-022-C1,DDUIC-022-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-022-C1,DDUIC-022-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-022-C2,DDUIC-022-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-022-C2,DDUIC-022-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-022-C3,DDUIC-022-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-022-C3,DDUIC-022-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-022-C3,DDUIC-022-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-022-C3,DDUIC-022-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-023,DDUIC-023-F02,Index family,Negative,DDU,Negative
+DDUIC-023,DDUIC-023-F03,Index family,Negative,DDU,Negative
+DDUIC-023-C1,DDUIC-023-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-023-C1,DDUIC-023-C1-F05,Control family,Negative,DDU,Negative
+DDUIC-023-C1,DDUIC-023-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-023-C1,DDUIC-023-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-023-C2,DDUIC-023-C2-F05,Control family,Negative,DDU,Negative
+DDUIC-023-C2,DDUIC-023-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-023-C2,DDUIC-023-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-023-C2,DDUIC-023-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-023-C3,DDUIC-023-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-023-C3,DDUIC-023-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-024,DDUIC-024-F02,Index family,Negative,DDU,Negative
+DDUIC-024,DDUIC-024-F04,Index family,Negative,DDU,Negative
+DDUIC-024,DDUIC-024-F03,Index family,Negative,DDU,Negative
+DDUIC-024-C1,DDUIC-024-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-024-C1,DDUIC-024-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-024-C2,DDUIC-024-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-024-C2,DDUIC-024-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-024-C2,DDUIC-024-C2-F05,Control family,Negative,DDU,Positive
+DDUIC-024-C2,DDUIC-024-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-024-C3,DDUIC-024-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-024-C3,DDUIC-024-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-024-C3,DDUIC-024-C3-F04,Control family,Positive,DDU,Positive
+DDUIC-024-C3,DDUIC-024-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-025,DDUIC-025-F03,Index family,Negative,DDU,Negative
+DDUIC-025,DDUIC-025-F04,Index family,Negative,DDU,Negative
+DDUIC-025,DDUIC-025-F02,Index family,Negative,DDU,Negative
+DDUIC-025-C1,DDUIC-025-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-025-C1,DDUIC-025-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-025-C1,DDUIC-025-C1-F04,Control family,Negative,DDU,Positive
+DDUIC-025-C2,DDUIC-025-C2-F05,Control family,Negative,DDU,Negative
+DDUIC-025-C2,DDUIC-025-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-025-C2,DDUIC-025-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-025-C2,DDUIC-025-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-025-C3,DDUIC-025-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-025-C3,DDUIC-025-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-026,DDUIC-026-F03,Index family,Positive,DDU,Positive
+DDUIC-026,DDUIC-026-F02,Index family,Negative,DDU,Negative
+DDUIC-026,DDUIC-026-F04,Index family,Negative,DDU,Negative
+DDUIC-026-C1,DDUIC-026-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-026-C1,DDUIC-026-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-026-C2,DDUIC-026-C2-F05,Control family,Negative,DDU,Negative
+DDUIC-026-C2,DDUIC-026-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-026-C2,DDUIC-026-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-026-C2,DDUIC-026-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-026-C3,DDUIC-026-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-026-C3,DDUIC-026-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-027,DDUIC-027-F03,Index family,Negative,DDU,Negative
+DDUIC-027,DDUIC-027-F05,Index family,Negative,DDU,Positive
+DDUIC-027,DDUIC-027-F04,Index family,Negative,DDU,Negative
+DDUIC-027,DDUIC-027-F02,Index family,Negative,DDU,Negative
+DDUIC-027,DDUIC-027-F06,Index family,Negative,DDU,Negative
+DDUIC-027-C1,DDUIC-027-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-027-C1,DDUIC-027-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-027-C1,DDUIC-027-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-027-C2,DDUIC-027-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-027-C2,DDUIC-027-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-027-C2,DDUIC-027-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-027-C3,DDUIC-027-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-027-C3,DDUIC-027-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-027-C3,DDUIC-027-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-028,DDUIC-028-F03,Index family,Negative,DDU,Negative
+DDUIC-028,DDUIC-028-F02,Index family,Negative,DDU,Negative
+DDUIC-028-C1,DDUIC-028-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-028-C1,DDUIC-028-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-028-C1,DDUIC-028-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-028-C2,DDUIC-028-C2-F05,Control family,Negative,DDU,Negative
+DDUIC-028-C2,DDUIC-028-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-028-C2,DDUIC-028-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-028-C2,DDUIC-028-C2-F06,Control family,Negative,DDU,Negative
+DDUIC-028-C2,DDUIC-028-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-028-C3,DDUIC-028-C3-F02,Index family,Negative,DDU,Negative
+DDUIC-028-C3,DDUIC-028-C3-F03,Index family,Positive,DDU,Positive
+DDUIC-029,DDUIC-029-F05,Index family,Negative,DDU,Negative
+DDUIC-029,DDUIC-029-F03,Index family,Negative,DDU,Negative
+DDUIC-029,DDUIC-029-F04,Index family,Negative,DDU,Positive
+DDUIC-029,DDUIC-029-F02,Index family,Positive,DDU,Positive
+DDUIC-029-C1,DDUIC-029-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-029-C1,DDUIC-029-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-029-C1,DDUIC-029-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-029-C1,DDUIC-029-C1-F05,Control family,Negative,DDU,Negative
+DDUIC-029-C2,DDUIC-029-C2-F03,Control family,Positive,DDU,Positive
+DDUIC-029-C2,DDUIC-029-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-029-C3,DDUIC-029-C3-F04,Index family,Negative,DDU,Negative
+DDUIC-029-C3,DDUIC-029-C3-F02,Index family,Negative,DDU,Negative
+DDUIC-029-C3,DDUIC-029-C3-F03,Index family,Negative,DDU,Negative
+DDUIC-030,DDUIC-030-F02,Index family,Negative,DDU,Negative
+DDUIC-030,DDUIC-030-F06,Index family,Negative,DDU,Negative
+DDUIC-030,DDUIC-030-F05,Index family,Negative,DDU,Negative
+DDUIC-030,DDUIC-030-F04,Index family,Negative,DDU,Positive
+DDUIC-030,DDUIC-030-F03,Index family,Negative,DDU,Negative
+DDUIC-030-C1,DDUIC-030-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-030-C1,DDUIC-030-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-030-C1,DDUIC-030-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-030-C2,DDUIC-030-C2-F03,Index family,Positive,DDU,Positive
+DDUIC-030-C2,DDUIC-030-C2-F04,Index family,Negative,DDU,Negative
+DDUIC-030-C2,DDUIC-030-C2-F02,Index family,Negative,DDU,Negative
+DDUIC-030-C2,DDUIC-030-C2-F05,Index family,Negative,DDU,Negative
+DDUIC-030-C3,DDUIC-030-C3-F03,Index family,Negative,DDU,Negative
+DDUIC-030-C3,DDUIC-030-C3-F05,Index family,Negative,DDU,Negative
+DDUIC-030-C3,DDUIC-030-C3-F02,Index family,Negative,DDU,Negative
+DDUIC-030-C3,DDUIC-030-C3-F04,Index family,Negative,DDU,Negative
+DDUIC-031,DDUIC-031-F04,Index family,Negative,DDU,Negative
+DDUIC-031,DDUIC-031-F02,Index family,Negative,DDU,Negative
+DDUIC-031,DDUIC-031-F03,Index family,Negative,DDU,Negative
+DDUIC-031-C1,DDUIC-031-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-031-C1,DDUIC-031-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-031-C1,DDUIC-031-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-031-C2,DDUIC-031-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-031-C2,DDUIC-031-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-031-C2,DDUIC-031-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-031-C3,DDUIC-031-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-031-C3,DDUIC-031-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-031-C3,DDUIC-031-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-032,DDUIC-032-F03,Index family,Negative,DDU,Negative
+DDUIC-032,DDUIC-032-F04,Index family,Negative,DDU,Negative
+DDUIC-032,DDUIC-032-F02,Index family,Negative,DDU,Negative
+DDUIC-032-C1,DDUIC-032-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-032-C1,DDUIC-032-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-032-C1,DDUIC-032-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-032-C2,DDUIC-032-C2-F04,Control family,Positive,DDU,Positive
+DDUIC-032-C2,DDUIC-032-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-032-C2,DDUIC-032-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-032-C3,DDUIC-032-C3-F02,Index family,Negative,DDU,Negative
+DDUIC-032-C3,DDUIC-032-C3-F03,Index family,Positive,DDU,Positive
+DDUIC-033,DDUIC-033-F04,Index family,Negative,DDU,Negative
+DDUIC-033,DDUIC-033-F03,Index family,Negative,DDU,Negative
+DDUIC-033,DDUIC-033-F02,Index family,Negative,DDU,Negative
+DDUIC-033-C1,DDUIC-033-C1-F04,Index family,Negative,DDU,Positive
+DDUIC-033-C1,DDUIC-033-C1-F05,Index family,Negative,DDU,Negative
+DDUIC-033-C1,DDUIC-033-C1-F02,Index family,Negative,DDU,Negative
+DDUIC-033-C1,DDUIC-033-C1-F03,Index family,Negative,DDU,Negative
+DDUIC-033-C2,DDUIC-033-C2-F05,Control family,Negative,DDU,Negative
+DDUIC-033-C2,DDUIC-033-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-033-C2,DDUIC-033-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-033-C2,DDUIC-033-C2-F06,Control family,Negative,DDU,Negative
+DDUIC-033-C2,DDUIC-033-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-033-C3,DDUIC-033-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-033-C3,DDUIC-033-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-033-C3,DDUIC-033-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-033-C3,DDUIC-033-C3-F06,Control family,Negative,DDU,Negative
+DDUIC-033-C3,DDUIC-033-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-034,DDUIC-034-F02,Index family,Negative,DDU,Negative
+DDUIC-034,DDUIC-034-F03,Index family,Positive,DDU,Negative
+DDUIC-034-C1,DDUIC-034-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-034-C1,DDUIC-034-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-034-C1,DDUIC-034-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-034-C2,DDUIC-034-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-034-C2,DDUIC-034-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-034-C2,DDUIC-034-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-034-C3,DDUIC-034-C3-F04,Control family,,DDU,
+DDUIC-034-C3,DDUIC-034-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-034-C3,DDUIC-034-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-035,DDUIC-035-F02,Index family,Negative,DDU,Negative
+DDUIC-035,DDUIC-035-F05,Index family,Negative,DDU,Negative
+DDUIC-035,DDUIC-035-F03,Index family,Negative,DDU,Negative
+DDUIC-035,DDUIC-035-F04,Index family,Negative,DDU,Negative
+DDUIC-035-C1,DDUIC-035-C1-F04,Control family,Negative,DDU,Negative
+DDUIC-035-C1,DDUIC-035-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-035-C1,DDUIC-035-C1-F05,Control family,Negative,DDU,Negative
+DDUIC-035-C1,DDUIC-035-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-035-C2,DDUIC-035-C2-F04,Control family,Negative,DDU,Negative
+DDUIC-035-C2,DDUIC-035-C2-F02,Control family,Negative,DDU,Negative
+DDUIC-035-C2,DDUIC-035-C2-F03,Control family,Negative,DDU,Negative
+DDUIC-035-C3,DDUIC-035-C3-F05,Control family,Negative,DDU,Negative
+DDUIC-035-C3,DDUIC-035-C3-F03,Control family,Negative,DDU,Negative
+DDUIC-035-C3,DDUIC-035-C3-F02,Control family,Positive,DDU,Negative
+DDUIC-035-C3,DDUIC-035-C3-F04,Control family,Positive,DDU,Positive
+DDUIC-035-C3,DDUIC-035-C3-F06,Control family,Negative,DDU,Negative
+DDUIC-036,DDUIC-036-F04,Index family,Negative,DDU,Negative
+DDUIC-036,DDUIC-036-F03,Index family,Negative,DDU,Negative
+DDUIC-036,DDUIC-036-F02,Index family,Negative,DDU,Negative
+DDUIC-036-C1,DDUIC-036-C1-F03,Control family,Negative,DDU,Negative
+DDUIC-036-C1,DDUIC-036-C1-F04,Control family,Negative,DDU,Positive
+DDUIC-036-C1,DDUIC-036-C1-F02,Control family,Negative,DDU,Negative
+DDUIC-036-C2,DDUIC-036-C2-F03,Index family,Negative,DDU,Negative
+DDUIC-036-C2,DDUIC-036-C2-F02,Index family,Negative,DDU,Negative
+DDUIC-036-C3,DDUIC-036-C3-F02,Control family,Negative,DDU,Negative
+DDUIC-036-C3,DDUIC-036-C3-F04,Control family,Negative,DDU,Negative
+DDUIC-036-C3,DDUIC-036-C3-F03,Control family,Negative,DDU,Negative
