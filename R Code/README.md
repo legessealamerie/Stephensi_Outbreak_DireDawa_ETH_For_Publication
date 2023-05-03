@@ -1,6 +1,6 @@
 ### Analysis code used in the paper for table output and figures
 
-To generate the tables and figures, run the following
+To generate the tables and figures run the following
 
 ```
 Table1_Fig1B_GLMM_analysis.R
