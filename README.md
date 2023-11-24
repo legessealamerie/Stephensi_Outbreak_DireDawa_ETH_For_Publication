@@ -1,2 +1,2 @@
 
-Repository of data and R script for the paper "Anopheles stephensi is implicated in an outbreak of Plasmodium falciparum parasites that carry markers of drug and diagnostic resistance in Dire Dawa City, Ethiopia, January–July 2022"
+Repository of data and R script for the paper "Evidence for a role of Anopheles stephensi in the spread of drug- and diagnosis-resistant malaria in Africa"
